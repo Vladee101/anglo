@@ -1,39 +1,54 @@
 {
   "id": "read-numbers",
   "title_ru": "Чтение: числа и время",
-  "level": "A1",
   "modality": "read",
   "items": [
     {
       "id": "read-numbers.1",
       "en": "One, two, three",
       "ru": "Один, два, три",
-      "accepted_en": ["One, two, three"],
-      "trap_distractors_ru": ["Четыре, пять, шесть"]
+      "accepted_en": [
+        "One, two, three"
+      ],
+      "trap_distractors_ru": [
+        "Четыре, пять, шесть"
+      ]
     },
     {
       "id": "read-numbers.2",
       "en": "How old are you?",
       "ru": "Сколько тебе лет?",
-      "accepted_en": ["How old are you?", "How old are you"]
+      "accepted_en": [
+        "How old are you?",
+        "How old are you"
+      ]
     },
     {
       "id": "read-numbers.3",
       "en": "I am twenty years old",
       "ru": "Мне двадцать лет",
-      "accepted_en": ["I am twenty years old", "I'm twenty years old"]
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ]
     },
     {
       "id": "read-numbers.4",
       "en": "What time is it?",
       "ru": "Который час?",
-      "accepted_en": ["What time is it?", "What time is it"]
+      "accepted_en": [
+        "What time is it?",
+        "What time is it"
+      ]
     },
     {
       "id": "read-numbers.5",
       "en": "It's ten o'clock",
       "ru": "Сейчас десять часов",
-      "accepted_en": ["It's ten o'clock", "It is ten o'clock"]
+      "accepted_en": [
+        "It's ten o'clock",
+        "It is ten o'clock"
+      ]
     }
   ]
 }

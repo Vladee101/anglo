@@ -5,7 +5,6 @@ import type { Playlist, StepProgress } from '../../types'
 const mixedPlaylist: Playlist = {
   id: 'want-water',
   title_ru: 'т',
-  level: 'A1',
   items: [
     { id: 'want-water.1', en: 'I want', ru: 'Я хочу', accepted_en: ['I want'] },
     { id: 'want-water.2', en: 'I want water', ru: 'Я хочу воды', accepted_en: ['I want water'] },
@@ -16,7 +15,6 @@ const mixedPlaylist: Playlist = {
 const drillPlaylist: Playlist = {
   id: 'read-basics',
   title_ru: 'т',
-  level: 'A1',
   items: [
     { id: 'read-basics.1', en: 'Hello', ru: 'Привет', accepted_en: ['Hello'] },
     { id: 'read-basics.2', en: 'Thank you', ru: 'Спасибо', accepted_en: ['Thank you'] },

@@ -1,12 +1,10 @@
-import type { Level, ManifestEntry, Mode, Playlist, StepProgress } from './types'
+import type { ManifestEntry, Mode, Playlist, StepProgress } from './types'
 import { findResume } from './lib/playlist'
 import { pluralizeRu } from './lib/pluralRu'
 
 interface Props {
   mode: Mode
   onModeChange: (mode: Mode) => void
-  level: Level
-  onLevelChange: (level: Level) => void
   bucket: ManifestEntry[]
   unit: ManifestEntry | null
   onUnitChange: (id: string) => void
@@ -26,13 +24,9 @@ const MODE_OPTIONS: { mode: Mode; label: string }[] = [
   { mode: 'speak', label: 'Speak' },
 ]
 
-const LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
-
 export function TitleScreen({
   mode,
   onModeChange,
-  level,
-  onLevelChange,
   bucket,
   unit,
   onUnitChange,
@@ -60,21 +54,9 @@ export function TitleScreen({
         ))}
       </div>
 
-      <div className="level-picker">
-        {LEVELS.map((lvl) => (
-          <button
-            key={lvl}
-            className={'level-option' + (lvl === level ? ' active' : '')}
-            onClick={() => onLevelChange(lvl)}
-          >
-            {lvl}
-          </button>
-        ))}
-      </div>
-
       {bucket.length === 0 && (
         <p className="notice">
-          Материалы для этого уровня и режима пока не добавлены.
+          Материалы для этого режима пока не добавлены.
         </p>
       )}
 

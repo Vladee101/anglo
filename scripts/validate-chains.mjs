@@ -6,7 +6,7 @@
  * Exit 0 = all chains valid; exit 1 = contract violations (printed to stderr).
  *
  * Enforced contract (approved design decisions):
- *   C1  chain.id is kebab-case; title_ru and level present; >= 2 steps
+ *   C1  chain.id is kebab-case; title_ru present; >= 2 steps
  *   C2  step ids are `${chain.id}.${n}` with n sequential from 1
  *   C3  audio path is exactly `audio/${step.id}.mp3`
  *   C4  en, ru, new_part non-empty; accepted_en non-empty and includes en
@@ -77,7 +77,6 @@ function validateChain(chain, file, errors, assets, expectedAudioFiles) {
   if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(chain.id ?? ""))
     err(`chain.id "${chain.id}" is not kebab-case`);
   if (!chain.title_ru?.trim()) err(`title_ru is missing or empty`);
-  if (!chain.level?.trim()) err(`level is missing or empty`);
   if (!Array.isArray(chain.steps) || chain.steps.length < 2) {
     err(`steps must be an array with >= 2 entries`);
     return; // nothing else is checkable

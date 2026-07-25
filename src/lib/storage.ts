@@ -1,4 +1,4 @@
-import type { Level, Mode, StepProgress } from '../types'
+import type { Mode, StepProgress } from '../types'
 
 const progressKey = (id: string) => `esl-progress:${id}`
 const SETTINGS_KEY = 'esl-settings'
@@ -25,7 +25,6 @@ export function clearProgress(id: string): void {
 interface Settings {
   showTimer: boolean
   mode: Mode
-  level: Level
 }
 
 function loadSettings(): Partial<Settings> {
@@ -55,12 +54,4 @@ export function loadMode(): Mode {
 
 export function saveMode(mode: Mode): void {
   saveSettings({ mode })
-}
-
-export function loadLevel(): Level {
-  return loadSettings().level ?? 'A1'
-}
-
-export function saveLevel(level: Level): void {
-  saveSettings({ level })
 }

@@ -307,21 +307,3 @@ button.subtle {
   width: 100%;
   text-align: left;
 }
-
-.level-picker {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.level-option {
-  border-radius: 999px;
-  padding: 6px 14px;
-  font-size: 0.95rem;
-}
-
-.level-option.active {
-  background: #7c3aed;
-  border-color: #7c3aed;
-  color: #fff;
-}

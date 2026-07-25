@@ -1,7 +1,5 @@
 export type Modality = 'read' | 'listen' | 'write' | 'speak'
 
-export type Level = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2'
-
 /** Shared shape consumed by every exercise component, regardless of source. */
 export interface QuizItem {
   id: string
@@ -15,7 +13,6 @@ export interface QuizItem {
 export interface Chain {
   id: string
   title_ru: string
-  level: string
   steps: Step[]
 }
 
@@ -32,7 +29,6 @@ export interface DrillItem extends QuizItem {}
 export interface Drill {
   id: string
   title_ru: string
-  level: string
   modality: Modality
   items: DrillItem[]
 }
@@ -44,7 +40,6 @@ export interface Drill {
 export interface Playlist {
   id: string
   title_ru: string
-  level: string
   items: QuizItem[]
   modalities: readonly Modality[]
 }
@@ -56,7 +51,6 @@ export type Mode = 'mixed' | Modality
 export interface ManifestEntry {
   id: string
   title_ru: string
-  level: string
   file: string
 }
 

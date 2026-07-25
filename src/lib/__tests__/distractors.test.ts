@@ -65,7 +65,6 @@ describe('sampleDistractors', () => {
     const dupChain: Chain = {
       id: 'dup',
       title_ru: 'т',
-      level: 'A1',
       steps: [
         {
           id: 'dup.1', en: 'a', ru: 'РУ1', accepted_en: ['a'], new_part: 'a',

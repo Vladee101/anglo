@@ -21,7 +21,6 @@ if (existsSync(DRILLS_DIR)) cpSync(DRILLS_DIR, join(PUBLIC_DIR, 'drills'), { rec
 interface ManifestEntry {
   id: string
   title_ru: string
-  level: string
   file: string
 }
 
@@ -48,7 +47,6 @@ for (const { data: chain, file } of readJsonFiles(CHAINS_DIR)) {
   manifest.mixed.push({
     id: chain.id as string,
     title_ru: chain.title_ru as string,
-    level: chain.level as string,
     file: `chains/${file}`,
   })
 }
@@ -58,7 +56,6 @@ for (const { data: drill, file } of readJsonFiles(DRILLS_DIR)) {
   bucket?.push({
     id: drill.id as string,
     title_ru: drill.title_ru as string,
-    level: drill.level as string,
     file: `drills/${file}`,
   })
 }

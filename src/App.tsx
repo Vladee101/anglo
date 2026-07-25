@@ -1,15 +1,13 @@
 import { useEffect, useMemo, useState } from 'react'
-import type { Chain, Drill, Level, Manifest, ManifestEntry, Mode, Playlist, StepResult } from './types'
+import type { Chain, Drill, Manifest, ManifestEntry, Mode, Playlist, StepResult } from './types'
 import { MODALITIES } from './modalities'
 import { findResume, withResult } from './lib/playlist'
 import { createWebSpeechScorer } from './lib/webSpeechScorer'
 import {
   clearProgress,
-  loadLevel,
   loadMode,
   loadProgress,
   loadShowTimer,
-  saveLevel,
   saveMode,
   saveProgress,
   saveShowTimer,
@@ -75,7 +73,6 @@ async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist>
     return {
       id: data.id,
       title_ru: data.title_ru,
-      level: data.level,
       items: data.steps,
       modalities: MODALITIES,
     }
@@ -84,7 +81,6 @@ async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist>
   return {
     id: data.id,
     title_ru: data.title_ru,
-    level: data.level,
     items: data.items,
     modalities: [mode],
   }
@@ -97,7 +93,6 @@ export default function App() {
   const [loadError, setLoadError] = useState<string | null>(null)
   const [screen, setScreen] = useState<Screen>('loading')
   const [mode, setMode] = useState<Mode>(loadMode)
-  const [level, setLevel] = useState<Level>(loadLevel)
   const [unitId, setUnitId] = useState<string | null>(null)
   const [playlist, setPlaylist] = useState<Playlist | null>(null)
   const [progress, setProgress] = useState<ReturnType<typeof loadProgress>>([])
@@ -128,7 +123,7 @@ export default function App() {
     }
   }, [])
 
-  const bucket = (manifest?.[mode] ?? []).filter((u) => u.level === level)
+  const bucket = manifest?.[mode] ?? []
   const unit = bucket.length === 1 ? bucket[0] : (bucket.find((u) => u.id === unitId) ?? null)
 
   // (Re)load the resolved unit's content + progress whenever it changes.
@@ -177,12 +172,6 @@ export default function App() {
   const changeMode = (next: Mode) => {
     setMode(next)
     saveMode(next)
-    setUnitId(null)
-  }
-
-  const changeLevel = (next: Level) => {
-    setLevel(next)
-    saveLevel(next)
     setUnitId(null)
   }
 
@@ -246,8 +235,6 @@ export default function App() {
       <TitleScreen
         mode={mode}
         onModeChange={changeMode}
-        level={level}
-        onLevelChange={changeLevel}
         bucket={bucket}
         unit={unit}
         onUnitChange={setUnitId}

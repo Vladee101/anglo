@@ -10,7 +10,7 @@
  * Exit 0 = all drills valid; exit 1 = contract violations (printed to stderr).
  *
  * Enforced contract:
- *   D1  drill.id is kebab-case; title_ru and level present;
+ *   D1  drill.id is kebab-case; title_ru present;
  *       modality is one of read/listen/write/speak; >= 1 item
  *   D2  item ids are `${drill.id}.${n}` with n sequential from 1
  *   D3  if item.audio is present, it is exactly `audio/${item.id}.mp3`
@@ -33,7 +33,6 @@ function validateDrill(drill, file, errors) {
   if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(drill.id ?? ""))
     err(`drill.id "${drill.id}" is not kebab-case`);
   if (!drill.title_ru?.trim()) err(`title_ru is missing or empty`);
-  if (!drill.level?.trim()) err(`level is missing or empty`);
   if (!MODALITIES.includes(drill.modality))
     err(`modality must be one of ${MODALITIES.join("/")}, got "${drill.modality}"`);
   if (!Array.isArray(drill.items) || drill.items.length < 1) {
