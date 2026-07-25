@@ -13,10 +13,13 @@ export interface QuizItem {
 export interface Chain {
   id: string
   title_ru: string
+  /** True (default) for additive chains built word-by-word; false for a flat
+   *  phrase list that's just walked through all 4 modalities per item. */
+  progressive?: boolean
   steps: Step[]
 }
 
-/** A chain step: additive/progressive content, played in Mixed mode. */
+/** A chain step: content played across all 4 modalities in Mixed mode. */
 export interface Step extends QuizItem {
   new_part: string
   audio: string
@@ -42,6 +45,7 @@ export interface Playlist {
   title_ru: string
   items: QuizItem[]
   modalities: readonly Modality[]
+  progressive?: boolean
 }
 
 /** A mode is Mixed (all 4 modalities) or a single-skill drill modality. */

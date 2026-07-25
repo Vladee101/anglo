@@ -1,4 +1,504 @@
 {
+  "basics.1": {
+    "en": "Hello",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.10": {
+    "en": "Sorry",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.100": {
+    "en": "Have a good trip",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.11": {
+    "en": "Excuse me",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.12": {
+    "en": "Nice to meet you",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.13": {
+    "en": "My name is",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.14": {
+    "en": "What is your name?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.15": {
+    "en": "I am fine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.16": {
+    "en": "Good evening",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.17": {
+    "en": "Good night",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.18": {
+    "en": "I don't understand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.19": {
+    "en": "I don't know",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.2": {
+    "en": "Thank you",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.20": {
+    "en": "Help me",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.21": {
+    "en": "I need help",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.22": {
+    "en": "Where is the bathroom?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.23": {
+    "en": "How much is this?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.24": {
+    "en": "I want water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.25": {
+    "en": "I am hungry",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.26": {
+    "en": "I am thirsty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.27": {
+    "en": "Where are you from?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.28": {
+    "en": "I am from Russia",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.29": {
+    "en": "What time is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.3": {
+    "en": "Good morning",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.30": {
+    "en": "See you tomorrow",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.31": {
+    "en": "Have a nice day",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.32": {
+    "en": "I love you",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.33": {
+    "en": "Take care",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.34": {
+    "en": "Good luck",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.35": {
+    "en": "What is this?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.36": {
+    "en": "Who is that?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.37": {
+    "en": "I like it",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.38": {
+    "en": "I don't like it",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.39": {
+    "en": "Wait for me",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.4": {
+    "en": "How are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.40": {
+    "en": "Come here",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.41": {
+    "en": "Sit down please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.42": {
+    "en": "Open the door",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.43": {
+    "en": "Close the window",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.44": {
+    "en": "I am tired",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.45": {
+    "en": "I am cold",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.46": {
+    "en": "I am hot",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.47": {
+    "en": "Speak slowly",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.48": {
+    "en": "I speak a little English",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.49": {
+    "en": "Can you repeat that?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.5": {
+    "en": "See you later",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.50": {
+    "en": "I don't speak English",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.51": {
+    "en": "How old are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.52": {
+    "en": "I am twenty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.53": {
+    "en": "Today is Monday",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.54": {
+    "en": "What day is today?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.55": {
+    "en": "I am busy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.56": {
+    "en": "I am free",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.57": {
+    "en": "I have a question",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.58": {
+    "en": "I have a problem",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.59": {
+    "en": "It is important",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.6": {
+    "en": "Goodbye",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.60": {
+    "en": "It is not important",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.61": {
+    "en": "Where do you live?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.62": {
+    "en": "I live in Moscow",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.63": {
+    "en": "What do you do?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.64": {
+    "en": "I am a student",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.65": {
+    "en": "I am a teacher",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.66": {
+    "en": "I work in an office",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.67": {
+    "en": "Do you speak English?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.68": {
+    "en": "I don't have time",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.69": {
+    "en": "I have time",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.7": {
+    "en": "Please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.70": {
+    "en": "I am lost",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.71": {
+    "en": "Can you help me?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.72": {
+    "en": "What does this mean?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.73": {
+    "en": "How do you say this in English?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.74": {
+    "en": "Write it down please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.75": {
+    "en": "Read this please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.76": {
+    "en": "I am learning English",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.77": {
+    "en": "That is good",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.78": {
+    "en": "That is bad",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.79": {
+    "en": "No problem",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.8": {
+    "en": "Yes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.80": {
+    "en": "You are welcome",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.81": {
+    "en": "I am happy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.82": {
+    "en": "I am sad",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.83": {
+    "en": "I am sick",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.84": {
+    "en": "I need a doctor",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.85": {
+    "en": "Call the police",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.86": {
+    "en": "I am sorry I am late",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.87": {
+    "en": "What is your phone number?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.88": {
+    "en": "My phone number is",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.89": {
+    "en": "I am looking for a hotel",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.9": {
+    "en": "No",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.90": {
+    "en": "Where is the nearest bank?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.91": {
+    "en": "How far is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.92": {
+    "en": "Turn left",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.93": {
+    "en": "Turn right",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.94": {
+    "en": "Go straight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.95": {
+    "en": "It is near",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.96": {
+    "en": "It is far",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.97": {
+    "en": "I am going home",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.98": {
+    "en": "I am going to work",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "basics.99": {
+    "en": "I will call you later",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "listen-basics.1": {
     "en": "Hello",
     "rate": "-10%",
@@ -521,6 +1021,106 @@
   },
   "listen-numbers.5": {
     "en": "It costs five dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.1": {
+    "en": "One, two, three",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.10": {
+    "en": "It costs five dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.11": {
+    "en": "I am ten years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.12": {
+    "en": "We have three cats",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.13": {
+    "en": "The meeting starts at six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.14": {
+    "en": "I need two tickets",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.15": {
+    "en": "She has one sister",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.16": {
+    "en": "I am thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.17": {
+    "en": "It is five o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.18": {
+    "en": "We have two children",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.19": {
+    "en": "The bus arrives at seven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.2": {
+    "en": "How old are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.20": {
+    "en": "I need three minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.3": {
+    "en": "I am twenty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.4": {
+    "en": "What time is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.5": {
+    "en": "It's ten o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.6": {
+    "en": "I have two brothers",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.7": {
+    "en": "She is thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.8": {
+    "en": "The train leaves at nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.9": {
+    "en": "We have four children",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },

@@ -69,6 +69,7 @@ async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist>
       title_ru: data.title_ru,
       items: data.steps,
       modalities: MODALITIES,
+      progressive: data.progressive,
     }
   }
   if (!isDrill(data)) throw new Error('drill JSON has unexpected shape')

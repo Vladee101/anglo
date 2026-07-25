@@ -1,0 +1,217 @@
+{
+  "id": "numbers",
+  "title_ru": "Числа и время: все навыки",
+  "progressive": false,
+  "steps": [
+    {
+      "id": "numbers.1",
+      "en": "One, two, three",
+      "ru": "Один, два, три",
+      "accepted_en": [
+        "One, two, three"
+      ],
+      "trap_distractors_ru": [
+        "Четыре, пять, шесть"
+      ],
+      "new_part": "One, two, three",
+      "audio": "audio/numbers.1.mp3"
+    },
+    {
+      "id": "numbers.2",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?",
+        "How old are you"
+      ],
+      "new_part": "How old are you?",
+      "audio": "audio/numbers.2.mp3"
+    },
+    {
+      "id": "numbers.3",
+      "en": "I am twenty years old",
+      "ru": "Мне двадцать лет",
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ],
+      "new_part": "I am twenty years old",
+      "audio": "audio/numbers.3.mp3"
+    },
+    {
+      "id": "numbers.4",
+      "en": "What time is it?",
+      "ru": "Который час?",
+      "accepted_en": [
+        "What time is it?",
+        "What time is it"
+      ],
+      "new_part": "What time is it?",
+      "audio": "audio/numbers.4.mp3"
+    },
+    {
+      "id": "numbers.5",
+      "en": "It's ten o'clock",
+      "ru": "Сейчас десять часов",
+      "accepted_en": [
+        "It's ten o'clock",
+        "It is ten o'clock"
+      ],
+      "new_part": "It's ten o'clock",
+      "audio": "audio/numbers.5.mp3"
+    },
+    {
+      "id": "numbers.6",
+      "en": "I have two brothers",
+      "ru": "У меня два брата",
+      "accepted_en": [
+        "I have two brothers"
+      ],
+      "new_part": "I have two brothers",
+      "audio": "audio/numbers.6.mp3"
+    },
+    {
+      "id": "numbers.7",
+      "en": "She is thirty years old",
+      "ru": "Ей тридцать лет",
+      "accepted_en": [
+        "She is thirty years old"
+      ],
+      "new_part": "She is thirty years old",
+      "audio": "audio/numbers.7.mp3"
+    },
+    {
+      "id": "numbers.8",
+      "en": "The train leaves at nine",
+      "ru": "Поезд отправляется в девять",
+      "accepted_en": [
+        "The train leaves at nine"
+      ],
+      "new_part": "The train leaves at nine",
+      "audio": "audio/numbers.8.mp3"
+    },
+    {
+      "id": "numbers.9",
+      "en": "We have four children",
+      "ru": "У нас четверо детей",
+      "accepted_en": [
+        "We have four children"
+      ],
+      "new_part": "We have four children",
+      "audio": "audio/numbers.9.mp3"
+    },
+    {
+      "id": "numbers.10",
+      "en": "It costs five dollars",
+      "ru": "Это стоит пять долларов",
+      "accepted_en": [
+        "It costs five dollars"
+      ],
+      "new_part": "It costs five dollars",
+      "audio": "audio/numbers.10.mp3"
+    },
+    {
+      "id": "numbers.11",
+      "en": "I am ten years old",
+      "ru": "Мне десять лет",
+      "accepted_en": [
+        "I am ten years old",
+        "I'm ten years old"
+      ],
+      "new_part": "I am ten years old",
+      "audio": "audio/numbers.11.mp3"
+    },
+    {
+      "id": "numbers.12",
+      "en": "We have three cats",
+      "ru": "У нас три кошки",
+      "accepted_en": [
+        "We have three cats"
+      ],
+      "new_part": "We have three cats",
+      "audio": "audio/numbers.12.mp3"
+    },
+    {
+      "id": "numbers.13",
+      "en": "The meeting starts at six",
+      "ru": "Встреча начинается в шесть",
+      "accepted_en": [
+        "The meeting starts at six"
+      ],
+      "new_part": "The meeting starts at six",
+      "audio": "audio/numbers.13.mp3"
+    },
+    {
+      "id": "numbers.14",
+      "en": "I need two tickets",
+      "ru": "Мне нужны два билета",
+      "accepted_en": [
+        "I need two tickets"
+      ],
+      "new_part": "I need two tickets",
+      "audio": "audio/numbers.14.mp3"
+    },
+    {
+      "id": "numbers.15",
+      "en": "She has one sister",
+      "ru": "У неё одна сестра",
+      "accepted_en": [
+        "She has one sister"
+      ],
+      "new_part": "She has one sister",
+      "audio": "audio/numbers.15.mp3"
+    },
+    {
+      "id": "numbers.16",
+      "en": "I am thirty years old",
+      "ru": "Мне тридцать лет",
+      "accepted_en": [
+        "I am thirty years old",
+        "I'm thirty years old"
+      ],
+      "new_part": "I am thirty years old",
+      "audio": "audio/numbers.16.mp3"
+    },
+    {
+      "id": "numbers.17",
+      "en": "It is five o'clock",
+      "ru": "Сейчас пять часов",
+      "accepted_en": [
+        "It is five o'clock",
+        "It's five o'clock"
+      ],
+      "new_part": "It is five o'clock",
+      "audio": "audio/numbers.17.mp3"
+    },
+    {
+      "id": "numbers.18",
+      "en": "We have two children",
+      "ru": "У нас двое детей",
+      "accepted_en": [
+        "We have two children"
+      ],
+      "new_part": "We have two children",
+      "audio": "audio/numbers.18.mp3"
+    },
+    {
+      "id": "numbers.19",
+      "en": "The bus arrives at seven",
+      "ru": "Автобус приезжает в семь",
+      "accepted_en": [
+        "The bus arrives at seven"
+      ],
+      "new_part": "The bus arrives at seven",
+      "audio": "audio/numbers.19.mp3"
+    },
+    {
+      "id": "numbers.20",
+      "en": "I need three minutes",
+      "ru": "Мне нужно три минуты",
+      "accepted_en": [
+        "I need three minutes"
+      ],
+      "new_part": "I need three minutes",
+      "audio": "audio/numbers.20.mp3"
+    }
+  ]
+}

@@ -11,6 +11,7 @@ const wordCount = (s: string) => s.trim().split(/\s+/).filter(Boolean).length
 
 export function CompleteScreen({ playlist, progress, onBackToTitle }: Props) {
   const isMixed = playlist.modalities.length > 1
+  const showGrowth = isMixed && playlist.progressive !== false
   const showSpeakColumn = playlist.modalities.includes('speak')
   const first = playlist.items[0]
   const last = playlist.items[playlist.items.length - 1]
@@ -33,7 +34,7 @@ export function CompleteScreen({ playlist, progress, onBackToTitle }: Props) {
     <main className="app complete-screen">
       <h1>Готово! 🎉</h1>
 
-      {isMixed && (
+      {showGrowth && (
         <>
           <div className="growth">
             <div className="growth-card">

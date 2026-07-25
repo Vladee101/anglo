@@ -11,10 +11,20 @@
  *   C3  audio path is exactly `audio/${step.id}.mp3`
  *   C4  en, ru, new_part non-empty; accepted_en non-empty and includes en
  *   C5  seed step (step 1): new_part === en, trap_distractors_ru >= 3
+ *       (progressive chains only, see below)
  *   C6  every step's distractor pool (siblings + traps) >= 3 (for 4 options)
  *   C7  EN is purely additive: prev step's words ⊆ current step's words
  *       (multiset), and added words === new_part words (steps >= 2)
+ *       (progressive chains only, see below)
  *   C8  ru values unique across steps; no trap duplicates any step's ru
+ *
+ * chain.progressive (optional, default true) distinguishes two shapes that
+ * both play as "all 4 modalities per step" in Mixed mode:
+ *   - progressive (want-water): an additive, word-by-word sentence build —
+ *     C5/C7 enforce that.
+ *   - non-progressive (basics, numbers): a flat list of unrelated phrases,
+ *     each just walked through read/listen/write/speak — C5/C7 don't apply,
+ *     since there's no sentence being built up step to step.
  *
  * With --assets, additionally enforces (checked against public/, the
  * generated-audio output — see scripts/generate-audio.py; content authoring
@@ -81,6 +91,7 @@ function validateChain(chain, file, errors, assets, expectedAudioFiles) {
     err(`steps must be an array with >= 2 entries`);
     return; // nothing else is checkable
   }
+  const isProgressive = chain.progressive !== false;
 
   const ruSeen = new Map(); // ru -> step id
   chain.steps.forEach((step, idx) => {
@@ -115,8 +126,8 @@ function validateChain(chain, file, errors, assets, expectedAudioFiles) {
 
     const traps = step.trap_distractors_ru ?? [];
 
-    // C5
-    if (n === 1) {
+    // C5 (progressive only)
+    if (isProgressive && n === 1) {
       if (step.new_part !== step.en)
         e(`seed step new_part must equal en`);
       if (traps.length < MIN_SEED_TRAPS)
@@ -128,8 +139,8 @@ function validateChain(chain, file, errors, assets, expectedAudioFiles) {
     if (pool < MIN_DISTRACTOR_POOL)
       e(`distractor pool too small: ${pool} (siblings + traps), need >= ${MIN_DISTRACTOR_POOL}`);
 
-    // C7 — EN additivity + new_part accounting
-    if (n >= 2 && step.en && chain.steps[idx - 1]?.en) {
+    // C7 — EN additivity + new_part accounting (progressive only)
+    if (isProgressive && n >= 2 && step.en && chain.steps[idx - 1]?.en) {
       const added = multisetDiff(words(step.en), words(chain.steps[idx - 1].en));
       if (added === null)
         e(`en is not additive: previous step's words are not all present`);
