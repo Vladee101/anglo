@@ -259,10 +259,6 @@ button.subtle {
   text-align: center;
 }
 
-.privacy-note {
-  font-size: 0.85rem;
-}
-
 /* title screen: mode + unit pickers */
 .mode-picker {
   display: flex;
