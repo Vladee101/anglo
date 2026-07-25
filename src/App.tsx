@@ -4,9 +4,11 @@ import { MODALITIES } from './modalities'
 import { findResume, withResult } from './lib/playlist'
 import { createWebSpeechScorer } from './lib/webSpeechScorer'
 import { clearProgress, loadMode, loadProgress, saveMode, saveProgress } from './lib/storage'
+import { clearAuthUser, loadAuthUser, saveAuthUser } from './lib/auth'
 import { TitleScreen } from './TitleScreen'
 import { CompleteScreen } from './CompleteScreen'
 import { ExerciseRunner } from './ExerciseRunner'
+import { LoginScreen } from './LoginScreen'
 import { Header } from './Header'
 import { Footer } from './Footer'
 
@@ -81,6 +83,7 @@ async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist>
 type Screen = 'loading' | 'error' | 'title' | 'play' | 'complete'
 
 export default function App() {
+  const [authUser, setAuthUser] = useState<string | null>(loadAuthUser)
   const [manifest, setManifest] = useState<Manifest | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
   const [screen, setScreen] = useState<Screen>('loading')
@@ -141,10 +144,29 @@ export default function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [mode, unit?.id])
 
-  if (screen === 'loading')
+  const handleLogin = (username: string) => {
+    saveAuthUser(username)
+    setAuthUser(username)
+  }
+
+  const handleLogout = () => {
+    clearAuthUser()
+    setAuthUser(null)
+  }
+
+  if (!authUser)
     return (
       <>
         <Header />
+        <LoginScreen onLogin={handleLogin} />
+        <Footer />
+      </>
+    )
+
+  if (screen === 'loading')
+    return (
+      <>
+        <Header user={authUser} onLogout={handleLogout} />
         <main className="app">Загрузка…</main>
         <Footer />
       </>
@@ -152,7 +174,7 @@ export default function App() {
   if (screen === 'error' || !manifest)
     return (
       <>
-        <Header />
+        <Header user={authUser} onLogout={handleLogout} />
         <main className="app">
           <p className="notice">Не удалось загрузить материал: {loadError}</p>
         </main>
@@ -232,7 +254,7 @@ export default function App() {
 
   return (
     <>
-      <Header />
+      <Header user={authUser} onLogout={handleLogout} />
       {content}
       <Footer />
     </>
