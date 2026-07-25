@@ -23,7 +23,6 @@ export function clearProgress(id: string): void {
 }
 
 interface Settings {
-  showTimer: boolean
   mode: Mode
 }
 
@@ -38,14 +37,6 @@ function loadSettings(): Partial<Settings> {
 
 function saveSettings(patch: Partial<Settings>): void {
   localStorage.setItem(SETTINGS_KEY, JSON.stringify({ ...loadSettings(), ...patch }))
-}
-
-export function loadShowTimer(): boolean {
-  return loadSettings().showTimer === true
-}
-
-export function saveShowTimer(showTimer: boolean): void {
-  saveSettings({ showTimer })
 }
 
 export function loadMode(): Mode {

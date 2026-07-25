@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useState } from 'react'
 import { isSkipped, type Modality, type Playlist, type StepResult } from './types'
 import type { SpeechScorer } from './lib/speech'
 import { pluralizeRu } from './lib/pluralRu'
@@ -12,49 +12,31 @@ interface Props {
   itemIndex: number
   modality: Modality
   scorer: SpeechScorer
-  showTimer: boolean
   onDone: (result: StepResult) => void
 }
 
 /**
- * Hosts one exercise: owns the attempt counter and the clock, renders the
- * modality-specific UI, and shows a Continue bar once answered correctly.
- * Remounted (via key) for every item/modality change so state resets.
+ * Hosts one exercise: owns the attempt counter, renders the modality-specific
+ * UI, and shows a Continue bar once answered correctly. Remounted (via key)
+ * for every item/modality change so state resets.
  */
 export function ExerciseRunner({
   playlist,
   itemIndex,
   modality,
   scorer,
-  showTimer,
   onDone,
 }: Props) {
   const item = playlist.items[itemIndex]
   const isMixed = playlist.modalities.length > 1
   const [attempts, setAttempts] = useState(0)
   const [result, setResult] = useState<StepResult | null>(null)
-  const [elapsedMs, setElapsedMs] = useState(0)
-  const startRef = useRef(performance.now())
-
-  useEffect(() => {
-    if (!showTimer || result) return
-    const id = setInterval(
-      () => setElapsedMs(performance.now() - startRef.current),
-      200,
-    )
-    return () => clearInterval(id)
-  }, [showTimer, result])
 
   const handleAttempt = (correct: boolean) => {
     if (result) return
     const total = attempts + 1
     setAttempts(total)
-    if (correct)
-      setResult({
-        correct: true,
-        attempts: total,
-        ms: Math.round(performance.now() - startRef.current),
-      })
+    if (correct) setResult({ correct: true, attempts: total })
   }
 
   const handleSkip = (reason: 'unsupported' | 'denied') => {
@@ -78,11 +60,6 @@ export function ExerciseRunner({
                 {m}
               </span>
             ))}
-          </span>
-        )}
-        {showTimer && (
-          <span className="timer">
-            {((result && !isSkipped(result) ? result.ms : elapsedMs) / 1000).toFixed(1)}s
           </span>
         )}
       </header>
@@ -124,7 +101,7 @@ export function ExerciseRunner({
           <span>
             {isSkipped(result)
               ? `— Пропущено (${result.reason === 'unsupported' ? 'нет поддержки распознавания речи' : 'доступ к микрофону запрещён'})`
-              : `✓ Верно · ${result.attempts} ${pluralizeRu(result.attempts, ['попытка', 'попытки', 'попыток'])} · ${(result.ms / 1000).toFixed(1)}s`}
+              : `✓ Верно · ${result.attempts} ${pluralizeRu(result.attempts, ['попытка', 'попытки', 'попыток'])}`}
           </span>
           <button className="primary" onClick={() => onDone(result)} autoFocus>
             Далее

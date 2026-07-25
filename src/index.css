@@ -99,12 +99,6 @@ button.subtle {
   margin: 0;
 }
 
-.setting {
-  display: flex;
-  gap: 8px;
-  align-items: center;
-}
-
 /* exercise */
 .exercise-head {
   display: flex;
@@ -129,12 +123,6 @@ button.subtle {
 .chip.active {
   background: #2456d6;
   color: #fff;
-}
-
-.timer {
-  margin-left: auto;
-  font-variant-numeric: tabular-nums;
-  font-weight: 600;
 }
 
 .en {

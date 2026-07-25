@@ -29,7 +29,7 @@ describe('findResume', () => {
 
   it('advances within an item across modalities', () => {
     const progress: StepProgress[] = [
-      { step_id: 'want-water.1', results: { read: { correct: true, attempts: 1, ms: 10 } } },
+      { step_id: 'want-water.1', results: { read: { correct: true, attempts: 1 } } },
     ]
     expect(findResume(mixedPlaylist, progress)).toEqual({ itemIndex: 0, modIndex: 1 })
   })
@@ -39,10 +39,10 @@ describe('findResume', () => {
       {
         step_id: 'want-water.1',
         results: {
-          read: { correct: true, attempts: 1, ms: 10 },
-          listen: { correct: true, attempts: 1, ms: 10 },
-          write: { correct: true, attempts: 1, ms: 10 },
-          speak: { correct: true, attempts: 1, ms: 10 },
+          read: { correct: true, attempts: 1 },
+          listen: { correct: true, attempts: 1 },
+          write: { correct: true, attempts: 1 },
+          speak: { correct: true, attempts: 1 },
         },
       },
     ]
@@ -60,10 +60,10 @@ describe('findResume', () => {
     const done: StepProgress[] = mixedPlaylist.items.map((item) => ({
       step_id: item.id,
       results: {
-        read: { correct: true, attempts: 1, ms: 10 },
-        listen: { correct: true, attempts: 1, ms: 10 },
-        write: { correct: true, attempts: 1, ms: 10 },
-        speak: { correct: true, attempts: 1, ms: 10 },
+        read: { correct: true, attempts: 1 },
+        listen: { correct: true, attempts: 1 },
+        write: { correct: true, attempts: 1 },
+        speak: { correct: true, attempts: 1 },
       },
     }))
     expect(findResume(mixedPlaylist, done)).toBeNull()
@@ -71,7 +71,7 @@ describe('findResume', () => {
 
   it('single-modality drill playlists only check that one modality', () => {
     const progress: StepProgress[] = [
-      { step_id: 'read-basics.1', results: { read: { correct: true, attempts: 1, ms: 10 } } },
+      { step_id: 'read-basics.1', results: { read: { correct: true, attempts: 1 } } },
     ]
     expect(findResume(drillPlaylist, progress)).toEqual({ itemIndex: 1, modIndex: 0 })
   })
@@ -79,27 +79,26 @@ describe('findResume', () => {
 
 describe('withResult', () => {
   it('creates a new progress entry for an unseen item', () => {
-    const result = withResult([], 'read-basics.1', 'read', { correct: true, attempts: 1, ms: 5 })
+    const result = withResult([], 'read-basics.1', 'read', { correct: true, attempts: 1 })
     expect(result).toEqual([
-      { step_id: 'read-basics.1', results: { read: { correct: true, attempts: 1, ms: 5 } } },
+      { step_id: 'read-basics.1', results: { read: { correct: true, attempts: 1 } } },
     ])
   })
 
   it('merges into an existing item without touching other modalities', () => {
     const existing: StepProgress[] = [
-      { step_id: 'want-water.1', results: { read: { correct: true, attempts: 1, ms: 5 } } },
+      { step_id: 'want-water.1', results: { read: { correct: true, attempts: 1 } } },
     ]
     const result = withResult(existing, 'want-water.1', 'listen', {
       correct: true,
       attempts: 2,
-      ms: 8,
     })
     expect(result).toEqual([
       {
         step_id: 'want-water.1',
         results: {
-          read: { correct: true, attempts: 1, ms: 5 },
-          listen: { correct: true, attempts: 2, ms: 8 },
+          read: { correct: true, attempts: 1 },
+          listen: { correct: true, attempts: 2 },
         },
       },
     ])

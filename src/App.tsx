@@ -3,15 +3,7 @@ import type { Chain, Drill, Manifest, ManifestEntry, Mode, Playlist, StepResult 
 import { MODALITIES } from './modalities'
 import { findResume, withResult } from './lib/playlist'
 import { createWebSpeechScorer } from './lib/webSpeechScorer'
-import {
-  clearProgress,
-  loadMode,
-  loadProgress,
-  loadShowTimer,
-  saveMode,
-  saveProgress,
-  saveShowTimer,
-} from './lib/storage'
+import { clearProgress, loadMode, loadProgress, saveMode, saveProgress } from './lib/storage'
 import { TitleScreen } from './TitleScreen'
 import { CompleteScreen } from './CompleteScreen'
 import { ExerciseRunner } from './ExerciseRunner'
@@ -97,7 +89,6 @@ export default function App() {
   const [playlist, setPlaylist] = useState<Playlist | null>(null)
   const [progress, setProgress] = useState<ReturnType<typeof loadProgress>>([])
   const [pos, setPos] = useState({ itemIndex: 0, modIndex: 0 })
-  const [showTimer, setShowTimer] = useState(loadShowTimer)
   const scorer = useMemo(() => createWebSpeechScorer(), [])
 
   useEffect(() => {
@@ -192,11 +183,6 @@ export default function App() {
     setProgress([])
   }
 
-  const toggleTimer = (value: boolean) => {
-    setShowTimer(value)
-    saveShowTimer(value)
-  }
-
   const handleExerciseDone = (result: StepResult) => {
     if (!playlist) return
     const item = playlist.items[pos.itemIndex]
@@ -228,7 +214,6 @@ export default function App() {
         itemIndex={pos.itemIndex}
         modality={playlist.modalities[pos.modIndex]}
         scorer={scorer}
-        showTimer={showTimer}
         onDone={handleExerciseDone}
       />
     ) : (
@@ -240,8 +225,6 @@ export default function App() {
         onUnitChange={setUnitId}
         playlist={playlist}
         progress={progress}
-        showTimer={showTimer}
-        onToggleTimer={toggleTimer}
         onStart={start}
         onReset={reset}
       />

@@ -10,8 +10,6 @@ interface Props {
   onUnitChange: (id: string) => void
   playlist: Playlist | null
   progress: StepProgress[]
-  showTimer: boolean
-  onToggleTimer: (value: boolean) => void
   onStart: () => void
   onReset: () => void
 }
@@ -32,8 +30,6 @@ export function TitleScreen({
   onUnitChange,
   playlist,
   progress,
-  showTimer,
-  onToggleTimer,
   onStart,
   onReset,
 }: Props) {
@@ -98,15 +94,6 @@ export function TitleScreen({
           )}
         </>
       )}
-
-      <label className="setting">
-        <input
-          type="checkbox"
-          checked={showTimer}
-          onChange={(e) => onToggleTimer(e.target.checked)}
-        />
-        Показывать таймер
-      </label>
 
       <p className="muted privacy-note">
         Упражнения "Говорить" используют встроенное распознавание речи

@@ -59,7 +59,6 @@ export type Manifest = Record<Mode, ManifestEntry[]>
 export interface ExerciseResult {
   correct: boolean
   attempts: number
-  ms: number
 }
 
 /** A speak exercise the learner could not do (no STT support / mic denied). */
