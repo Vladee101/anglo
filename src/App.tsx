@@ -237,6 +237,7 @@ export default function App() {
         modality={playlist.modalities[pos.modIndex]}
         scorer={scorer}
         onDone={handleExerciseDone}
+        onExit={() => setScreen('title')}
       />
     ) : (
       <TitleScreen
@@ -245,6 +246,7 @@ export default function App() {
         bucket={bucket}
         unit={unit}
         onUnitChange={setUnitId}
+        onBackToList={() => setUnitId(null)}
         playlist={playlist}
         progress={progress}
         onStart={start}

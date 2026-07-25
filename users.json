@@ -1,3 +1,5 @@
 [
-  { "username": "vlad", "password": "changeme" }
+  { "username": "Vlad", "password": "cholula" },
+  { "username": "Anton", "password": "mexicano" },
+  { "username": "Guest", "password": "12345" }
 ]

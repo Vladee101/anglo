@@ -13,6 +13,7 @@ interface Props {
   modality: Modality
   scorer: SpeechScorer
   onDone: (result: StepResult) => void
+  onExit: () => void
 }
 
 /**
@@ -26,6 +27,7 @@ export function ExerciseRunner({
   modality,
   scorer,
   onDone,
+  onExit,
 }: Props) {
   const item = playlist.items[itemIndex]
   const isMixed = playlist.modalities.length > 1
@@ -47,6 +49,9 @@ export function ExerciseRunner({
   return (
     <main className="app exercise">
       <header className="exercise-head">
+        <button className="subtle exit-button" onClick={onExit}>
+          ← Выйти
+        </button>
         <span>
           Шаг {itemIndex + 1}/{playlist.items.length}
         </span>

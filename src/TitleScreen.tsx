@@ -8,6 +8,7 @@ interface Props {
   bucket: ManifestEntry[]
   unit: ManifestEntry | null
   onUnitChange: (id: string) => void
+  onBackToList: () => void
   playlist: Playlist | null
   progress: StepProgress[]
   onStart: () => void
@@ -28,6 +29,7 @@ export function TitleScreen({
   bucket,
   unit,
   onUnitChange,
+  onBackToList,
   playlist,
   progress,
   onStart,
@@ -66,6 +68,12 @@ export function TitleScreen({
             </li>
           ))}
         </ul>
+      )}
+
+      {unit && bucket.length > 1 && (
+        <button className="subtle" onClick={onBackToList}>
+          ← Назад к списку
+        </button>
       )}
 
       {unit && !playlist && <p className="muted">Загрузка…</p>}
