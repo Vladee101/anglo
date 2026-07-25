@@ -1,0 +1,38 @@
+{
+  "id": "write-basics",
+  "title_ru": "Письмо: основы",
+  "level": "A1",
+  "modality": "write",
+  "items": [
+    {
+      "id": "write-basics.1",
+      "en": "I am fine",
+      "ru": "Я в порядке",
+      "accepted_en": ["I am fine", "I'm fine"]
+    },
+    {
+      "id": "write-basics.2",
+      "en": "I like tea",
+      "ru": "Я люблю чай",
+      "accepted_en": ["I like tea"]
+    },
+    {
+      "id": "write-basics.3",
+      "en": "This is my friend",
+      "ru": "Это мой друг",
+      "accepted_en": ["This is my friend"]
+    },
+    {
+      "id": "write-basics.4",
+      "en": "I live in Moscow",
+      "ru": "Я живу в Москве",
+      "accepted_en": ["I live in Moscow"]
+    },
+    {
+      "id": "write-basics.5",
+      "en": "Can I have some water?",
+      "ru": "Можно мне воды?",
+      "accepted_en": ["Can I have some water?", "Can I have water?"]
+    }
+  ]
+}

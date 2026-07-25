@@ -1,0 +1,7 @@
+node_modules
+dist
+__pycache__
+public/chains
+public/drills
+public/content-manifest.json
+*.local

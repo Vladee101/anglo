@@ -1,0 +1,45 @@
+{
+  "id": "listen-basics",
+  "title_ru": "Аудирование: основы",
+  "level": "A1",
+  "modality": "listen",
+  "items": [
+    {
+      "id": "listen-basics.1",
+      "en": "Good evening",
+      "ru": "Добрый вечер",
+      "accepted_en": ["Good evening"],
+      "trap_distractors_ru": ["Доброе утро"],
+      "audio": "audio/listen-basics.1.mp3"
+    },
+    {
+      "id": "listen-basics.2",
+      "en": "Nice to meet you",
+      "ru": "Приятно познакомиться",
+      "accepted_en": ["Nice to meet you"],
+      "audio": "audio/listen-basics.2.mp3"
+    },
+    {
+      "id": "listen-basics.3",
+      "en": "What is your name?",
+      "ru": "Как тебя зовут?",
+      "accepted_en": ["What is your name?", "What is your name"],
+      "audio": "audio/listen-basics.3.mp3"
+    },
+    {
+      "id": "listen-basics.4",
+      "en": "I don't understand",
+      "ru": "Я не понимаю",
+      "accepted_en": ["I don't understand", "I do not understand"],
+      "audio": "audio/listen-basics.4.mp3"
+    },
+    {
+      "id": "listen-basics.5",
+      "en": "Excuse me",
+      "ru": "Извините",
+      "accepted_en": ["Excuse me"],
+      "trap_distractors_ru": ["Извините меня, пожалуйста"],
+      "audio": "audio/listen-basics.5.mp3"
+    }
+  ]
+}

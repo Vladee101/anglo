@@ -1,0 +1,82 @@
+{
+  "listen-basics.1": {
+    "en": "Good evening",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-basics.2": {
+    "en": "Nice to meet you",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-basics.3": {
+    "en": "What is your name?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-basics.4": {
+    "en": "I don't understand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-basics.5": {
+    "en": "Excuse me",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.1": {
+    "en": "I have two brothers",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.2": {
+    "en": "She is thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.3": {
+    "en": "The train leaves at nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.4": {
+    "en": "We have four children",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.5": {
+    "en": "It costs five dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.1": {
+    "en": "I want",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.2": {
+    "en": "I want water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.3": {
+    "en": "I want to drink water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.4": {
+    "en": "I want to drink cold water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.5": {
+    "en": "I really want to drink cold water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "want-water.6": {
+    "en": "I really want to drink cold water right now",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  }
+}

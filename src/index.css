@@ -1,0 +1,327 @@
+:root {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.5;
+  color: #1e2430;
+  background: #f6f7f9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  max-width: 640px;
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.site-header {
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e0e4ea;
+}
+
+.site-logo {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #2456d6;
+}
+
+.site-footer {
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid #e0e4ea;
+  font-size: 0.85rem;
+  color: #667085;
+  text-align: center;
+}
+
+.site-footer a {
+  color: #2456d6;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+button {
+  font: inherit;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #c7cdd6;
+  background: #fff;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+  opacity: 0.7;
+}
+
+button.primary {
+  background: #2456d6;
+  border-color: #2456d6;
+  color: #fff;
+}
+
+button.subtle {
+  background: none;
+  border: none;
+  color: #8a5a00;
+  text-decoration: underline;
+  padding: 4px;
+  align-self: flex-start;
+}
+
+.muted {
+  color: #667085;
+  margin: 0;
+}
+
+.setting {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+/* exercise */
+.exercise-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  color: #667085;
+  font-size: 0.9rem;
+}
+
+.modality-trail {
+  display: flex;
+  gap: 4px;
+}
+
+.chip {
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #e8ebf0;
+}
+
+.chip.active {
+  background: #2456d6;
+  color: #fff;
+}
+
+.timer {
+  margin-left: auto;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.en {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.ru {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.prompt {
+  margin-bottom: 4px;
+}
+
+.options {
+  display: grid;
+  gap: 8px;
+}
+
+.option {
+  text-align: left;
+  font-size: 1.05rem;
+}
+
+.option.wrong {
+  border-color: #d64545;
+  background: #fdecec;
+  color: #a12626;
+}
+
+.option.right {
+  border-color: #1f9d55;
+  background: #e8f7ee;
+  color: #14663a;
+}
+
+.feedback {
+  margin: 0;
+  color: #a12626;
+}
+
+.notice {
+  margin: 0 0 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #fff4d6;
+  color: #8a5a00;
+  border: 1px solid #eed693;
+}
+
+.write,
+.speak,
+.option-quiz {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.write input {
+  font: inherit;
+  font-size: 1.1rem;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #c7cdd6;
+}
+
+.done-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #e8f7ee;
+  color: #14663a;
+  font-weight: 600;
+}
+
+/* complete screen */
+.growth {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.growth-card {
+  flex: 1;
+  padding: 12px;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #e0e4ea;
+}
+
+.growth-card .en {
+  font-size: 1.1rem;
+}
+
+.growth-arrow {
+  font-size: 1.4rem;
+  color: #667085;
+}
+
+.growth-line,
+.totals {
+  margin: 0;
+}
+
+.summary {
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #e0e4ea;
+  border-radius: 8px;
+}
+
+.summary th,
+.summary td {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 1px solid #eef1f5;
+}
+
+.summary th {
+  color: #667085;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.summary td.speak-status {
+  text-align: center;
+}
+
+.privacy-note {
+  font-size: 0.85rem;
+}
+
+/* title screen: mode + unit pickers */
+.mode-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.mode-option {
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.95rem;
+}
+
+.mode-option.active {
+  background: #2456d6;
+  border-color: #2456d6;
+  color: #fff;
+}
+
+.unit-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.unit-option {
+  width: 100%;
+  text-align: left;
+}
+
+.level-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.level-option {
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.95rem;
+}
+
+.level-option.active {
+  background: #7c3aed;
+  border-color: #7c3aed;
+  color: #fff;
+}

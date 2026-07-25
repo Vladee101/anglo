@@ -1,0 +1,38 @@
+{
+  "id": "speak-basics",
+  "title_ru": "Говорение: основы",
+  "level": "A1",
+  "modality": "speak",
+  "items": [
+    {
+      "id": "speak-basics.1",
+      "en": "I need help",
+      "ru": "Мне нужна помощь",
+      "accepted_en": ["I need help"]
+    },
+    {
+      "id": "speak-basics.2",
+      "en": "Where is the station?",
+      "ru": "Где находится вокзал?",
+      "accepted_en": ["Where is the station?", "Where is the train station?"]
+    },
+    {
+      "id": "speak-basics.3",
+      "en": "I am very tired",
+      "ru": "Я очень устал",
+      "accepted_en": ["I am very tired", "I'm very tired"]
+    },
+    {
+      "id": "speak-basics.4",
+      "en": "How much does it cost?",
+      "ru": "Сколько это стоит?",
+      "accepted_en": ["How much does it cost?", "How much is it?"]
+    },
+    {
+      "id": "speak-basics.5",
+      "en": "Enjoy your meal",
+      "ru": "Приятного аппетита",
+      "accepted_en": ["Enjoy your meal", "Enjoy your food"]
+    }
+  ]
+}
