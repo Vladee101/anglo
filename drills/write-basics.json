@@ -6,33 +6,848 @@
   "items": [
     {
       "id": "write-basics.1",
-      "en": "I am fine",
-      "ru": "Я в порядке",
-      "accepted_en": ["I am fine", "I'm fine"]
+      "en": "Hello",
+      "ru": "Привет",
+      "accepted_en": [
+        "Hello"
+      ]
     },
     {
       "id": "write-basics.2",
-      "en": "I like tea",
-      "ru": "Я люблю чай",
-      "accepted_en": ["I like tea"]
+      "en": "Thank you",
+      "ru": "Спасибо",
+      "accepted_en": [
+        "Thank you"
+      ]
     },
     {
       "id": "write-basics.3",
-      "en": "This is my friend",
-      "ru": "Это мой друг",
-      "accepted_en": ["This is my friend"]
+      "en": "Good morning",
+      "ru": "Доброе утро",
+      "accepted_en": [
+        "Good morning"
+      ]
     },
     {
       "id": "write-basics.4",
-      "en": "I live in Moscow",
-      "ru": "Я живу в Москве",
-      "accepted_en": ["I live in Moscow"]
+      "en": "How are you?",
+      "ru": "Как дела?",
+      "accepted_en": [
+        "How are you?",
+        "How are you"
+      ]
     },
     {
       "id": "write-basics.5",
-      "en": "Can I have some water?",
-      "ru": "Можно мне воды?",
-      "accepted_en": ["Can I have some water?", "Can I have water?"]
+      "en": "See you later",
+      "ru": "Увидимся позже",
+      "accepted_en": [
+        "See you later"
+      ]
+    },
+    {
+      "id": "write-basics.6",
+      "en": "Goodbye",
+      "ru": "До свидания",
+      "accepted_en": [
+        "Goodbye"
+      ]
+    },
+    {
+      "id": "write-basics.7",
+      "en": "Please",
+      "ru": "Пожалуйста",
+      "accepted_en": [
+        "Please"
+      ]
+    },
+    {
+      "id": "write-basics.8",
+      "en": "Yes",
+      "ru": "Да",
+      "accepted_en": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "write-basics.9",
+      "en": "No",
+      "ru": "Нет",
+      "accepted_en": [
+        "No"
+      ]
+    },
+    {
+      "id": "write-basics.10",
+      "en": "Sorry",
+      "ru": "Извините",
+      "accepted_en": [
+        "Sorry"
+      ]
+    },
+    {
+      "id": "write-basics.11",
+      "en": "Excuse me",
+      "ru": "Простите",
+      "accepted_en": [
+        "Excuse me"
+      ]
+    },
+    {
+      "id": "write-basics.12",
+      "en": "Nice to meet you",
+      "ru": "Приятно познакомиться",
+      "accepted_en": [
+        "Nice to meet you"
+      ]
+    },
+    {
+      "id": "write-basics.13",
+      "en": "My name is",
+      "ru": "Меня зовут",
+      "accepted_en": [
+        "My name is"
+      ]
+    },
+    {
+      "id": "write-basics.14",
+      "en": "What is your name?",
+      "ru": "Как тебя зовут?",
+      "accepted_en": [
+        "What is your name?",
+        "What's your name?"
+      ]
+    },
+    {
+      "id": "write-basics.15",
+      "en": "I am fine",
+      "ru": "У меня всё хорошо",
+      "accepted_en": [
+        "I am fine",
+        "I'm fine"
+      ]
+    },
+    {
+      "id": "write-basics.16",
+      "en": "Good evening",
+      "ru": "Добрый вечер",
+      "accepted_en": [
+        "Good evening"
+      ]
+    },
+    {
+      "id": "write-basics.17",
+      "en": "Good night",
+      "ru": "Спокойной ночи",
+      "accepted_en": [
+        "Good night"
+      ]
+    },
+    {
+      "id": "write-basics.18",
+      "en": "I don't understand",
+      "ru": "Я не понимаю",
+      "accepted_en": [
+        "I don't understand",
+        "I do not understand"
+      ]
+    },
+    {
+      "id": "write-basics.19",
+      "en": "I don't know",
+      "ru": "Я не знаю",
+      "accepted_en": [
+        "I don't know",
+        "I do not know"
+      ]
+    },
+    {
+      "id": "write-basics.20",
+      "en": "Help me",
+      "ru": "Помогите мне",
+      "accepted_en": [
+        "Help me"
+      ]
+    },
+    {
+      "id": "write-basics.21",
+      "en": "I need help",
+      "ru": "Мне нужна помощь",
+      "accepted_en": [
+        "I need help"
+      ]
+    },
+    {
+      "id": "write-basics.22",
+      "en": "Where is the bathroom?",
+      "ru": "Где находится ванная комната?",
+      "accepted_en": [
+        "Where is the bathroom?",
+        "Where's the bathroom?"
+      ]
+    },
+    {
+      "id": "write-basics.23",
+      "en": "How much is this?",
+      "ru": "Сколько это стоит?",
+      "accepted_en": [
+        "How much is this?",
+        "How much does this cost?"
+      ]
+    },
+    {
+      "id": "write-basics.24",
+      "en": "I want water",
+      "ru": "Я хочу воды",
+      "accepted_en": [
+        "I want water"
+      ]
+    },
+    {
+      "id": "write-basics.25",
+      "en": "I am hungry",
+      "ru": "Я голоден",
+      "accepted_en": [
+        "I am hungry",
+        "I'm hungry"
+      ]
+    },
+    {
+      "id": "write-basics.26",
+      "en": "I am thirsty",
+      "ru": "Я хочу пить",
+      "accepted_en": [
+        "I am thirsty",
+        "I'm thirsty"
+      ]
+    },
+    {
+      "id": "write-basics.27",
+      "en": "Where are you from?",
+      "ru": "Откуда вы?",
+      "accepted_en": [
+        "Where are you from?"
+      ]
+    },
+    {
+      "id": "write-basics.28",
+      "en": "I am from Russia",
+      "ru": "Я из России",
+      "accepted_en": [
+        "I am from Russia",
+        "I'm from Russia"
+      ]
+    },
+    {
+      "id": "write-basics.29",
+      "en": "What time is it?",
+      "ru": "Который час?",
+      "accepted_en": [
+        "What time is it?"
+      ]
+    },
+    {
+      "id": "write-basics.30",
+      "en": "See you tomorrow",
+      "ru": "Увидимся завтра",
+      "accepted_en": [
+        "See you tomorrow"
+      ]
+    },
+    {
+      "id": "write-basics.31",
+      "en": "Have a nice day",
+      "ru": "Хорошего дня",
+      "accepted_en": [
+        "Have a nice day"
+      ]
+    },
+    {
+      "id": "write-basics.32",
+      "en": "I love you",
+      "ru": "Я тебя люблю",
+      "accepted_en": [
+        "I love you"
+      ]
+    },
+    {
+      "id": "write-basics.33",
+      "en": "Take care",
+      "ru": "Береги себя",
+      "accepted_en": [
+        "Take care"
+      ]
+    },
+    {
+      "id": "write-basics.34",
+      "en": "Good luck",
+      "ru": "Удачи",
+      "accepted_en": [
+        "Good luck"
+      ]
+    },
+    {
+      "id": "write-basics.35",
+      "en": "What is this?",
+      "ru": "Что это?",
+      "accepted_en": [
+        "What is this?",
+        "What's this?"
+      ]
+    },
+    {
+      "id": "write-basics.36",
+      "en": "Who is that?",
+      "ru": "Кто это?",
+      "accepted_en": [
+        "Who is that?",
+        "Who's that?"
+      ]
+    },
+    {
+      "id": "write-basics.37",
+      "en": "I like it",
+      "ru": "Мне это нравится",
+      "accepted_en": [
+        "I like it"
+      ]
+    },
+    {
+      "id": "write-basics.38",
+      "en": "I don't like it",
+      "ru": "Мне это не нравится",
+      "accepted_en": [
+        "I don't like it",
+        "I do not like it"
+      ]
+    },
+    {
+      "id": "write-basics.39",
+      "en": "Wait for me",
+      "ru": "Подожди меня",
+      "accepted_en": [
+        "Wait for me"
+      ]
+    },
+    {
+      "id": "write-basics.40",
+      "en": "Come here",
+      "ru": "Иди сюда",
+      "accepted_en": [
+        "Come here"
+      ]
+    },
+    {
+      "id": "write-basics.41",
+      "en": "Sit down please",
+      "ru": "Садитесь пожалуйста",
+      "accepted_en": [
+        "Sit down please",
+        "Please sit down"
+      ]
+    },
+    {
+      "id": "write-basics.42",
+      "en": "Open the door",
+      "ru": "Открой дверь",
+      "accepted_en": [
+        "Open the door"
+      ]
+    },
+    {
+      "id": "write-basics.43",
+      "en": "Close the window",
+      "ru": "Закрой окно",
+      "accepted_en": [
+        "Close the window"
+      ]
+    },
+    {
+      "id": "write-basics.44",
+      "en": "I am tired",
+      "ru": "Я устал",
+      "accepted_en": [
+        "I am tired",
+        "I'm tired"
+      ]
+    },
+    {
+      "id": "write-basics.45",
+      "en": "I am cold",
+      "ru": "Мне холодно",
+      "accepted_en": [
+        "I am cold",
+        "I'm cold"
+      ]
+    },
+    {
+      "id": "write-basics.46",
+      "en": "I am hot",
+      "ru": "Мне жарко",
+      "accepted_en": [
+        "I am hot",
+        "I'm hot"
+      ]
+    },
+    {
+      "id": "write-basics.47",
+      "en": "Speak slowly",
+      "ru": "Говорите медленно",
+      "accepted_en": [
+        "Speak slowly"
+      ]
+    },
+    {
+      "id": "write-basics.48",
+      "en": "I speak a little English",
+      "ru": "Я немного говорю по-английски",
+      "accepted_en": [
+        "I speak a little English"
+      ]
+    },
+    {
+      "id": "write-basics.49",
+      "en": "Can you repeat that?",
+      "ru": "Вы можете повторить?",
+      "accepted_en": [
+        "Can you repeat that?",
+        "Can you repeat?"
+      ]
+    },
+    {
+      "id": "write-basics.50",
+      "en": "I don't speak English",
+      "ru": "Я не говорю по-английски",
+      "accepted_en": [
+        "I don't speak English",
+        "I do not speak English"
+      ]
+    },
+    {
+      "id": "write-basics.51",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?"
+      ]
+    },
+    {
+      "id": "write-basics.52",
+      "en": "I am twenty years old",
+      "ru": "Мне двадцать лет",
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ]
+    },
+    {
+      "id": "write-basics.53",
+      "en": "Today is Monday",
+      "ru": "Сегодня понедельник",
+      "accepted_en": [
+        "Today is Monday"
+      ]
+    },
+    {
+      "id": "write-basics.54",
+      "en": "What day is today?",
+      "ru": "Какой сегодня день?",
+      "accepted_en": [
+        "What day is today?"
+      ]
+    },
+    {
+      "id": "write-basics.55",
+      "en": "I am busy",
+      "ru": "Я занят",
+      "accepted_en": [
+        "I am busy",
+        "I'm busy"
+      ]
+    },
+    {
+      "id": "write-basics.56",
+      "en": "I am free",
+      "ru": "Я свободен",
+      "accepted_en": [
+        "I am free",
+        "I'm free"
+      ]
+    },
+    {
+      "id": "write-basics.57",
+      "en": "I have a question",
+      "ru": "У меня есть вопрос",
+      "accepted_en": [
+        "I have a question"
+      ]
+    },
+    {
+      "id": "write-basics.58",
+      "en": "I have a problem",
+      "ru": "У меня проблема",
+      "accepted_en": [
+        "I have a problem"
+      ]
+    },
+    {
+      "id": "write-basics.59",
+      "en": "It is important",
+      "ru": "Это важно",
+      "accepted_en": [
+        "It is important",
+        "It's important"
+      ]
+    },
+    {
+      "id": "write-basics.60",
+      "en": "It is not important",
+      "ru": "Это неважно",
+      "accepted_en": [
+        "It is not important",
+        "It's not important"
+      ]
+    },
+    {
+      "id": "write-basics.61",
+      "en": "Where do you live?",
+      "ru": "Где ты живёшь?",
+      "accepted_en": [
+        "Where do you live?"
+      ]
+    },
+    {
+      "id": "write-basics.62",
+      "en": "I live in Moscow",
+      "ru": "Я живу в Москве",
+      "accepted_en": [
+        "I live in Moscow"
+      ]
+    },
+    {
+      "id": "write-basics.63",
+      "en": "What do you do?",
+      "ru": "Чем вы занимаетесь?",
+      "accepted_en": [
+        "What do you do?"
+      ]
+    },
+    {
+      "id": "write-basics.64",
+      "en": "I am a student",
+      "ru": "Я студент",
+      "accepted_en": [
+        "I am a student",
+        "I'm a student"
+      ]
+    },
+    {
+      "id": "write-basics.65",
+      "en": "I am a teacher",
+      "ru": "Я учитель",
+      "accepted_en": [
+        "I am a teacher",
+        "I'm a teacher"
+      ]
+    },
+    {
+      "id": "write-basics.66",
+      "en": "I work in an office",
+      "ru": "Я работаю в офисе",
+      "accepted_en": [
+        "I work in an office"
+      ]
+    },
+    {
+      "id": "write-basics.67",
+      "en": "Do you speak English?",
+      "ru": "Вы говорите по-английски?",
+      "accepted_en": [
+        "Do you speak English?"
+      ]
+    },
+    {
+      "id": "write-basics.68",
+      "en": "I don't have time",
+      "ru": "У меня нет времени",
+      "accepted_en": [
+        "I don't have time",
+        "I do not have time"
+      ]
+    },
+    {
+      "id": "write-basics.69",
+      "en": "I have time",
+      "ru": "У меня есть время",
+      "accepted_en": [
+        "I have time"
+      ]
+    },
+    {
+      "id": "write-basics.70",
+      "en": "I am lost",
+      "ru": "Я потерялся",
+      "accepted_en": [
+        "I am lost",
+        "I'm lost"
+      ]
+    },
+    {
+      "id": "write-basics.71",
+      "en": "Can you help me?",
+      "ru": "Вы можете мне помочь?",
+      "accepted_en": [
+        "Can you help me?"
+      ]
+    },
+    {
+      "id": "write-basics.72",
+      "en": "What does this mean?",
+      "ru": "Что это значит?",
+      "accepted_en": [
+        "What does this mean?"
+      ]
+    },
+    {
+      "id": "write-basics.73",
+      "en": "How do you say this in English?",
+      "ru": "Как это сказать по-английски?",
+      "accepted_en": [
+        "How do you say this in English?"
+      ]
+    },
+    {
+      "id": "write-basics.74",
+      "en": "Write it down please",
+      "ru": "Запишите это пожалуйста",
+      "accepted_en": [
+        "Write it down please",
+        "Please write it down"
+      ]
+    },
+    {
+      "id": "write-basics.75",
+      "en": "Read this please",
+      "ru": "Прочитайте это пожалуйста",
+      "accepted_en": [
+        "Read this please",
+        "Please read this"
+      ]
+    },
+    {
+      "id": "write-basics.76",
+      "en": "I am learning English",
+      "ru": "Я учу английский",
+      "accepted_en": [
+        "I am learning English",
+        "I'm learning English"
+      ]
+    },
+    {
+      "id": "write-basics.77",
+      "en": "That is good",
+      "ru": "Это хорошо",
+      "accepted_en": [
+        "That is good",
+        "That's good"
+      ]
+    },
+    {
+      "id": "write-basics.78",
+      "en": "That is bad",
+      "ru": "Это плохо",
+      "accepted_en": [
+        "That is bad",
+        "That's bad"
+      ]
+    },
+    {
+      "id": "write-basics.79",
+      "en": "No problem",
+      "ru": "Без проблем",
+      "accepted_en": [
+        "No problem"
+      ]
+    },
+    {
+      "id": "write-basics.80",
+      "en": "You are welcome",
+      "ru": "Не за что",
+      "accepted_en": [
+        "You are welcome",
+        "You're welcome"
+      ]
+    },
+    {
+      "id": "write-basics.81",
+      "en": "I am happy",
+      "ru": "Я счастлив",
+      "accepted_en": [
+        "I am happy",
+        "I'm happy"
+      ]
+    },
+    {
+      "id": "write-basics.82",
+      "en": "I am sad",
+      "ru": "Я грустный",
+      "accepted_en": [
+        "I am sad",
+        "I'm sad"
+      ]
+    },
+    {
+      "id": "write-basics.83",
+      "en": "I am sick",
+      "ru": "Я болен",
+      "accepted_en": [
+        "I am sick",
+        "I'm sick"
+      ]
+    },
+    {
+      "id": "write-basics.84",
+      "en": "I need a doctor",
+      "ru": "Мне нужен врач",
+      "accepted_en": [
+        "I need a doctor"
+      ]
+    },
+    {
+      "id": "write-basics.85",
+      "en": "Call the police",
+      "ru": "Вызовите полицию",
+      "accepted_en": [
+        "Call the police"
+      ]
+    },
+    {
+      "id": "write-basics.86",
+      "en": "I am sorry I am late",
+      "ru": "Извините за опоздание",
+      "accepted_en": [
+        "I am sorry I am late",
+        "Sorry I'm late"
+      ]
+    },
+    {
+      "id": "write-basics.87",
+      "en": "What is your phone number?",
+      "ru": "Какой у вас номер телефона?",
+      "accepted_en": [
+        "What is your phone number?",
+        "What's your phone number?"
+      ]
+    },
+    {
+      "id": "write-basics.88",
+      "en": "My phone number is",
+      "ru": "Мой номер телефона",
+      "accepted_en": [
+        "My phone number is"
+      ]
+    },
+    {
+      "id": "write-basics.89",
+      "en": "I am looking for a hotel",
+      "ru": "Я ищу гостиницу",
+      "accepted_en": [
+        "I am looking for a hotel",
+        "I'm looking for a hotel"
+      ]
+    },
+    {
+      "id": "write-basics.90",
+      "en": "Where is the nearest bank?",
+      "ru": "Где ближайший банк?",
+      "accepted_en": [
+        "Where is the nearest bank?"
+      ]
+    },
+    {
+      "id": "write-basics.91",
+      "en": "How far is it?",
+      "ru": "Как далеко это?",
+      "accepted_en": [
+        "How far is it?"
+      ]
+    },
+    {
+      "id": "write-basics.92",
+      "en": "Turn left",
+      "ru": "Поверните налево",
+      "accepted_en": [
+        "Turn left"
+      ]
+    },
+    {
+      "id": "write-basics.93",
+      "en": "Turn right",
+      "ru": "Поверните направо",
+      "accepted_en": [
+        "Turn right"
+      ]
+    },
+    {
+      "id": "write-basics.94",
+      "en": "Go straight",
+      "ru": "Идите прямо",
+      "accepted_en": [
+        "Go straight"
+      ]
+    },
+    {
+      "id": "write-basics.95",
+      "en": "It is near",
+      "ru": "Это рядом",
+      "accepted_en": [
+        "It is near",
+        "It's near"
+      ]
+    },
+    {
+      "id": "write-basics.96",
+      "en": "It is far",
+      "ru": "Это далеко",
+      "accepted_en": [
+        "It is far",
+        "It's far"
+      ]
+    },
+    {
+      "id": "write-basics.97",
+      "en": "I am going home",
+      "ru": "Я иду домой",
+      "accepted_en": [
+        "I am going home",
+        "I'm going home"
+      ]
+    },
+    {
+      "id": "write-basics.98",
+      "en": "I am going to work",
+      "ru": "Я иду на работу",
+      "accepted_en": [
+        "I am going to work",
+        "I'm going to work"
+      ]
+    },
+    {
+      "id": "write-basics.99",
+      "en": "I will call you later",
+      "ru": "Я позвоню тебе позже",
+      "accepted_en": [
+        "I will call you later",
+        "I'll call you later"
+      ]
+    },
+    {
+      "id": "write-basics.100",
+      "en": "Have a good trip",
+      "ru": "Хорошей поездки",
+      "accepted_en": [
+        "Have a good trip"
+      ]
     }
   ]
 }

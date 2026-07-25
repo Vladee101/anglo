@@ -8,701 +8,996 @@
       "id": "read-basics.1",
       "en": "Hello",
       "ru": "Привет",
-      "accepted_en": ["Hello"],
-      "trap_distractors_ru": ["Пока"]
+      "accepted_en": [
+        "Hello"
+      ],
+      "trap_distractors_ru": [
+        "Пока"
+      ]
     },
     {
       "id": "read-basics.2",
       "en": "Thank you",
       "ru": "Спасибо",
-      "accepted_en": ["Thank you"],
-      "trap_distractors_ru": ["Пожалуйста"]
+      "accepted_en": [
+        "Thank you"
+      ]
     },
     {
       "id": "read-basics.3",
       "en": "Good morning",
       "ru": "Доброе утро",
-      "accepted_en": ["Good morning"],
-      "trap_distractors_ru": ["Спокойной ночи"]
+      "accepted_en": [
+        "Good morning"
+      ]
     },
     {
       "id": "read-basics.4",
       "en": "How are you?",
       "ru": "Как дела?",
-      "accepted_en": ["How are you?", "How are you"],
-      "trap_distractors_ru": ["Что делаешь?"]
+      "accepted_en": [
+        "How are you?",
+        "How are you"
+      ],
+      "trap_distractors_ru": [
+        "Что делаешь?"
+      ]
     },
     {
       "id": "read-basics.5",
       "en": "See you later",
       "ru": "Увидимся позже",
-      "accepted_en": ["See you later"],
-      "trap_distractors_ru": ["Увидимся завтра"]
+      "accepted_en": [
+        "See you later"
+      ]
     },
     {
       "id": "read-basics.6",
       "en": "Goodbye",
       "ru": "До свидания",
-      "accepted_en": ["Goodbye"],
-      "trap_distractors_ru": ["Здравствуйте"]
+      "accepted_en": [
+        "Goodbye"
+      ],
+      "trap_distractors_ru": [
+        "Здравствуйте"
+      ]
     },
     {
       "id": "read-basics.7",
       "en": "Please",
       "ru": "Пожалуйста",
-      "accepted_en": ["Please"],
-      "trap_distractors_ru": ["Спасибо"]
+      "accepted_en": [
+        "Please"
+      ]
     },
     {
       "id": "read-basics.8",
       "en": "Yes",
       "ru": "Да",
-      "accepted_en": ["Yes"],
-      "trap_distractors_ru": ["Нет"]
+      "accepted_en": [
+        "Yes"
+      ]
     },
     {
       "id": "read-basics.9",
       "en": "No",
       "ru": "Нет",
-      "accepted_en": ["No"],
-      "trap_distractors_ru": ["Да"]
+      "accepted_en": [
+        "No"
+      ]
     },
     {
       "id": "read-basics.10",
       "en": "Sorry",
       "ru": "Извините",
-      "accepted_en": ["Sorry"],
-      "trap_distractors_ru": ["Пожалуйста"]
+      "accepted_en": [
+        "Sorry"
+      ]
     },
     {
       "id": "read-basics.11",
       "en": "Excuse me",
       "ru": "Простите",
-      "accepted_en": ["Excuse me"],
-      "trap_distractors_ru": ["Извините"]
+      "accepted_en": [
+        "Excuse me"
+      ]
     },
     {
       "id": "read-basics.12",
       "en": "Nice to meet you",
       "ru": "Приятно познакомиться",
-      "accepted_en": ["Nice to meet you"],
-      "trap_distractors_ru": ["Рад тебя видеть"]
+      "accepted_en": [
+        "Nice to meet you"
+      ],
+      "trap_distractors_ru": [
+        "Рад тебя видеть"
+      ]
     },
     {
       "id": "read-basics.13",
       "en": "My name is",
       "ru": "Меня зовут",
-      "accepted_en": ["My name is"],
-      "trap_distractors_ru": ["Мне нравится"]
+      "accepted_en": [
+        "My name is"
+      ],
+      "trap_distractors_ru": [
+        "Мне нравится"
+      ]
     },
     {
       "id": "read-basics.14",
       "en": "What is your name?",
       "ru": "Как тебя зовут?",
-      "accepted_en": ["What is your name?", "What's your name?"],
-      "trap_distractors_ru": ["Как дела?"]
+      "accepted_en": [
+        "What is your name?",
+        "What's your name?"
+      ]
     },
     {
       "id": "read-basics.15",
       "en": "I am fine",
       "ru": "У меня всё хорошо",
-      "accepted_en": ["I am fine", "I'm fine"],
-      "trap_distractors_ru": ["Я голоден"]
+      "accepted_en": [
+        "I am fine",
+        "I'm fine"
+      ]
     },
     {
       "id": "read-basics.16",
       "en": "Good evening",
       "ru": "Добрый вечер",
-      "accepted_en": ["Good evening"],
-      "trap_distractors_ru": ["Доброе утро"]
+      "accepted_en": [
+        "Good evening"
+      ]
     },
     {
       "id": "read-basics.17",
       "en": "Good night",
       "ru": "Спокойной ночи",
-      "accepted_en": ["Good night"],
-      "trap_distractors_ru": ["Добрый вечер"]
+      "accepted_en": [
+        "Good night"
+      ]
     },
     {
       "id": "read-basics.18",
       "en": "I don't understand",
       "ru": "Я не понимаю",
-      "accepted_en": ["I don't understand", "I do not understand"],
-      "trap_distractors_ru": ["Я понимаю"]
+      "accepted_en": [
+        "I don't understand",
+        "I do not understand"
+      ],
+      "trap_distractors_ru": [
+        "Я понимаю"
+      ]
     },
     {
       "id": "read-basics.19",
       "en": "I don't know",
       "ru": "Я не знаю",
-      "accepted_en": ["I don't know", "I do not know"],
-      "trap_distractors_ru": ["Я знаю"]
+      "accepted_en": [
+        "I don't know",
+        "I do not know"
+      ],
+      "trap_distractors_ru": [
+        "Я знаю"
+      ]
     },
     {
       "id": "read-basics.20",
       "en": "Help me",
       "ru": "Помогите мне",
-      "accepted_en": ["Help me"],
-      "trap_distractors_ru": ["Помоги ему"]
+      "accepted_en": [
+        "Help me"
+      ],
+      "trap_distractors_ru": [
+        "Помоги ему"
+      ]
     },
     {
       "id": "read-basics.21",
       "en": "I need help",
       "ru": "Мне нужна помощь",
-      "accepted_en": ["I need help"],
-      "trap_distractors_ru": ["Мне нужна вода"]
+      "accepted_en": [
+        "I need help"
+      ],
+      "trap_distractors_ru": [
+        "Мне нужна вода"
+      ]
     },
     {
       "id": "read-basics.22",
       "en": "Where is the bathroom?",
       "ru": "Где находится ванная комната?",
-      "accepted_en": ["Where is the bathroom?", "Where's the bathroom?"],
-      "trap_distractors_ru": ["Где находится кухня?"]
+      "accepted_en": [
+        "Where is the bathroom?",
+        "Where's the bathroom?"
+      ],
+      "trap_distractors_ru": [
+        "Где находится кухня?"
+      ]
     },
     {
       "id": "read-basics.23",
       "en": "How much is this?",
       "ru": "Сколько это стоит?",
-      "accepted_en": ["How much is this?", "How much does this cost?"],
-      "trap_distractors_ru": ["Что это такое?"]
+      "accepted_en": [
+        "How much is this?",
+        "How much does this cost?"
+      ],
+      "trap_distractors_ru": [
+        "Что это такое?"
+      ]
     },
     {
       "id": "read-basics.24",
       "en": "I want water",
       "ru": "Я хочу воды",
-      "accepted_en": ["I want water"],
-      "trap_distractors_ru": ["Я хочу есть"]
+      "accepted_en": [
+        "I want water"
+      ],
+      "trap_distractors_ru": [
+        "Я хочу есть"
+      ]
     },
     {
       "id": "read-basics.25",
       "en": "I am hungry",
       "ru": "Я голоден",
-      "accepted_en": ["I am hungry", "I'm hungry"],
-      "trap_distractors_ru": ["Я хочу пить"]
+      "accepted_en": [
+        "I am hungry",
+        "I'm hungry"
+      ]
     },
     {
       "id": "read-basics.26",
       "en": "I am thirsty",
       "ru": "Я хочу пить",
-      "accepted_en": ["I am thirsty", "I'm thirsty"],
-      "trap_distractors_ru": ["Я голоден"]
+      "accepted_en": [
+        "I am thirsty",
+        "I'm thirsty"
+      ]
     },
     {
       "id": "read-basics.27",
       "en": "Where are you from?",
       "ru": "Откуда вы?",
-      "accepted_en": ["Where are you from?"],
-      "trap_distractors_ru": ["Куда вы идёте?"]
+      "accepted_en": [
+        "Where are you from?"
+      ],
+      "trap_distractors_ru": [
+        "Куда вы идёте?"
+      ]
     },
     {
       "id": "read-basics.28",
       "en": "I am from Russia",
       "ru": "Я из России",
-      "accepted_en": ["I am from Russia", "I'm from Russia"],
-      "trap_distractors_ru": ["Я из Америки"]
+      "accepted_en": [
+        "I am from Russia",
+        "I'm from Russia"
+      ],
+      "trap_distractors_ru": [
+        "Я из Америки"
+      ]
     },
     {
       "id": "read-basics.29",
       "en": "What time is it?",
       "ru": "Который час?",
-      "accepted_en": ["What time is it?"],
-      "trap_distractors_ru": ["Какой сегодня день?"]
+      "accepted_en": [
+        "What time is it?"
+      ]
     },
     {
       "id": "read-basics.30",
       "en": "See you tomorrow",
       "ru": "Увидимся завтра",
-      "accepted_en": ["See you tomorrow"],
-      "trap_distractors_ru": ["Увидимся позже"]
+      "accepted_en": [
+        "See you tomorrow"
+      ]
     },
     {
       "id": "read-basics.31",
       "en": "Have a nice day",
       "ru": "Хорошего дня",
-      "accepted_en": ["Have a nice day"],
-      "trap_distractors_ru": ["Хорошего вечера"]
+      "accepted_en": [
+        "Have a nice day"
+      ],
+      "trap_distractors_ru": [
+        "Хорошего вечера"
+      ]
     },
     {
       "id": "read-basics.32",
       "en": "I love you",
       "ru": "Я тебя люблю",
-      "accepted_en": ["I love you"],
-      "trap_distractors_ru": ["Я тебя ненавижу"]
+      "accepted_en": [
+        "I love you"
+      ],
+      "trap_distractors_ru": [
+        "Я тебя ненавижу"
+      ]
     },
     {
       "id": "read-basics.33",
       "en": "Take care",
       "ru": "Береги себя",
-      "accepted_en": ["Take care"],
-      "trap_distractors_ru": ["Будь осторожен"]
+      "accepted_en": [
+        "Take care"
+      ],
+      "trap_distractors_ru": [
+        "Будь осторожен"
+      ]
     },
     {
       "id": "read-basics.34",
       "en": "Good luck",
       "ru": "Удачи",
-      "accepted_en": ["Good luck"],
-      "trap_distractors_ru": ["Счастья"]
+      "accepted_en": [
+        "Good luck"
+      ],
+      "trap_distractors_ru": [
+        "Счастья"
+      ]
     },
     {
       "id": "read-basics.35",
       "en": "What is this?",
       "ru": "Что это?",
-      "accepted_en": ["What is this?", "What's this?"],
-      "trap_distractors_ru": ["Кто это?"]
+      "accepted_en": [
+        "What is this?",
+        "What's this?"
+      ]
     },
     {
       "id": "read-basics.36",
       "en": "Who is that?",
       "ru": "Кто это?",
-      "accepted_en": ["Who is that?", "Who's that?"],
-      "trap_distractors_ru": ["Что это?"]
+      "accepted_en": [
+        "Who is that?",
+        "Who's that?"
+      ]
     },
     {
       "id": "read-basics.37",
       "en": "I like it",
       "ru": "Мне это нравится",
-      "accepted_en": ["I like it"],
-      "trap_distractors_ru": ["Мне это не нравится"]
+      "accepted_en": [
+        "I like it"
+      ]
     },
     {
       "id": "read-basics.38",
       "en": "I don't like it",
       "ru": "Мне это не нравится",
-      "accepted_en": ["I don't like it", "I do not like it"],
-      "trap_distractors_ru": ["Мне это нравится"]
+      "accepted_en": [
+        "I don't like it",
+        "I do not like it"
+      ]
     },
     {
       "id": "read-basics.39",
       "en": "Wait for me",
       "ru": "Подожди меня",
-      "accepted_en": ["Wait for me"],
-      "trap_distractors_ru": ["Иди за мной"]
+      "accepted_en": [
+        "Wait for me"
+      ],
+      "trap_distractors_ru": [
+        "Иди за мной"
+      ]
     },
     {
       "id": "read-basics.40",
       "en": "Come here",
       "ru": "Иди сюда",
-      "accepted_en": ["Come here"],
-      "trap_distractors_ru": ["Иди туда"]
+      "accepted_en": [
+        "Come here"
+      ],
+      "trap_distractors_ru": [
+        "Иди туда"
+      ]
     },
     {
       "id": "read-basics.41",
       "en": "Sit down please",
       "ru": "Садитесь пожалуйста",
-      "accepted_en": ["Sit down please", "Please sit down"],
-      "trap_distractors_ru": ["Встаньте пожалуйста"]
+      "accepted_en": [
+        "Sit down please",
+        "Please sit down"
+      ],
+      "trap_distractors_ru": [
+        "Встаньте пожалуйста"
+      ]
     },
     {
       "id": "read-basics.42",
       "en": "Open the door",
       "ru": "Открой дверь",
-      "accepted_en": ["Open the door"],
-      "trap_distractors_ru": ["Закрой дверь"]
+      "accepted_en": [
+        "Open the door"
+      ],
+      "trap_distractors_ru": [
+        "Закрой дверь"
+      ]
     },
     {
       "id": "read-basics.43",
       "en": "Close the window",
       "ru": "Закрой окно",
-      "accepted_en": ["Close the window"],
-      "trap_distractors_ru": ["Открой окно"]
+      "accepted_en": [
+        "Close the window"
+      ],
+      "trap_distractors_ru": [
+        "Открой окно"
+      ]
     },
     {
       "id": "read-basics.44",
       "en": "I am tired",
       "ru": "Я устал",
-      "accepted_en": ["I am tired", "I'm tired"],
-      "trap_distractors_ru": ["Я голоден"]
+      "accepted_en": [
+        "I am tired",
+        "I'm tired"
+      ]
     },
     {
       "id": "read-basics.45",
       "en": "I am cold",
       "ru": "Мне холодно",
-      "accepted_en": ["I am cold", "I'm cold"],
-      "trap_distractors_ru": ["Мне жарко"]
+      "accepted_en": [
+        "I am cold",
+        "I'm cold"
+      ]
     },
     {
       "id": "read-basics.46",
       "en": "I am hot",
       "ru": "Мне жарко",
-      "accepted_en": ["I am hot", "I'm hot"],
-      "trap_distractors_ru": ["Мне холодно"]
+      "accepted_en": [
+        "I am hot",
+        "I'm hot"
+      ]
     },
     {
       "id": "read-basics.47",
       "en": "Speak slowly",
       "ru": "Говорите медленно",
-      "accepted_en": ["Speak slowly"],
-      "trap_distractors_ru": ["Говорите быстро"]
+      "accepted_en": [
+        "Speak slowly"
+      ],
+      "trap_distractors_ru": [
+        "Говорите быстро"
+      ]
     },
     {
       "id": "read-basics.48",
       "en": "I speak a little English",
       "ru": "Я немного говорю по-английски",
-      "accepted_en": ["I speak a little English"],
-      "trap_distractors_ru": ["Я хорошо говорю по-английски"]
+      "accepted_en": [
+        "I speak a little English"
+      ],
+      "trap_distractors_ru": [
+        "Я хорошо говорю по-английски"
+      ]
     },
     {
       "id": "read-basics.49",
       "en": "Can you repeat that?",
       "ru": "Вы можете повторить?",
-      "accepted_en": ["Can you repeat that?", "Can you repeat?"],
-      "trap_distractors_ru": ["Вы можете помочь?"]
+      "accepted_en": [
+        "Can you repeat that?",
+        "Can you repeat?"
+      ],
+      "trap_distractors_ru": [
+        "Вы можете помочь?"
+      ]
     },
     {
       "id": "read-basics.50",
       "en": "I don't speak English",
       "ru": "Я не говорю по-английски",
-      "accepted_en": ["I don't speak English", "I do not speak English"],
-      "trap_distractors_ru": ["Я говорю по-английски"]
+      "accepted_en": [
+        "I don't speak English",
+        "I do not speak English"
+      ],
+      "trap_distractors_ru": [
+        "Я говорю по-английски"
+      ]
     },
     {
       "id": "read-basics.51",
       "en": "How old are you?",
       "ru": "Сколько тебе лет?",
-      "accepted_en": ["How old are you?"],
-      "trap_distractors_ru": ["Как тебя зовут?"]
+      "accepted_en": [
+        "How old are you?"
+      ]
     },
     {
       "id": "read-basics.52",
       "en": "I am twenty years old",
       "ru": "Мне двадцать лет",
-      "accepted_en": ["I am twenty years old", "I'm twenty years old"],
-      "trap_distractors_ru": ["Мне тридцать лет"]
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ],
+      "trap_distractors_ru": [
+        "Мне тридцать лет"
+      ]
     },
     {
       "id": "read-basics.53",
       "en": "Today is Monday",
       "ru": "Сегодня понедельник",
-      "accepted_en": ["Today is Monday"],
-      "trap_distractors_ru": ["Сегодня вторник"]
+      "accepted_en": [
+        "Today is Monday"
+      ],
+      "trap_distractors_ru": [
+        "Сегодня вторник"
+      ]
     },
     {
       "id": "read-basics.54",
       "en": "What day is today?",
       "ru": "Какой сегодня день?",
-      "accepted_en": ["What day is today?"],
-      "trap_distractors_ru": ["Который час?"]
+      "accepted_en": [
+        "What day is today?"
+      ]
     },
     {
       "id": "read-basics.55",
       "en": "I am busy",
       "ru": "Я занят",
-      "accepted_en": ["I am busy", "I'm busy"],
-      "trap_distractors_ru": ["Я свободен"]
+      "accepted_en": [
+        "I am busy",
+        "I'm busy"
+      ]
     },
     {
       "id": "read-basics.56",
       "en": "I am free",
       "ru": "Я свободен",
-      "accepted_en": ["I am free", "I'm free"],
-      "trap_distractors_ru": ["Я занят"]
+      "accepted_en": [
+        "I am free",
+        "I'm free"
+      ]
     },
     {
       "id": "read-basics.57",
       "en": "I have a question",
       "ru": "У меня есть вопрос",
-      "accepted_en": ["I have a question"],
-      "trap_distractors_ru": ["У меня есть проблема"]
+      "accepted_en": [
+        "I have a question"
+      ],
+      "trap_distractors_ru": [
+        "У меня есть проблема"
+      ]
     },
     {
       "id": "read-basics.58",
       "en": "I have a problem",
       "ru": "У меня проблема",
-      "accepted_en": ["I have a problem"],
-      "trap_distractors_ru": ["У меня есть вопрос"]
+      "accepted_en": [
+        "I have a problem"
+      ]
     },
     {
       "id": "read-basics.59",
       "en": "It is important",
       "ru": "Это важно",
-      "accepted_en": ["It is important", "It's important"],
-      "trap_distractors_ru": ["Это неважно"]
+      "accepted_en": [
+        "It is important",
+        "It's important"
+      ]
     },
     {
       "id": "read-basics.60",
       "en": "It is not important",
       "ru": "Это неважно",
-      "accepted_en": ["It is not important", "It's not important"],
-      "trap_distractors_ru": ["Это важно"]
+      "accepted_en": [
+        "It is not important",
+        "It's not important"
+      ]
     },
     {
       "id": "read-basics.61",
       "en": "Where do you live?",
       "ru": "Где ты живёшь?",
-      "accepted_en": ["Where do you live?"],
-      "trap_distractors_ru": ["Откуда ты?"]
+      "accepted_en": [
+        "Where do you live?"
+      ],
+      "trap_distractors_ru": [
+        "Откуда ты?"
+      ]
     },
     {
       "id": "read-basics.62",
       "en": "I live in Moscow",
       "ru": "Я живу в Москве",
-      "accepted_en": ["I live in Moscow"],
-      "trap_distractors_ru": ["Я из Москвы"]
+      "accepted_en": [
+        "I live in Moscow"
+      ],
+      "trap_distractors_ru": [
+        "Я из Москвы"
+      ]
     },
     {
       "id": "read-basics.63",
       "en": "What do you do?",
       "ru": "Чем вы занимаетесь?",
-      "accepted_en": ["What do you do?"],
-      "trap_distractors_ru": ["Как дела?"]
+      "accepted_en": [
+        "What do you do?"
+      ]
     },
     {
       "id": "read-basics.64",
       "en": "I am a student",
       "ru": "Я студент",
-      "accepted_en": ["I am a student", "I'm a student"],
-      "trap_distractors_ru": ["Я учитель"]
+      "accepted_en": [
+        "I am a student",
+        "I'm a student"
+      ]
     },
     {
       "id": "read-basics.65",
       "en": "I am a teacher",
       "ru": "Я учитель",
-      "accepted_en": ["I am a teacher", "I'm a teacher"],
-      "trap_distractors_ru": ["Я студент"]
+      "accepted_en": [
+        "I am a teacher",
+        "I'm a teacher"
+      ]
     },
     {
       "id": "read-basics.66",
       "en": "I work in an office",
       "ru": "Я работаю в офисе",
-      "accepted_en": ["I work in an office"],
-      "trap_distractors_ru": ["Я работаю дома"]
+      "accepted_en": [
+        "I work in an office"
+      ],
+      "trap_distractors_ru": [
+        "Я работаю дома"
+      ]
     },
     {
       "id": "read-basics.67",
       "en": "Do you speak English?",
       "ru": "Вы говорите по-английски?",
-      "accepted_en": ["Do you speak English?"],
-      "trap_distractors_ru": ["Вы говорите по-русски?"]
+      "accepted_en": [
+        "Do you speak English?"
+      ],
+      "trap_distractors_ru": [
+        "Вы говорите по-русски?"
+      ]
     },
     {
       "id": "read-basics.68",
       "en": "I don't have time",
       "ru": "У меня нет времени",
-      "accepted_en": ["I don't have time", "I do not have time"],
-      "trap_distractors_ru": ["У меня есть время"]
+      "accepted_en": [
+        "I don't have time",
+        "I do not have time"
+      ]
     },
     {
       "id": "read-basics.69",
       "en": "I have time",
       "ru": "У меня есть время",
-      "accepted_en": ["I have time"],
-      "trap_distractors_ru": ["У меня нет времени"]
+      "accepted_en": [
+        "I have time"
+      ]
     },
     {
       "id": "read-basics.70",
       "en": "I am lost",
       "ru": "Я потерялся",
-      "accepted_en": ["I am lost", "I'm lost"],
-      "trap_distractors_ru": ["Я нашёлся"]
+      "accepted_en": [
+        "I am lost",
+        "I'm lost"
+      ],
+      "trap_distractors_ru": [
+        "Я нашёлся"
+      ]
     },
     {
       "id": "read-basics.71",
       "en": "Can you help me?",
       "ru": "Вы можете мне помочь?",
-      "accepted_en": ["Can you help me?"],
-      "trap_distractors_ru": ["Вы можете меня видеть?"]
+      "accepted_en": [
+        "Can you help me?"
+      ],
+      "trap_distractors_ru": [
+        "Вы можете меня видеть?"
+      ]
     },
     {
       "id": "read-basics.72",
       "en": "What does this mean?",
       "ru": "Что это значит?",
-      "accepted_en": ["What does this mean?"],
-      "trap_distractors_ru": ["Что это такое?"]
+      "accepted_en": [
+        "What does this mean?"
+      ],
+      "trap_distractors_ru": [
+        "Что это такое?"
+      ]
     },
     {
       "id": "read-basics.73",
       "en": "How do you say this in English?",
       "ru": "Как это сказать по-английски?",
-      "accepted_en": ["How do you say this in English?"],
-      "trap_distractors_ru": ["Как это пишется по-английски?"]
+      "accepted_en": [
+        "How do you say this in English?"
+      ],
+      "trap_distractors_ru": [
+        "Как это пишется по-английски?"
+      ]
     },
     {
       "id": "read-basics.74",
       "en": "Write it down please",
       "ru": "Запишите это пожалуйста",
-      "accepted_en": ["Write it down please", "Please write it down"],
-      "trap_distractors_ru": ["Прочитайте это пожалуйста"]
+      "accepted_en": [
+        "Write it down please",
+        "Please write it down"
+      ]
     },
     {
       "id": "read-basics.75",
       "en": "Read this please",
       "ru": "Прочитайте это пожалуйста",
-      "accepted_en": ["Read this please", "Please read this"],
-      "trap_distractors_ru": ["Запишите это пожалуйста"]
+      "accepted_en": [
+        "Read this please",
+        "Please read this"
+      ]
     },
     {
       "id": "read-basics.76",
       "en": "I am learning English",
       "ru": "Я учу английский",
-      "accepted_en": ["I am learning English", "I'm learning English"],
-      "trap_distractors_ru": ["Я учу русский"]
+      "accepted_en": [
+        "I am learning English",
+        "I'm learning English"
+      ],
+      "trap_distractors_ru": [
+        "Я учу русский"
+      ]
     },
     {
       "id": "read-basics.77",
       "en": "That is good",
       "ru": "Это хорошо",
-      "accepted_en": ["That is good", "That's good"],
-      "trap_distractors_ru": ["Это плохо"]
+      "accepted_en": [
+        "That is good",
+        "That's good"
+      ]
     },
     {
       "id": "read-basics.78",
       "en": "That is bad",
       "ru": "Это плохо",
-      "accepted_en": ["That is bad", "That's bad"],
-      "trap_distractors_ru": ["Это хорошо"]
+      "accepted_en": [
+        "That is bad",
+        "That's bad"
+      ]
     },
     {
       "id": "read-basics.79",
       "en": "No problem",
       "ru": "Без проблем",
-      "accepted_en": ["No problem"],
-      "trap_distractors_ru": ["Пожалуйста"]
+      "accepted_en": [
+        "No problem"
+      ]
     },
     {
       "id": "read-basics.80",
       "en": "You are welcome",
-      "ru": "Пожалуйста",
-      "accepted_en": ["You are welcome", "You're welcome"],
-      "trap_distractors_ru": ["Спасибо"]
+      "ru": "Не за что",
+      "accepted_en": [
+        "You are welcome",
+        "You're welcome"
+      ]
     },
     {
       "id": "read-basics.81",
       "en": "I am happy",
       "ru": "Я счастлив",
-      "accepted_en": ["I am happy", "I'm happy"],
-      "trap_distractors_ru": ["Я грустный"]
+      "accepted_en": [
+        "I am happy",
+        "I'm happy"
+      ]
     },
     {
       "id": "read-basics.82",
       "en": "I am sad",
       "ru": "Я грустный",
-      "accepted_en": ["I am sad", "I'm sad"],
-      "trap_distractors_ru": ["Я счастлив"]
+      "accepted_en": [
+        "I am sad",
+        "I'm sad"
+      ]
     },
     {
       "id": "read-basics.83",
       "en": "I am sick",
       "ru": "Я болен",
-      "accepted_en": ["I am sick", "I'm sick"],
-      "trap_distractors_ru": ["Я здоров"]
+      "accepted_en": [
+        "I am sick",
+        "I'm sick"
+      ],
+      "trap_distractors_ru": [
+        "Я здоров"
+      ]
     },
     {
       "id": "read-basics.84",
       "en": "I need a doctor",
       "ru": "Мне нужен врач",
-      "accepted_en": ["I need a doctor"],
-      "trap_distractors_ru": ["Мне нужен учитель"]
+      "accepted_en": [
+        "I need a doctor"
+      ],
+      "trap_distractors_ru": [
+        "Мне нужен учитель"
+      ]
     },
     {
       "id": "read-basics.85",
       "en": "Call the police",
       "ru": "Вызовите полицию",
-      "accepted_en": ["Call the police"],
-      "trap_distractors_ru": ["Вызовите врача"]
+      "accepted_en": [
+        "Call the police"
+      ],
+      "trap_distractors_ru": [
+        "Вызовите врача"
+      ]
     },
     {
       "id": "read-basics.86",
       "en": "I am sorry I am late",
       "ru": "Извините за опоздание",
-      "accepted_en": ["I am sorry I am late", "Sorry I'm late"],
-      "trap_distractors_ru": ["Извините за ранний приход"]
+      "accepted_en": [
+        "I am sorry I am late",
+        "Sorry I'm late"
+      ],
+      "trap_distractors_ru": [
+        "Извините за ранний приход"
+      ]
     },
     {
       "id": "read-basics.87",
       "en": "What is your phone number?",
       "ru": "Какой у вас номер телефона?",
-      "accepted_en": ["What is your phone number?", "What's your phone number?"],
-      "trap_distractors_ru": ["Какой у вас адрес?"]
+      "accepted_en": [
+        "What is your phone number?",
+        "What's your phone number?"
+      ],
+      "trap_distractors_ru": [
+        "Какой у вас адрес?"
+      ]
     },
     {
       "id": "read-basics.88",
       "en": "My phone number is",
       "ru": "Мой номер телефона",
-      "accepted_en": ["My phone number is"],
-      "trap_distractors_ru": ["Мой адрес"]
+      "accepted_en": [
+        "My phone number is"
+      ],
+      "trap_distractors_ru": [
+        "Мой адрес"
+      ]
     },
     {
       "id": "read-basics.89",
       "en": "I am looking for a hotel",
       "ru": "Я ищу гостиницу",
-      "accepted_en": ["I am looking for a hotel", "I'm looking for a hotel"],
-      "trap_distractors_ru": ["Я ищу ресторан"]
+      "accepted_en": [
+        "I am looking for a hotel",
+        "I'm looking for a hotel"
+      ],
+      "trap_distractors_ru": [
+        "Я ищу ресторан"
+      ]
     },
     {
       "id": "read-basics.90",
       "en": "Where is the nearest bank?",
       "ru": "Где ближайший банк?",
-      "accepted_en": ["Where is the nearest bank?"],
-      "trap_distractors_ru": ["Где ближайший магазин?"]
+      "accepted_en": [
+        "Where is the nearest bank?"
+      ],
+      "trap_distractors_ru": [
+        "Где ближайший магазин?"
+      ]
     },
     {
       "id": "read-basics.91",
       "en": "How far is it?",
       "ru": "Как далеко это?",
-      "accepted_en": ["How far is it?"],
-      "trap_distractors_ru": ["Как близко это?"]
+      "accepted_en": [
+        "How far is it?"
+      ],
+      "trap_distractors_ru": [
+        "Как близко это?"
+      ]
     },
     {
       "id": "read-basics.92",
       "en": "Turn left",
       "ru": "Поверните налево",
-      "accepted_en": ["Turn left"],
-      "trap_distractors_ru": ["Поверните направо"]
+      "accepted_en": [
+        "Turn left"
+      ]
     },
     {
       "id": "read-basics.93",
       "en": "Turn right",
       "ru": "Поверните направо",
-      "accepted_en": ["Turn right"],
-      "trap_distractors_ru": ["Поверните налево"]
+      "accepted_en": [
+        "Turn right"
+      ]
     },
     {
       "id": "read-basics.94",
       "en": "Go straight",
       "ru": "Идите прямо",
-      "accepted_en": ["Go straight"],
-      "trap_distractors_ru": ["Идите назад"]
+      "accepted_en": [
+        "Go straight"
+      ],
+      "trap_distractors_ru": [
+        "Идите назад"
+      ]
     },
     {
       "id": "read-basics.95",
       "en": "It is near",
       "ru": "Это рядом",
-      "accepted_en": ["It is near", "It's near"],
-      "trap_distractors_ru": ["Это далеко"]
+      "accepted_en": [
+        "It is near",
+        "It's near"
+      ]
     },
     {
       "id": "read-basics.96",
       "en": "It is far",
       "ru": "Это далеко",
-      "accepted_en": ["It is far", "It's far"],
-      "trap_distractors_ru": ["Это рядом"]
+      "accepted_en": [
+        "It is far",
+        "It's far"
+      ]
     },
     {
       "id": "read-basics.97",
       "en": "I am going home",
       "ru": "Я иду домой",
-      "accepted_en": ["I am going home", "I'm going home"],
-      "trap_distractors_ru": ["Я иду на работу"]
+      "accepted_en": [
+        "I am going home",
+        "I'm going home"
+      ]
     },
     {
       "id": "read-basics.98",
       "en": "I am going to work",
       "ru": "Я иду на работу",
-      "accepted_en": ["I am going to work", "I'm going to work"],
-      "trap_distractors_ru": ["Я иду домой"]
+      "accepted_en": [
+        "I am going to work",
+        "I'm going to work"
+      ]
     },
     {
       "id": "read-basics.99",
       "en": "I will call you later",
       "ru": "Я позвоню тебе позже",
-      "accepted_en": ["I will call you later", "I'll call you later"],
-      "trap_distractors_ru": ["Я напишу тебе позже"]
+      "accepted_en": [
+        "I will call you later",
+        "I'll call you later"
+      ],
+      "trap_distractors_ru": [
+        "Я напишу тебе позже"
+      ]
     },
     {
       "id": "read-basics.100",
       "en": "Have a good trip",
       "ru": "Хорошей поездки",
-      "accepted_en": ["Have a good trip"],
-      "trap_distractors_ru": ["Хорошего дня"]
+      "accepted_en": [
+        "Have a good trip"
+      ]
     }
   ]
 }

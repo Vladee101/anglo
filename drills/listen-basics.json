@@ -6,40 +6,948 @@
   "items": [
     {
       "id": "listen-basics.1",
-      "en": "Good evening",
-      "ru": "Добрый вечер",
-      "accepted_en": ["Good evening"],
-      "trap_distractors_ru": ["Доброе утро"],
+      "en": "Hello",
+      "ru": "Привет",
+      "accepted_en": [
+        "Hello"
+      ],
       "audio": "audio/listen-basics.1.mp3"
     },
     {
       "id": "listen-basics.2",
-      "en": "Nice to meet you",
-      "ru": "Приятно познакомиться",
-      "accepted_en": ["Nice to meet you"],
+      "en": "Thank you",
+      "ru": "Спасибо",
+      "accepted_en": [
+        "Thank you"
+      ],
       "audio": "audio/listen-basics.2.mp3"
     },
     {
       "id": "listen-basics.3",
-      "en": "What is your name?",
-      "ru": "Как тебя зовут?",
-      "accepted_en": ["What is your name?", "What is your name"],
+      "en": "Good morning",
+      "ru": "Доброе утро",
+      "accepted_en": [
+        "Good morning"
+      ],
       "audio": "audio/listen-basics.3.mp3"
     },
     {
       "id": "listen-basics.4",
-      "en": "I don't understand",
-      "ru": "Я не понимаю",
-      "accepted_en": ["I don't understand", "I do not understand"],
+      "en": "How are you?",
+      "ru": "Как дела?",
+      "accepted_en": [
+        "How are you?",
+        "How are you"
+      ],
       "audio": "audio/listen-basics.4.mp3"
     },
     {
       "id": "listen-basics.5",
-      "en": "Excuse me",
-      "ru": "Извините",
-      "accepted_en": ["Excuse me"],
-      "trap_distractors_ru": ["Извините меня, пожалуйста"],
+      "en": "See you later",
+      "ru": "Увидимся позже",
+      "accepted_en": [
+        "See you later"
+      ],
       "audio": "audio/listen-basics.5.mp3"
+    },
+    {
+      "id": "listen-basics.6",
+      "en": "Goodbye",
+      "ru": "До свидания",
+      "accepted_en": [
+        "Goodbye"
+      ],
+      "audio": "audio/listen-basics.6.mp3"
+    },
+    {
+      "id": "listen-basics.7",
+      "en": "Please",
+      "ru": "Пожалуйста",
+      "accepted_en": [
+        "Please"
+      ],
+      "audio": "audio/listen-basics.7.mp3"
+    },
+    {
+      "id": "listen-basics.8",
+      "en": "Yes",
+      "ru": "Да",
+      "accepted_en": [
+        "Yes"
+      ],
+      "audio": "audio/listen-basics.8.mp3"
+    },
+    {
+      "id": "listen-basics.9",
+      "en": "No",
+      "ru": "Нет",
+      "accepted_en": [
+        "No"
+      ],
+      "audio": "audio/listen-basics.9.mp3"
+    },
+    {
+      "id": "listen-basics.10",
+      "en": "Sorry",
+      "ru": "Извините",
+      "accepted_en": [
+        "Sorry"
+      ],
+      "audio": "audio/listen-basics.10.mp3"
+    },
+    {
+      "id": "listen-basics.11",
+      "en": "Excuse me",
+      "ru": "Простите",
+      "accepted_en": [
+        "Excuse me"
+      ],
+      "audio": "audio/listen-basics.11.mp3"
+    },
+    {
+      "id": "listen-basics.12",
+      "en": "Nice to meet you",
+      "ru": "Приятно познакомиться",
+      "accepted_en": [
+        "Nice to meet you"
+      ],
+      "audio": "audio/listen-basics.12.mp3"
+    },
+    {
+      "id": "listen-basics.13",
+      "en": "My name is",
+      "ru": "Меня зовут",
+      "accepted_en": [
+        "My name is"
+      ],
+      "audio": "audio/listen-basics.13.mp3"
+    },
+    {
+      "id": "listen-basics.14",
+      "en": "What is your name?",
+      "ru": "Как тебя зовут?",
+      "accepted_en": [
+        "What is your name?",
+        "What's your name?"
+      ],
+      "audio": "audio/listen-basics.14.mp3"
+    },
+    {
+      "id": "listen-basics.15",
+      "en": "I am fine",
+      "ru": "У меня всё хорошо",
+      "accepted_en": [
+        "I am fine",
+        "I'm fine"
+      ],
+      "audio": "audio/listen-basics.15.mp3"
+    },
+    {
+      "id": "listen-basics.16",
+      "en": "Good evening",
+      "ru": "Добрый вечер",
+      "accepted_en": [
+        "Good evening"
+      ],
+      "audio": "audio/listen-basics.16.mp3"
+    },
+    {
+      "id": "listen-basics.17",
+      "en": "Good night",
+      "ru": "Спокойной ночи",
+      "accepted_en": [
+        "Good night"
+      ],
+      "audio": "audio/listen-basics.17.mp3"
+    },
+    {
+      "id": "listen-basics.18",
+      "en": "I don't understand",
+      "ru": "Я не понимаю",
+      "accepted_en": [
+        "I don't understand",
+        "I do not understand"
+      ],
+      "audio": "audio/listen-basics.18.mp3"
+    },
+    {
+      "id": "listen-basics.19",
+      "en": "I don't know",
+      "ru": "Я не знаю",
+      "accepted_en": [
+        "I don't know",
+        "I do not know"
+      ],
+      "audio": "audio/listen-basics.19.mp3"
+    },
+    {
+      "id": "listen-basics.20",
+      "en": "Help me",
+      "ru": "Помогите мне",
+      "accepted_en": [
+        "Help me"
+      ],
+      "audio": "audio/listen-basics.20.mp3"
+    },
+    {
+      "id": "listen-basics.21",
+      "en": "I need help",
+      "ru": "Мне нужна помощь",
+      "accepted_en": [
+        "I need help"
+      ],
+      "audio": "audio/listen-basics.21.mp3"
+    },
+    {
+      "id": "listen-basics.22",
+      "en": "Where is the bathroom?",
+      "ru": "Где находится ванная комната?",
+      "accepted_en": [
+        "Where is the bathroom?",
+        "Where's the bathroom?"
+      ],
+      "audio": "audio/listen-basics.22.mp3"
+    },
+    {
+      "id": "listen-basics.23",
+      "en": "How much is this?",
+      "ru": "Сколько это стоит?",
+      "accepted_en": [
+        "How much is this?",
+        "How much does this cost?"
+      ],
+      "audio": "audio/listen-basics.23.mp3"
+    },
+    {
+      "id": "listen-basics.24",
+      "en": "I want water",
+      "ru": "Я хочу воды",
+      "accepted_en": [
+        "I want water"
+      ],
+      "audio": "audio/listen-basics.24.mp3"
+    },
+    {
+      "id": "listen-basics.25",
+      "en": "I am hungry",
+      "ru": "Я голоден",
+      "accepted_en": [
+        "I am hungry",
+        "I'm hungry"
+      ],
+      "audio": "audio/listen-basics.25.mp3"
+    },
+    {
+      "id": "listen-basics.26",
+      "en": "I am thirsty",
+      "ru": "Я хочу пить",
+      "accepted_en": [
+        "I am thirsty",
+        "I'm thirsty"
+      ],
+      "audio": "audio/listen-basics.26.mp3"
+    },
+    {
+      "id": "listen-basics.27",
+      "en": "Where are you from?",
+      "ru": "Откуда вы?",
+      "accepted_en": [
+        "Where are you from?"
+      ],
+      "audio": "audio/listen-basics.27.mp3"
+    },
+    {
+      "id": "listen-basics.28",
+      "en": "I am from Russia",
+      "ru": "Я из России",
+      "accepted_en": [
+        "I am from Russia",
+        "I'm from Russia"
+      ],
+      "audio": "audio/listen-basics.28.mp3"
+    },
+    {
+      "id": "listen-basics.29",
+      "en": "What time is it?",
+      "ru": "Который час?",
+      "accepted_en": [
+        "What time is it?"
+      ],
+      "audio": "audio/listen-basics.29.mp3"
+    },
+    {
+      "id": "listen-basics.30",
+      "en": "See you tomorrow",
+      "ru": "Увидимся завтра",
+      "accepted_en": [
+        "See you tomorrow"
+      ],
+      "audio": "audio/listen-basics.30.mp3"
+    },
+    {
+      "id": "listen-basics.31",
+      "en": "Have a nice day",
+      "ru": "Хорошего дня",
+      "accepted_en": [
+        "Have a nice day"
+      ],
+      "audio": "audio/listen-basics.31.mp3"
+    },
+    {
+      "id": "listen-basics.32",
+      "en": "I love you",
+      "ru": "Я тебя люблю",
+      "accepted_en": [
+        "I love you"
+      ],
+      "audio": "audio/listen-basics.32.mp3"
+    },
+    {
+      "id": "listen-basics.33",
+      "en": "Take care",
+      "ru": "Береги себя",
+      "accepted_en": [
+        "Take care"
+      ],
+      "audio": "audio/listen-basics.33.mp3"
+    },
+    {
+      "id": "listen-basics.34",
+      "en": "Good luck",
+      "ru": "Удачи",
+      "accepted_en": [
+        "Good luck"
+      ],
+      "audio": "audio/listen-basics.34.mp3"
+    },
+    {
+      "id": "listen-basics.35",
+      "en": "What is this?",
+      "ru": "Что это?",
+      "accepted_en": [
+        "What is this?",
+        "What's this?"
+      ],
+      "audio": "audio/listen-basics.35.mp3"
+    },
+    {
+      "id": "listen-basics.36",
+      "en": "Who is that?",
+      "ru": "Кто это?",
+      "accepted_en": [
+        "Who is that?",
+        "Who's that?"
+      ],
+      "audio": "audio/listen-basics.36.mp3"
+    },
+    {
+      "id": "listen-basics.37",
+      "en": "I like it",
+      "ru": "Мне это нравится",
+      "accepted_en": [
+        "I like it"
+      ],
+      "audio": "audio/listen-basics.37.mp3"
+    },
+    {
+      "id": "listen-basics.38",
+      "en": "I don't like it",
+      "ru": "Мне это не нравится",
+      "accepted_en": [
+        "I don't like it",
+        "I do not like it"
+      ],
+      "audio": "audio/listen-basics.38.mp3"
+    },
+    {
+      "id": "listen-basics.39",
+      "en": "Wait for me",
+      "ru": "Подожди меня",
+      "accepted_en": [
+        "Wait for me"
+      ],
+      "audio": "audio/listen-basics.39.mp3"
+    },
+    {
+      "id": "listen-basics.40",
+      "en": "Come here",
+      "ru": "Иди сюда",
+      "accepted_en": [
+        "Come here"
+      ],
+      "audio": "audio/listen-basics.40.mp3"
+    },
+    {
+      "id": "listen-basics.41",
+      "en": "Sit down please",
+      "ru": "Садитесь пожалуйста",
+      "accepted_en": [
+        "Sit down please",
+        "Please sit down"
+      ],
+      "audio": "audio/listen-basics.41.mp3"
+    },
+    {
+      "id": "listen-basics.42",
+      "en": "Open the door",
+      "ru": "Открой дверь",
+      "accepted_en": [
+        "Open the door"
+      ],
+      "audio": "audio/listen-basics.42.mp3"
+    },
+    {
+      "id": "listen-basics.43",
+      "en": "Close the window",
+      "ru": "Закрой окно",
+      "accepted_en": [
+        "Close the window"
+      ],
+      "audio": "audio/listen-basics.43.mp3"
+    },
+    {
+      "id": "listen-basics.44",
+      "en": "I am tired",
+      "ru": "Я устал",
+      "accepted_en": [
+        "I am tired",
+        "I'm tired"
+      ],
+      "audio": "audio/listen-basics.44.mp3"
+    },
+    {
+      "id": "listen-basics.45",
+      "en": "I am cold",
+      "ru": "Мне холодно",
+      "accepted_en": [
+        "I am cold",
+        "I'm cold"
+      ],
+      "audio": "audio/listen-basics.45.mp3"
+    },
+    {
+      "id": "listen-basics.46",
+      "en": "I am hot",
+      "ru": "Мне жарко",
+      "accepted_en": [
+        "I am hot",
+        "I'm hot"
+      ],
+      "audio": "audio/listen-basics.46.mp3"
+    },
+    {
+      "id": "listen-basics.47",
+      "en": "Speak slowly",
+      "ru": "Говорите медленно",
+      "accepted_en": [
+        "Speak slowly"
+      ],
+      "audio": "audio/listen-basics.47.mp3"
+    },
+    {
+      "id": "listen-basics.48",
+      "en": "I speak a little English",
+      "ru": "Я немного говорю по-английски",
+      "accepted_en": [
+        "I speak a little English"
+      ],
+      "audio": "audio/listen-basics.48.mp3"
+    },
+    {
+      "id": "listen-basics.49",
+      "en": "Can you repeat that?",
+      "ru": "Вы можете повторить?",
+      "accepted_en": [
+        "Can you repeat that?",
+        "Can you repeat?"
+      ],
+      "audio": "audio/listen-basics.49.mp3"
+    },
+    {
+      "id": "listen-basics.50",
+      "en": "I don't speak English",
+      "ru": "Я не говорю по-английски",
+      "accepted_en": [
+        "I don't speak English",
+        "I do not speak English"
+      ],
+      "audio": "audio/listen-basics.50.mp3"
+    },
+    {
+      "id": "listen-basics.51",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?"
+      ],
+      "audio": "audio/listen-basics.51.mp3"
+    },
+    {
+      "id": "listen-basics.52",
+      "en": "I am twenty years old",
+      "ru": "Мне двадцать лет",
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ],
+      "audio": "audio/listen-basics.52.mp3"
+    },
+    {
+      "id": "listen-basics.53",
+      "en": "Today is Monday",
+      "ru": "Сегодня понедельник",
+      "accepted_en": [
+        "Today is Monday"
+      ],
+      "audio": "audio/listen-basics.53.mp3"
+    },
+    {
+      "id": "listen-basics.54",
+      "en": "What day is today?",
+      "ru": "Какой сегодня день?",
+      "accepted_en": [
+        "What day is today?"
+      ],
+      "audio": "audio/listen-basics.54.mp3"
+    },
+    {
+      "id": "listen-basics.55",
+      "en": "I am busy",
+      "ru": "Я занят",
+      "accepted_en": [
+        "I am busy",
+        "I'm busy"
+      ],
+      "audio": "audio/listen-basics.55.mp3"
+    },
+    {
+      "id": "listen-basics.56",
+      "en": "I am free",
+      "ru": "Я свободен",
+      "accepted_en": [
+        "I am free",
+        "I'm free"
+      ],
+      "audio": "audio/listen-basics.56.mp3"
+    },
+    {
+      "id": "listen-basics.57",
+      "en": "I have a question",
+      "ru": "У меня есть вопрос",
+      "accepted_en": [
+        "I have a question"
+      ],
+      "audio": "audio/listen-basics.57.mp3"
+    },
+    {
+      "id": "listen-basics.58",
+      "en": "I have a problem",
+      "ru": "У меня проблема",
+      "accepted_en": [
+        "I have a problem"
+      ],
+      "audio": "audio/listen-basics.58.mp3"
+    },
+    {
+      "id": "listen-basics.59",
+      "en": "It is important",
+      "ru": "Это важно",
+      "accepted_en": [
+        "It is important",
+        "It's important"
+      ],
+      "audio": "audio/listen-basics.59.mp3"
+    },
+    {
+      "id": "listen-basics.60",
+      "en": "It is not important",
+      "ru": "Это неважно",
+      "accepted_en": [
+        "It is not important",
+        "It's not important"
+      ],
+      "audio": "audio/listen-basics.60.mp3"
+    },
+    {
+      "id": "listen-basics.61",
+      "en": "Where do you live?",
+      "ru": "Где ты живёшь?",
+      "accepted_en": [
+        "Where do you live?"
+      ],
+      "audio": "audio/listen-basics.61.mp3"
+    },
+    {
+      "id": "listen-basics.62",
+      "en": "I live in Moscow",
+      "ru": "Я живу в Москве",
+      "accepted_en": [
+        "I live in Moscow"
+      ],
+      "audio": "audio/listen-basics.62.mp3"
+    },
+    {
+      "id": "listen-basics.63",
+      "en": "What do you do?",
+      "ru": "Чем вы занимаетесь?",
+      "accepted_en": [
+        "What do you do?"
+      ],
+      "audio": "audio/listen-basics.63.mp3"
+    },
+    {
+      "id": "listen-basics.64",
+      "en": "I am a student",
+      "ru": "Я студент",
+      "accepted_en": [
+        "I am a student",
+        "I'm a student"
+      ],
+      "audio": "audio/listen-basics.64.mp3"
+    },
+    {
+      "id": "listen-basics.65",
+      "en": "I am a teacher",
+      "ru": "Я учитель",
+      "accepted_en": [
+        "I am a teacher",
+        "I'm a teacher"
+      ],
+      "audio": "audio/listen-basics.65.mp3"
+    },
+    {
+      "id": "listen-basics.66",
+      "en": "I work in an office",
+      "ru": "Я работаю в офисе",
+      "accepted_en": [
+        "I work in an office"
+      ],
+      "audio": "audio/listen-basics.66.mp3"
+    },
+    {
+      "id": "listen-basics.67",
+      "en": "Do you speak English?",
+      "ru": "Вы говорите по-английски?",
+      "accepted_en": [
+        "Do you speak English?"
+      ],
+      "audio": "audio/listen-basics.67.mp3"
+    },
+    {
+      "id": "listen-basics.68",
+      "en": "I don't have time",
+      "ru": "У меня нет времени",
+      "accepted_en": [
+        "I don't have time",
+        "I do not have time"
+      ],
+      "audio": "audio/listen-basics.68.mp3"
+    },
+    {
+      "id": "listen-basics.69",
+      "en": "I have time",
+      "ru": "У меня есть время",
+      "accepted_en": [
+        "I have time"
+      ],
+      "audio": "audio/listen-basics.69.mp3"
+    },
+    {
+      "id": "listen-basics.70",
+      "en": "I am lost",
+      "ru": "Я потерялся",
+      "accepted_en": [
+        "I am lost",
+        "I'm lost"
+      ],
+      "audio": "audio/listen-basics.70.mp3"
+    },
+    {
+      "id": "listen-basics.71",
+      "en": "Can you help me?",
+      "ru": "Вы можете мне помочь?",
+      "accepted_en": [
+        "Can you help me?"
+      ],
+      "audio": "audio/listen-basics.71.mp3"
+    },
+    {
+      "id": "listen-basics.72",
+      "en": "What does this mean?",
+      "ru": "Что это значит?",
+      "accepted_en": [
+        "What does this mean?"
+      ],
+      "audio": "audio/listen-basics.72.mp3"
+    },
+    {
+      "id": "listen-basics.73",
+      "en": "How do you say this in English?",
+      "ru": "Как это сказать по-английски?",
+      "accepted_en": [
+        "How do you say this in English?"
+      ],
+      "audio": "audio/listen-basics.73.mp3"
+    },
+    {
+      "id": "listen-basics.74",
+      "en": "Write it down please",
+      "ru": "Запишите это пожалуйста",
+      "accepted_en": [
+        "Write it down please",
+        "Please write it down"
+      ],
+      "audio": "audio/listen-basics.74.mp3"
+    },
+    {
+      "id": "listen-basics.75",
+      "en": "Read this please",
+      "ru": "Прочитайте это пожалуйста",
+      "accepted_en": [
+        "Read this please",
+        "Please read this"
+      ],
+      "audio": "audio/listen-basics.75.mp3"
+    },
+    {
+      "id": "listen-basics.76",
+      "en": "I am learning English",
+      "ru": "Я учу английский",
+      "accepted_en": [
+        "I am learning English",
+        "I'm learning English"
+      ],
+      "audio": "audio/listen-basics.76.mp3"
+    },
+    {
+      "id": "listen-basics.77",
+      "en": "That is good",
+      "ru": "Это хорошо",
+      "accepted_en": [
+        "That is good",
+        "That's good"
+      ],
+      "audio": "audio/listen-basics.77.mp3"
+    },
+    {
+      "id": "listen-basics.78",
+      "en": "That is bad",
+      "ru": "Это плохо",
+      "accepted_en": [
+        "That is bad",
+        "That's bad"
+      ],
+      "audio": "audio/listen-basics.78.mp3"
+    },
+    {
+      "id": "listen-basics.79",
+      "en": "No problem",
+      "ru": "Без проблем",
+      "accepted_en": [
+        "No problem"
+      ],
+      "audio": "audio/listen-basics.79.mp3"
+    },
+    {
+      "id": "listen-basics.80",
+      "en": "You are welcome",
+      "ru": "Не за что",
+      "accepted_en": [
+        "You are welcome",
+        "You're welcome"
+      ],
+      "audio": "audio/listen-basics.80.mp3"
+    },
+    {
+      "id": "listen-basics.81",
+      "en": "I am happy",
+      "ru": "Я счастлив",
+      "accepted_en": [
+        "I am happy",
+        "I'm happy"
+      ],
+      "audio": "audio/listen-basics.81.mp3"
+    },
+    {
+      "id": "listen-basics.82",
+      "en": "I am sad",
+      "ru": "Я грустный",
+      "accepted_en": [
+        "I am sad",
+        "I'm sad"
+      ],
+      "audio": "audio/listen-basics.82.mp3"
+    },
+    {
+      "id": "listen-basics.83",
+      "en": "I am sick",
+      "ru": "Я болен",
+      "accepted_en": [
+        "I am sick",
+        "I'm sick"
+      ],
+      "audio": "audio/listen-basics.83.mp3"
+    },
+    {
+      "id": "listen-basics.84",
+      "en": "I need a doctor",
+      "ru": "Мне нужен врач",
+      "accepted_en": [
+        "I need a doctor"
+      ],
+      "audio": "audio/listen-basics.84.mp3"
+    },
+    {
+      "id": "listen-basics.85",
+      "en": "Call the police",
+      "ru": "Вызовите полицию",
+      "accepted_en": [
+        "Call the police"
+      ],
+      "audio": "audio/listen-basics.85.mp3"
+    },
+    {
+      "id": "listen-basics.86",
+      "en": "I am sorry I am late",
+      "ru": "Извините за опоздание",
+      "accepted_en": [
+        "I am sorry I am late",
+        "Sorry I'm late"
+      ],
+      "audio": "audio/listen-basics.86.mp3"
+    },
+    {
+      "id": "listen-basics.87",
+      "en": "What is your phone number?",
+      "ru": "Какой у вас номер телефона?",
+      "accepted_en": [
+        "What is your phone number?",
+        "What's your phone number?"
+      ],
+      "audio": "audio/listen-basics.87.mp3"
+    },
+    {
+      "id": "listen-basics.88",
+      "en": "My phone number is",
+      "ru": "Мой номер телефона",
+      "accepted_en": [
+        "My phone number is"
+      ],
+      "audio": "audio/listen-basics.88.mp3"
+    },
+    {
+      "id": "listen-basics.89",
+      "en": "I am looking for a hotel",
+      "ru": "Я ищу гостиницу",
+      "accepted_en": [
+        "I am looking for a hotel",
+        "I'm looking for a hotel"
+      ],
+      "audio": "audio/listen-basics.89.mp3"
+    },
+    {
+      "id": "listen-basics.90",
+      "en": "Where is the nearest bank?",
+      "ru": "Где ближайший банк?",
+      "accepted_en": [
+        "Where is the nearest bank?"
+      ],
+      "audio": "audio/listen-basics.90.mp3"
+    },
+    {
+      "id": "listen-basics.91",
+      "en": "How far is it?",
+      "ru": "Как далеко это?",
+      "accepted_en": [
+        "How far is it?"
+      ],
+      "audio": "audio/listen-basics.91.mp3"
+    },
+    {
+      "id": "listen-basics.92",
+      "en": "Turn left",
+      "ru": "Поверните налево",
+      "accepted_en": [
+        "Turn left"
+      ],
+      "audio": "audio/listen-basics.92.mp3"
+    },
+    {
+      "id": "listen-basics.93",
+      "en": "Turn right",
+      "ru": "Поверните направо",
+      "accepted_en": [
+        "Turn right"
+      ],
+      "audio": "audio/listen-basics.93.mp3"
+    },
+    {
+      "id": "listen-basics.94",
+      "en": "Go straight",
+      "ru": "Идите прямо",
+      "accepted_en": [
+        "Go straight"
+      ],
+      "audio": "audio/listen-basics.94.mp3"
+    },
+    {
+      "id": "listen-basics.95",
+      "en": "It is near",
+      "ru": "Это рядом",
+      "accepted_en": [
+        "It is near",
+        "It's near"
+      ],
+      "audio": "audio/listen-basics.95.mp3"
+    },
+    {
+      "id": "listen-basics.96",
+      "en": "It is far",
+      "ru": "Это далеко",
+      "accepted_en": [
+        "It is far",
+        "It's far"
+      ],
+      "audio": "audio/listen-basics.96.mp3"
+    },
+    {
+      "id": "listen-basics.97",
+      "en": "I am going home",
+      "ru": "Я иду домой",
+      "accepted_en": [
+        "I am going home",
+        "I'm going home"
+      ],
+      "audio": "audio/listen-basics.97.mp3"
+    },
+    {
+      "id": "listen-basics.98",
+      "en": "I am going to work",
+      "ru": "Я иду на работу",
+      "accepted_en": [
+        "I am going to work",
+        "I'm going to work"
+      ],
+      "audio": "audio/listen-basics.98.mp3"
+    },
+    {
+      "id": "listen-basics.99",
+      "en": "I will call you later",
+      "ru": "Я позвоню тебе позже",
+      "accepted_en": [
+        "I will call you later",
+        "I'll call you later"
+      ],
+      "audio": "audio/listen-basics.99.mp3"
+    },
+    {
+      "id": "listen-basics.100",
+      "en": "Have a good trip",
+      "ru": "Хорошей поездки",
+      "accepted_en": [
+        "Have a good trip"
+      ],
+      "audio": "audio/listen-basics.100.mp3"
     }
   ]
 }
