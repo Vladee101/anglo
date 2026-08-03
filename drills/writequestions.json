@@ -1,0 +1,417 @@
+{
+  "id": "write-questions",
+  "title_ru": "Письмо: вопросы",
+  "modality": "write",
+  "items": [
+    {
+      "id": "write-questions.1",
+      "en": "What is your name?",
+      "ru": "Как тебя зовут?",
+      "accepted_en": [
+        "What is your name?",
+        "What's your name?"
+      ]
+    },
+    {
+      "id": "write-questions.2",
+      "en": "What do you do?",
+      "ru": "Чем ты занимаешься?",
+      "accepted_en": [
+        "What do you do?"
+      ]
+    },
+    {
+      "id": "write-questions.3",
+      "en": "What is this?",
+      "ru": "Что это?",
+      "accepted_en": [
+        "What is this?",
+        "What's this?"
+      ]
+    },
+    {
+      "id": "write-questions.4",
+      "en": "What day is it today?",
+      "ru": "Какой сегодня день?",
+      "accepted_en": [
+        "What day is it today?"
+      ]
+    },
+    {
+      "id": "write-questions.5",
+      "en": "What color is it?",
+      "ru": "Какого это цвета?",
+      "accepted_en": [
+        "What color is it?"
+      ]
+    },
+    {
+      "id": "write-questions.6",
+      "en": "What is your favorite food?",
+      "ru": "Какая твоя любимая еда?",
+      "accepted_en": [
+        "What is your favorite food?",
+        "What's your favorite food?"
+      ]
+    },
+    {
+      "id": "write-questions.7",
+      "en": "What are you doing?",
+      "ru": "Что ты делаешь?",
+      "accepted_en": [
+        "What are you doing?"
+      ]
+    },
+    {
+      "id": "write-questions.8",
+      "en": "What is your job?",
+      "ru": "Кем ты работаешь?",
+      "accepted_en": [
+        "What is your job?",
+        "What's your job?"
+      ]
+    },
+    {
+      "id": "write-questions.9",
+      "en": "Where do you live?",
+      "ru": "Где ты живёшь?",
+      "accepted_en": [
+        "Where do you live?"
+      ]
+    },
+    {
+      "id": "write-questions.10",
+      "en": "Where are you from?",
+      "ru": "Откуда ты?",
+      "accepted_en": [
+        "Where are you from?"
+      ]
+    },
+    {
+      "id": "write-questions.11",
+      "en": "Where is the bathroom?",
+      "ru": "Где туалет?",
+      "accepted_en": [
+        "Where is the bathroom?",
+        "Where's the bathroom?"
+      ]
+    },
+    {
+      "id": "write-questions.12",
+      "en": "Where do you work?",
+      "ru": "Где ты работаешь?",
+      "accepted_en": [
+        "Where do you work?"
+      ]
+    },
+    {
+      "id": "write-questions.13",
+      "en": "Where is the train station?",
+      "ru": "Где находится вокзал?",
+      "accepted_en": [
+        "Where is the train station?",
+        "Where's the train station?"
+      ]
+    },
+    {
+      "id": "write-questions.14",
+      "en": "Where are my keys?",
+      "ru": "Где мои ключи?",
+      "accepted_en": [
+        "Where are my keys?"
+      ]
+    },
+    {
+      "id": "write-questions.15",
+      "en": "Where does he study?",
+      "ru": "Где он учится?",
+      "accepted_en": [
+        "Where does he study?"
+      ]
+    },
+    {
+      "id": "write-questions.16",
+      "en": "Where can I buy tickets?",
+      "ru": "Где я могу купить билеты?",
+      "accepted_en": [
+        "Where can I buy tickets?"
+      ]
+    },
+    {
+      "id": "write-questions.17",
+      "en": "When is your birthday?",
+      "ru": "Когда у тебя день рождения?",
+      "accepted_en": [
+        "When is your birthday?"
+      ]
+    },
+    {
+      "id": "write-questions.18",
+      "en": "When does the movie start?",
+      "ru": "Когда начинается фильм?",
+      "accepted_en": [
+        "When does the movie start?"
+      ]
+    },
+    {
+      "id": "write-questions.19",
+      "en": "When do you wake up?",
+      "ru": "Когда ты просыпаешься?",
+      "accepted_en": [
+        "When do you wake up?"
+      ]
+    },
+    {
+      "id": "write-questions.20",
+      "en": "When will you arrive?",
+      "ru": "Когда ты приедешь?",
+      "accepted_en": [
+        "When will you arrive?"
+      ]
+    },
+    {
+      "id": "write-questions.21",
+      "en": "When is the meeting?",
+      "ru": "Когда встреча?",
+      "accepted_en": [
+        "When is the meeting?"
+      ]
+    },
+    {
+      "id": "write-questions.22",
+      "en": "When did you move here?",
+      "ru": "Когда ты сюда переехал?",
+      "accepted_en": [
+        "When did you move here?"
+      ]
+    },
+    {
+      "id": "write-questions.23",
+      "en": "When does the shop close?",
+      "ru": "Когда закрывается магазин?",
+      "accepted_en": [
+        "When does the shop close?"
+      ]
+    },
+    {
+      "id": "write-questions.24",
+      "en": "When is your day off?",
+      "ru": "Когда у тебя выходной?",
+      "accepted_en": [
+        "When is your day off?"
+      ]
+    },
+    {
+      "id": "write-questions.25",
+      "en": "Why are you late?",
+      "ru": "Почему ты опоздал?",
+      "accepted_en": [
+        "Why are you late?"
+      ]
+    },
+    {
+      "id": "write-questions.26",
+      "en": "Why do you like it?",
+      "ru": "Почему тебе это нравится?",
+      "accepted_en": [
+        "Why do you like it?"
+      ]
+    },
+    {
+      "id": "write-questions.27",
+      "en": "Why is she crying?",
+      "ru": "Почему она плачет?",
+      "accepted_en": [
+        "Why is she crying?"
+      ]
+    },
+    {
+      "id": "write-questions.28",
+      "en": "Why did you leave?",
+      "ru": "Почему ты ушёл?",
+      "accepted_en": [
+        "Why did you leave?"
+      ]
+    },
+    {
+      "id": "write-questions.29",
+      "en": "Why do we need this?",
+      "ru": "Зачем нам это нужно?",
+      "accepted_en": [
+        "Why do we need this?"
+      ]
+    },
+    {
+      "id": "write-questions.30",
+      "en": "Why is the sky blue?",
+      "ru": "Почему небо голубое?",
+      "accepted_en": [
+        "Why is the sky blue?"
+      ]
+    },
+    {
+      "id": "write-questions.31",
+      "en": "Why are you smiling?",
+      "ru": "Почему ты улыбаешься?",
+      "accepted_en": [
+        "Why are you smiling?"
+      ]
+    },
+    {
+      "id": "write-questions.32",
+      "en": "Why didn't you call me?",
+      "ru": "Почему ты мне не позвонил?",
+      "accepted_en": [
+        "Why didn't you call me?"
+      ]
+    },
+    {
+      "id": "write-questions.33",
+      "en": "Who is that man?",
+      "ru": "Кто этот мужчина?",
+      "accepted_en": [
+        "Who is that man?",
+        "Who's that man?"
+      ]
+    },
+    {
+      "id": "write-questions.34",
+      "en": "Who are you?",
+      "ru": "Кто ты?",
+      "accepted_en": [
+        "Who are you?"
+      ]
+    },
+    {
+      "id": "write-questions.35",
+      "en": "Who is your teacher?",
+      "ru": "Кто твой учитель?",
+      "accepted_en": [
+        "Who is your teacher?",
+        "Who's your teacher?"
+      ]
+    },
+    {
+      "id": "write-questions.36",
+      "en": "Who wrote this book?",
+      "ru": "Кто написал эту книгу?",
+      "accepted_en": [
+        "Who wrote this book?"
+      ]
+    },
+    {
+      "id": "write-questions.37",
+      "en": "Who is calling?",
+      "ru": "Кто звонит?",
+      "accepted_en": [
+        "Who is calling?",
+        "Who's calling?"
+      ]
+    },
+    {
+      "id": "write-questions.38",
+      "en": "Who lives here?",
+      "ru": "Кто здесь живёт?",
+      "accepted_en": [
+        "Who lives here?"
+      ]
+    },
+    {
+      "id": "write-questions.39",
+      "en": "Who is your best friend?",
+      "ru": "Кто твой лучший друг?",
+      "accepted_en": [
+        "Who is your best friend?",
+        "Who's your best friend?"
+      ]
+    },
+    {
+      "id": "write-questions.40",
+      "en": "Who won the game?",
+      "ru": "Кто выиграл игру?",
+      "accepted_en": [
+        "Who won the game?"
+      ]
+    },
+    {
+      "id": "write-questions.41",
+      "en": "How are you?",
+      "ru": "Как дела?",
+      "accepted_en": [
+        "How are you?"
+      ]
+    },
+    {
+      "id": "write-questions.42",
+      "en": "How much does it cost?",
+      "ru": "Сколько это стоит?",
+      "accepted_en": [
+        "How much does it cost?"
+      ]
+    },
+    {
+      "id": "write-questions.43",
+      "en": "How many people are there?",
+      "ru": "Сколько там людей?",
+      "accepted_en": [
+        "How many people are there?"
+      ]
+    },
+    {
+      "id": "write-questions.44",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?"
+      ]
+    },
+    {
+      "id": "write-questions.45",
+      "en": "How far is it?",
+      "ru": "Как далеко это находится?",
+      "accepted_en": [
+        "How far is it?"
+      ]
+    },
+    {
+      "id": "write-questions.46",
+      "en": "How long does it take?",
+      "ru": "Сколько времени это занимает?",
+      "accepted_en": [
+        "How long does it take?"
+      ]
+    },
+    {
+      "id": "write-questions.47",
+      "en": "How often do you exercise?",
+      "ru": "Как часто ты занимаешься спортом?",
+      "accepted_en": [
+        "How often do you exercise?"
+      ]
+    },
+    {
+      "id": "write-questions.48",
+      "en": "How do you spell your name?",
+      "ru": "Как пишется твоё имя?",
+      "accepted_en": [
+        "How do you spell your name?"
+      ]
+    },
+    {
+      "id": "write-questions.49",
+      "en": "How was your day?",
+      "ru": "Как прошёл твой день?",
+      "accepted_en": [
+        "How was your day?"
+      ]
+    },
+    {
+      "id": "write-questions.50",
+      "en": "How does this work?",
+      "ru": "Как это работает?",
+      "accepted_en": [
+        "How does this work?"
+      ]
+    }
+  ]
+}

@@ -1499,6 +1499,256 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "listen-questions.1": {
+    "en": "What is your name?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.10": {
+    "en": "Where are you from?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.11": {
+    "en": "Where is the bathroom?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.12": {
+    "en": "Where do you work?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.13": {
+    "en": "Where is the train station?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.14": {
+    "en": "Where are my keys?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.15": {
+    "en": "Where does he study?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.16": {
+    "en": "Where can I buy tickets?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.17": {
+    "en": "When is your birthday?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.18": {
+    "en": "When does the movie start?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.19": {
+    "en": "When do you wake up?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.2": {
+    "en": "What do you do?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.20": {
+    "en": "When will you arrive?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.21": {
+    "en": "When is the meeting?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.22": {
+    "en": "When did you move here?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.23": {
+    "en": "When does the shop close?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.24": {
+    "en": "When is your day off?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.25": {
+    "en": "Why are you late?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.26": {
+    "en": "Why do you like it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.27": {
+    "en": "Why is she crying?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.28": {
+    "en": "Why did you leave?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.29": {
+    "en": "Why do we need this?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.3": {
+    "en": "What is this?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.30": {
+    "en": "Why is the sky blue?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.31": {
+    "en": "Why are you smiling?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.32": {
+    "en": "Why didn't you call me?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.33": {
+    "en": "Who is that man?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.34": {
+    "en": "Who are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.35": {
+    "en": "Who is your teacher?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.36": {
+    "en": "Who wrote this book?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.37": {
+    "en": "Who is calling?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.38": {
+    "en": "Who lives here?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.39": {
+    "en": "Who is your best friend?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.4": {
+    "en": "What day is it today?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.40": {
+    "en": "Who won the game?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.41": {
+    "en": "How are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.42": {
+    "en": "How much does it cost?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.43": {
+    "en": "How many people are there?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.44": {
+    "en": "How old are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.45": {
+    "en": "How far is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.46": {
+    "en": "How long does it take?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.47": {
+    "en": "How often do you exercise?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.48": {
+    "en": "How do you spell your name?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.49": {
+    "en": "How was your day?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.5": {
+    "en": "What color is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.50": {
+    "en": "How does this work?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.6": {
+    "en": "What is your favorite food?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.7": {
+    "en": "What are you doing?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.8": {
+    "en": "What is your job?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-questions.9": {
+    "en": "Where do you live?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.1": {
     "en": "One, two, three",
     "rate": "-10%",
