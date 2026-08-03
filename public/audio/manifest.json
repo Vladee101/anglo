@@ -1000,27 +1000,502 @@
     "voice": "en-US-JennyNeural"
   },
   "listen-numbers.1": {
-    "en": "I have two brothers",
+    "en": "One, two, three",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.10": {
+    "en": "It costs five dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.100": {
+    "en": "This is exercise number one hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.11": {
+    "en": "I am ten years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.12": {
+    "en": "We have three cats",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.13": {
+    "en": "The meeting starts at six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.14": {
+    "en": "I need two tickets",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.15": {
+    "en": "She has one sister",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.16": {
+    "en": "I am thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.17": {
+    "en": "It is five o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.18": {
+    "en": "We have two children",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.19": {
+    "en": "The bus arrives at seven",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
   "listen-numbers.2": {
-    "en": "She is thirty years old",
+    "en": "How old are you?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.20": {
+    "en": "I need three minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.21": {
+    "en": "Four, five, six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.22": {
+    "en": "Seven, eight, nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.23": {
+    "en": "Ten, eleven, twelve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.24": {
+    "en": "Thirteen, fourteen, fifteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.25": {
+    "en": "Sixteen, seventeen, eighteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.26": {
+    "en": "Nineteen, twenty, twenty-one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.27": {
+    "en": "Thirty, forty, fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.28": {
+    "en": "Sixty, seventy, eighty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.29": {
+    "en": "Ninety, one hundred",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
   "listen-numbers.3": {
-    "en": "The train leaves at nine",
+    "en": "I am twenty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.30": {
+    "en": "He is forty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.31": {
+    "en": "My mother is fifty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.32": {
+    "en": "My father is fifty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.33": {
+    "en": "My sister is eighteen years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.34": {
+    "en": "My brother is twenty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.35": {
+    "en": "The baby is one year old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.36": {
+    "en": "Our grandmother is eighty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.37": {
+    "en": "It's three o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.38": {
+    "en": "It's half past five",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.39": {
+    "en": "It's a quarter past seven",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
   "listen-numbers.4": {
-    "en": "We have four children",
+    "en": "What time is it?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.40": {
+    "en": "It's a quarter to nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.41": {
+    "en": "It's twelve o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.42": {
+    "en": "It's five past two",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.43": {
+    "en": "It's ten to six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.44": {
+    "en": "The shop opens at eight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.45": {
+    "en": "The shop closes at ten",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.46": {
+    "en": "I wake up at seven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.47": {
+    "en": "I go to bed at eleven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.48": {
+    "en": "I have lunch at one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.49": {
+    "en": "I finish work at six",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
   "listen-numbers.5": {
-    "en": "It costs five dollars",
+    "en": "It's ten o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.50": {
+    "en": "Call me at nine tonight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.51": {
+    "en": "Wait for five minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.52": {
+    "en": "See you in ten minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.53": {
+    "en": "I sleep for eight hours",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.54": {
+    "en": "I work for eight hours a day",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.55": {
+    "en": "I go swimming twice a week",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.56": {
+    "en": "I visit my parents once a month",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.57": {
+    "en": "We meet every two weeks",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.58": {
+    "en": "The film lasts two hours",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.59": {
+    "en": "It takes three hours",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.6": {
+    "en": "I have two brothers",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.60": {
+    "en": "Today is the first of May",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.61": {
+    "en": "My birthday is on the third of June",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.62": {
+    "en": "She was born in nineteen ninety",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.63": {
+    "en": "He was born in two thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.64": {
+    "en": "The year is two thousand twenty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.65": {
+    "en": "We got married in twenty twenty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.66": {
+    "en": "School starts on the first of September",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.67": {
+    "en": "New Year is on the first of January",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.68": {
+    "en": "My exam is on the fifth of March",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.69": {
+    "en": "The concert is on the tenth of July",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.7": {
+    "en": "She is thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.70": {
+    "en": "This book costs ten dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.71": {
+    "en": "The ticket costs twenty dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.72": {
+    "en": "I have one hundred dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.73": {
+    "en": "She paid fifty dollars for the shoes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.74": {
+    "en": "The bill is thirty dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.75": {
+    "en": "Can I have two coffees, please?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.76": {
+    "en": "Give me two apples, please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.77": {
+    "en": "It's on sale for fifteen dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.78": {
+    "en": "I have three sisters",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.79": {
+    "en": "She has five cats",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.8": {
+    "en": "The train leaves at nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.80": {
+    "en": "He has two dogs",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.81": {
+    "en": "I have ten fingers",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.82": {
+    "en": "There are seven days in a week",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.83": {
+    "en": "There are twelve months in a year",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.84": {
+    "en": "There are sixty minutes in an hour",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.85": {
+    "en": "This is my first day at work",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.86": {
+    "en": "She finished in second place",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.87": {
+    "en": "He lives on the third floor",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.88": {
+    "en": "It's my fourth time here",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.89": {
+    "en": "This is her sixth book",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.9": {
+    "en": "We have four children",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.90": {
+    "en": "He is the seventh player",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.91": {
+    "en": "It's the eighth chapter",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.92": {
+    "en": "This is the tenth question",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.93": {
+    "en": "My phone number is two three four five six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.94": {
+    "en": "My apartment number is twelve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.95": {
+    "en": "Room number seven, please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.96": {
+    "en": "My office is on the second floor",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.97": {
+    "en": "Table number three is ready",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.98": {
+    "en": "Two plus two is four",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-numbers.99": {
+    "en": "Ten minus three is seven",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1031,6 +1506,11 @@
   },
   "numbers.10": {
     "en": "It costs five dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.100": {
+    "en": "This is exercise number one hundred",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1089,8 +1569,103 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "numbers.21": {
+    "en": "Four, five, six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.22": {
+    "en": "Seven, eight, nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.23": {
+    "en": "Ten, eleven, twelve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.24": {
+    "en": "Thirteen, fourteen, fifteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.25": {
+    "en": "Sixteen, seventeen, eighteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.26": {
+    "en": "Nineteen, twenty, twenty-one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.27": {
+    "en": "Thirty, forty, fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.28": {
+    "en": "Sixty, seventy, eighty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.29": {
+    "en": "Ninety, one hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.3": {
     "en": "I am twenty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.30": {
+    "en": "He is forty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.31": {
+    "en": "My mother is fifty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.32": {
+    "en": "My father is fifty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.33": {
+    "en": "My sister is eighteen years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.34": {
+    "en": "My brother is twenty-five years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.35": {
+    "en": "The baby is one year old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.36": {
+    "en": "Our grandmother is eighty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.37": {
+    "en": "It's three o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.38": {
+    "en": "It's half past five",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.39": {
+    "en": "It's a quarter past seven",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1099,8 +1674,108 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "numbers.40": {
+    "en": "It's a quarter to nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.41": {
+    "en": "It's twelve o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.42": {
+    "en": "It's five past two",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.43": {
+    "en": "It's ten to six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.44": {
+    "en": "The shop opens at eight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.45": {
+    "en": "The shop closes at ten",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.46": {
+    "en": "I wake up at seven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.47": {
+    "en": "I go to bed at eleven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.48": {
+    "en": "I have lunch at one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.49": {
+    "en": "I finish work at six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.5": {
     "en": "It's ten o'clock",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.50": {
+    "en": "Call me at nine tonight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.51": {
+    "en": "Wait for five minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.52": {
+    "en": "See you in ten minutes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.53": {
+    "en": "I sleep for eight hours",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.54": {
+    "en": "I work for eight hours a day",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.55": {
+    "en": "I go swimming twice a week",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.56": {
+    "en": "I visit my parents once a month",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.57": {
+    "en": "We meet every two weeks",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.58": {
+    "en": "The film lasts two hours",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.59": {
+    "en": "It takes three hours",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1109,8 +1784,108 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "numbers.60": {
+    "en": "Today is the first of May",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.61": {
+    "en": "My birthday is on the third of June",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.62": {
+    "en": "She was born in nineteen ninety",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.63": {
+    "en": "He was born in two thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.64": {
+    "en": "The year is two thousand twenty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.65": {
+    "en": "We got married in twenty twenty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.66": {
+    "en": "School starts on the first of September",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.67": {
+    "en": "New Year is on the first of January",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.68": {
+    "en": "My exam is on the fifth of March",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.69": {
+    "en": "The concert is on the tenth of July",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.7": {
     "en": "She is thirty years old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.70": {
+    "en": "This book costs ten dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.71": {
+    "en": "The ticket costs twenty dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.72": {
+    "en": "I have one hundred dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.73": {
+    "en": "She paid fifty dollars for the shoes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.74": {
+    "en": "The bill is thirty dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.75": {
+    "en": "Can I have two coffees, please?",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.76": {
+    "en": "Give me two apples, please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.77": {
+    "en": "It's on sale for fifteen dollars",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.78": {
+    "en": "I have three sisters",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.79": {
+    "en": "She has five cats",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1119,8 +1894,108 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "numbers.80": {
+    "en": "He has two dogs",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.81": {
+    "en": "I have ten fingers",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.82": {
+    "en": "There are seven days in a week",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.83": {
+    "en": "There are twelve months in a year",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.84": {
+    "en": "There are sixty minutes in an hour",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.85": {
+    "en": "This is my first day at work",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.86": {
+    "en": "She finished in second place",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.87": {
+    "en": "He lives on the third floor",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.88": {
+    "en": "It's my fourth time here",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.89": {
+    "en": "This is her sixth book",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.9": {
     "en": "We have four children",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.90": {
+    "en": "He is the seventh player",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.91": {
+    "en": "It's the eighth chapter",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.92": {
+    "en": "This is the tenth question",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.93": {
+    "en": "My phone number is two three four five six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.94": {
+    "en": "My apartment number is twelve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.95": {
+    "en": "Room number seven, please",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.96": {
+    "en": "My office is on the second floor",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.97": {
+    "en": "Table number three is ready",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.98": {
+    "en": "Two plus two is four",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "numbers.99": {
+    "en": "Ten minus three is seven",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },

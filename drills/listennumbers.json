@@ -1,0 +1,928 @@
+{
+  "id": "listen-numbers",
+  "title_ru": "Аудирование: числа и время",
+  "modality": "listen",
+  "items": [
+    {
+      "id": "listen-numbers.1",
+      "en": "One, two, three",
+      "ru": "Один, два, три",
+      "accepted_en": [
+        "One, two, three"
+      ],
+      "audio": "audio/listen-numbers.1.mp3"
+    },
+    {
+      "id": "listen-numbers.2",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?",
+        "How old are you"
+      ],
+      "audio": "audio/listen-numbers.2.mp3"
+    },
+    {
+      "id": "listen-numbers.3",
+      "en": "I am twenty years old",
+      "ru": "Мне двадцать лет",
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ],
+      "audio": "audio/listen-numbers.3.mp3"
+    },
+    {
+      "id": "listen-numbers.4",
+      "en": "What time is it?",
+      "ru": "Который час?",
+      "accepted_en": [
+        "What time is it?",
+        "What time is it"
+      ],
+      "audio": "audio/listen-numbers.4.mp3"
+    },
+    {
+      "id": "listen-numbers.5",
+      "en": "It's ten o'clock",
+      "ru": "Сейчас десять часов",
+      "accepted_en": [
+        "It's ten o'clock",
+        "It is ten o'clock"
+      ],
+      "audio": "audio/listen-numbers.5.mp3"
+    },
+    {
+      "id": "listen-numbers.6",
+      "en": "I have two brothers",
+      "ru": "У меня два брата",
+      "accepted_en": [
+        "I have two brothers"
+      ],
+      "audio": "audio/listen-numbers.6.mp3"
+    },
+    {
+      "id": "listen-numbers.7",
+      "en": "She is thirty years old",
+      "ru": "Ей тридцать лет",
+      "accepted_en": [
+        "She is thirty years old",
+        "She's thirty years old"
+      ],
+      "audio": "audio/listen-numbers.7.mp3"
+    },
+    {
+      "id": "listen-numbers.8",
+      "en": "The train leaves at nine",
+      "ru": "Поезд отправляется в девять",
+      "accepted_en": [
+        "The train leaves at nine"
+      ],
+      "audio": "audio/listen-numbers.8.mp3"
+    },
+    {
+      "id": "listen-numbers.9",
+      "en": "We have four children",
+      "ru": "У нас четверо детей",
+      "accepted_en": [
+        "We have four children"
+      ],
+      "audio": "audio/listen-numbers.9.mp3"
+    },
+    {
+      "id": "listen-numbers.10",
+      "en": "It costs five dollars",
+      "ru": "Это стоит пять долларов",
+      "accepted_en": [
+        "It costs five dollars"
+      ],
+      "audio": "audio/listen-numbers.10.mp3"
+    },
+    {
+      "id": "listen-numbers.11",
+      "en": "I am ten years old",
+      "ru": "Мне десять лет",
+      "accepted_en": [
+        "I am ten years old",
+        "I'm ten years old"
+      ],
+      "audio": "audio/listen-numbers.11.mp3"
+    },
+    {
+      "id": "listen-numbers.12",
+      "en": "We have three cats",
+      "ru": "У нас три кошки",
+      "accepted_en": [
+        "We have three cats"
+      ],
+      "audio": "audio/listen-numbers.12.mp3"
+    },
+    {
+      "id": "listen-numbers.13",
+      "en": "The meeting starts at six",
+      "ru": "Встреча начинается в шесть",
+      "accepted_en": [
+        "The meeting starts at six"
+      ],
+      "audio": "audio/listen-numbers.13.mp3"
+    },
+    {
+      "id": "listen-numbers.14",
+      "en": "I need two tickets",
+      "ru": "Мне нужны два билета",
+      "accepted_en": [
+        "I need two tickets"
+      ],
+      "audio": "audio/listen-numbers.14.mp3"
+    },
+    {
+      "id": "listen-numbers.15",
+      "en": "She has one sister",
+      "ru": "У неё одна сестра",
+      "accepted_en": [
+        "She has one sister"
+      ],
+      "audio": "audio/listen-numbers.15.mp3"
+    },
+    {
+      "id": "listen-numbers.16",
+      "en": "I am thirty years old",
+      "ru": "Мне тридцать лет",
+      "accepted_en": [
+        "I am thirty years old",
+        "I'm thirty years old"
+      ],
+      "audio": "audio/listen-numbers.16.mp3"
+    },
+    {
+      "id": "listen-numbers.17",
+      "en": "It is five o'clock",
+      "ru": "Сейчас пять часов",
+      "accepted_en": [
+        "It is five o'clock",
+        "It's five o'clock"
+      ],
+      "audio": "audio/listen-numbers.17.mp3"
+    },
+    {
+      "id": "listen-numbers.18",
+      "en": "We have two children",
+      "ru": "У нас двое детей",
+      "accepted_en": [
+        "We have two children"
+      ],
+      "audio": "audio/listen-numbers.18.mp3"
+    },
+    {
+      "id": "listen-numbers.19",
+      "en": "The bus arrives at seven",
+      "ru": "Автобус приезжает в семь",
+      "accepted_en": [
+        "The bus arrives at seven"
+      ],
+      "audio": "audio/listen-numbers.19.mp3"
+    },
+    {
+      "id": "listen-numbers.20",
+      "en": "I need three minutes",
+      "ru": "Мне нужно три минуты",
+      "accepted_en": [
+        "I need three minutes"
+      ],
+      "audio": "audio/listen-numbers.20.mp3"
+    },
+    {
+      "id": "listen-numbers.21",
+      "en": "Four, five, six",
+      "ru": "Четыре, пять, шесть",
+      "accepted_en": [
+        "Four, five, six"
+      ],
+      "audio": "audio/listen-numbers.21.mp3"
+    },
+    {
+      "id": "listen-numbers.22",
+      "en": "Seven, eight, nine",
+      "ru": "Семь, восемь, девять",
+      "accepted_en": [
+        "Seven, eight, nine"
+      ],
+      "audio": "audio/listen-numbers.22.mp3"
+    },
+    {
+      "id": "listen-numbers.23",
+      "en": "Ten, eleven, twelve",
+      "ru": "Десять, одиннадцать, двенадцать",
+      "accepted_en": [
+        "Ten, eleven, twelve"
+      ],
+      "audio": "audio/listen-numbers.23.mp3"
+    },
+    {
+      "id": "listen-numbers.24",
+      "en": "Thirteen, fourteen, fifteen",
+      "ru": "Тринадцать, четырнадцать, пятнадцать",
+      "accepted_en": [
+        "Thirteen, fourteen, fifteen"
+      ],
+      "audio": "audio/listen-numbers.24.mp3"
+    },
+    {
+      "id": "listen-numbers.25",
+      "en": "Sixteen, seventeen, eighteen",
+      "ru": "Шестнадцать, семнадцать, восемнадцать",
+      "accepted_en": [
+        "Sixteen, seventeen, eighteen"
+      ],
+      "audio": "audio/listen-numbers.25.mp3"
+    },
+    {
+      "id": "listen-numbers.26",
+      "en": "Nineteen, twenty, twenty-one",
+      "ru": "Девятнадцать, двадцать, двадцать один",
+      "accepted_en": [
+        "Nineteen, twenty, twenty-one"
+      ],
+      "audio": "audio/listen-numbers.26.mp3"
+    },
+    {
+      "id": "listen-numbers.27",
+      "en": "Thirty, forty, fifty",
+      "ru": "Тридцать, сорок, пятьдесят",
+      "accepted_en": [
+        "Thirty, forty, fifty"
+      ],
+      "audio": "audio/listen-numbers.27.mp3"
+    },
+    {
+      "id": "listen-numbers.28",
+      "en": "Sixty, seventy, eighty",
+      "ru": "Шестьдесят, семьдесят, восемьдесят",
+      "accepted_en": [
+        "Sixty, seventy, eighty"
+      ],
+      "audio": "audio/listen-numbers.28.mp3"
+    },
+    {
+      "id": "listen-numbers.29",
+      "en": "Ninety, one hundred",
+      "ru": "Девяносто, сто",
+      "accepted_en": [
+        "Ninety, one hundred"
+      ],
+      "audio": "audio/listen-numbers.29.mp3"
+    },
+    {
+      "id": "listen-numbers.30",
+      "en": "He is forty-five years old",
+      "ru": "Ему сорок пять лет",
+      "accepted_en": [
+        "He is forty-five years old",
+        "He's forty-five years old"
+      ],
+      "audio": "audio/listen-numbers.30.mp3"
+    },
+    {
+      "id": "listen-numbers.31",
+      "en": "My mother is fifty years old",
+      "ru": "Моей маме пятьдесят лет",
+      "accepted_en": [
+        "My mother is fifty years old"
+      ],
+      "audio": "audio/listen-numbers.31.mp3"
+    },
+    {
+      "id": "listen-numbers.32",
+      "en": "My father is fifty-five years old",
+      "ru": "Моему отцу пятьдесят пять лет",
+      "accepted_en": [
+        "My father is fifty-five years old"
+      ],
+      "audio": "audio/listen-numbers.32.mp3"
+    },
+    {
+      "id": "listen-numbers.33",
+      "en": "My sister is eighteen years old",
+      "ru": "Моей сестре восемнадцать лет",
+      "accepted_en": [
+        "My sister is eighteen years old"
+      ],
+      "audio": "audio/listen-numbers.33.mp3"
+    },
+    {
+      "id": "listen-numbers.34",
+      "en": "My brother is twenty-five years old",
+      "ru": "Моему брату двадцать пять лет",
+      "accepted_en": [
+        "My brother is twenty-five years old"
+      ],
+      "audio": "audio/listen-numbers.34.mp3"
+    },
+    {
+      "id": "listen-numbers.35",
+      "en": "The baby is one year old",
+      "ru": "Ребёнку один год",
+      "accepted_en": [
+        "The baby is one year old"
+      ],
+      "audio": "audio/listen-numbers.35.mp3"
+    },
+    {
+      "id": "listen-numbers.36",
+      "en": "Our grandmother is eighty years old",
+      "ru": "Нашей бабушке восемьдесят лет",
+      "accepted_en": [
+        "Our grandmother is eighty years old"
+      ],
+      "audio": "audio/listen-numbers.36.mp3"
+    },
+    {
+      "id": "listen-numbers.37",
+      "en": "It's three o'clock",
+      "ru": "Сейчас три часа",
+      "accepted_en": [
+        "It's three o'clock",
+        "It is three o'clock"
+      ],
+      "audio": "audio/listen-numbers.37.mp3"
+    },
+    {
+      "id": "listen-numbers.38",
+      "en": "It's half past five",
+      "ru": "Сейчас половина шестого",
+      "accepted_en": [
+        "It's half past five",
+        "It is half past five"
+      ],
+      "audio": "audio/listen-numbers.38.mp3"
+    },
+    {
+      "id": "listen-numbers.39",
+      "en": "It's a quarter past seven",
+      "ru": "Сейчас четверть восьмого",
+      "accepted_en": [
+        "It's a quarter past seven",
+        "It is a quarter past seven"
+      ],
+      "audio": "audio/listen-numbers.39.mp3"
+    },
+    {
+      "id": "listen-numbers.40",
+      "en": "It's a quarter to nine",
+      "ru": "Без четверти девять",
+      "accepted_en": [
+        "It's a quarter to nine",
+        "It is a quarter to nine"
+      ],
+      "audio": "audio/listen-numbers.40.mp3"
+    },
+    {
+      "id": "listen-numbers.41",
+      "en": "It's twelve o'clock",
+      "ru": "Сейчас двенадцать часов",
+      "accepted_en": [
+        "It's twelve o'clock",
+        "It is twelve o'clock"
+      ],
+      "audio": "audio/listen-numbers.41.mp3"
+    },
+    {
+      "id": "listen-numbers.42",
+      "en": "It's five past two",
+      "ru": "Сейчас пять минут третьего",
+      "accepted_en": [
+        "It's five past two",
+        "It is five past two"
+      ],
+      "audio": "audio/listen-numbers.42.mp3"
+    },
+    {
+      "id": "listen-numbers.43",
+      "en": "It's ten to six",
+      "ru": "Без десяти шесть",
+      "accepted_en": [
+        "It's ten to six",
+        "It is ten to six"
+      ],
+      "audio": "audio/listen-numbers.43.mp3"
+    },
+    {
+      "id": "listen-numbers.44",
+      "en": "The shop opens at eight",
+      "ru": "Магазин открывается в восемь",
+      "accepted_en": [
+        "The shop opens at eight"
+      ],
+      "audio": "audio/listen-numbers.44.mp3"
+    },
+    {
+      "id": "listen-numbers.45",
+      "en": "The shop closes at ten",
+      "ru": "Магазин закрывается в десять",
+      "accepted_en": [
+        "The shop closes at ten"
+      ],
+      "audio": "audio/listen-numbers.45.mp3"
+    },
+    {
+      "id": "listen-numbers.46",
+      "en": "I wake up at seven",
+      "ru": "Я просыпаюсь в семь",
+      "accepted_en": [
+        "I wake up at seven"
+      ],
+      "audio": "audio/listen-numbers.46.mp3"
+    },
+    {
+      "id": "listen-numbers.47",
+      "en": "I go to bed at eleven",
+      "ru": "Я ложусь спать в одиннадцать",
+      "accepted_en": [
+        "I go to bed at eleven"
+      ],
+      "audio": "audio/listen-numbers.47.mp3"
+    },
+    {
+      "id": "listen-numbers.48",
+      "en": "I have lunch at one",
+      "ru": "Я обедаю в час",
+      "accepted_en": [
+        "I have lunch at one"
+      ],
+      "audio": "audio/listen-numbers.48.mp3"
+    },
+    {
+      "id": "listen-numbers.49",
+      "en": "I finish work at six",
+      "ru": "Я заканчиваю работу в шесть",
+      "accepted_en": [
+        "I finish work at six"
+      ],
+      "audio": "audio/listen-numbers.49.mp3"
+    },
+    {
+      "id": "listen-numbers.50",
+      "en": "Call me at nine tonight",
+      "ru": "Позвони мне в девять вечера",
+      "accepted_en": [
+        "Call me at nine tonight"
+      ],
+      "audio": "audio/listen-numbers.50.mp3"
+    },
+    {
+      "id": "listen-numbers.51",
+      "en": "Wait for five minutes",
+      "ru": "Подожди пять минут",
+      "accepted_en": [
+        "Wait for five minutes"
+      ],
+      "audio": "audio/listen-numbers.51.mp3"
+    },
+    {
+      "id": "listen-numbers.52",
+      "en": "See you in ten minutes",
+      "ru": "Увидимся через десять минут",
+      "accepted_en": [
+        "See you in ten minutes"
+      ],
+      "audio": "audio/listen-numbers.52.mp3"
+    },
+    {
+      "id": "listen-numbers.53",
+      "en": "I sleep for eight hours",
+      "ru": "Я сплю восемь часов",
+      "accepted_en": [
+        "I sleep for eight hours"
+      ],
+      "audio": "audio/listen-numbers.53.mp3"
+    },
+    {
+      "id": "listen-numbers.54",
+      "en": "I work for eight hours a day",
+      "ru": "Я работаю восемь часов в день",
+      "accepted_en": [
+        "I work for eight hours a day"
+      ],
+      "audio": "audio/listen-numbers.54.mp3"
+    },
+    {
+      "id": "listen-numbers.55",
+      "en": "I go swimming twice a week",
+      "ru": "Я хожу плавать два раза в неделю",
+      "accepted_en": [
+        "I go swimming twice a week"
+      ],
+      "audio": "audio/listen-numbers.55.mp3"
+    },
+    {
+      "id": "listen-numbers.56",
+      "en": "I visit my parents once a month",
+      "ru": "Я навещаю родителей раз в месяц",
+      "accepted_en": [
+        "I visit my parents once a month"
+      ],
+      "audio": "audio/listen-numbers.56.mp3"
+    },
+    {
+      "id": "listen-numbers.57",
+      "en": "We meet every two weeks",
+      "ru": "Мы встречаемся раз в две недели",
+      "accepted_en": [
+        "We meet every two weeks"
+      ],
+      "audio": "audio/listen-numbers.57.mp3"
+    },
+    {
+      "id": "listen-numbers.58",
+      "en": "The film lasts two hours",
+      "ru": "Фильм длится два часа",
+      "accepted_en": [
+        "The film lasts two hours"
+      ],
+      "audio": "audio/listen-numbers.58.mp3"
+    },
+    {
+      "id": "listen-numbers.59",
+      "en": "It takes three hours",
+      "ru": "Это занимает три часа",
+      "accepted_en": [
+        "It takes three hours"
+      ],
+      "audio": "audio/listen-numbers.59.mp3"
+    },
+    {
+      "id": "listen-numbers.60",
+      "en": "Today is the first of May",
+      "ru": "Сегодня первое мая",
+      "accepted_en": [
+        "Today is the first of May"
+      ],
+      "audio": "audio/listen-numbers.60.mp3"
+    },
+    {
+      "id": "listen-numbers.61",
+      "en": "My birthday is on the third of June",
+      "ru": "Мой день рождения третьего июня",
+      "accepted_en": [
+        "My birthday is on the third of June"
+      ],
+      "audio": "audio/listen-numbers.61.mp3"
+    },
+    {
+      "id": "listen-numbers.62",
+      "en": "She was born in nineteen ninety",
+      "ru": "Она родилась в тысяча девятьсот девяностом году",
+      "accepted_en": [
+        "She was born in nineteen ninety"
+      ],
+      "audio": "audio/listen-numbers.62.mp3"
+    },
+    {
+      "id": "listen-numbers.63",
+      "en": "He was born in two thousand",
+      "ru": "Он родился в двухтысячном году",
+      "accepted_en": [
+        "He was born in two thousand"
+      ],
+      "audio": "audio/listen-numbers.63.mp3"
+    },
+    {
+      "id": "listen-numbers.64",
+      "en": "The year is two thousand twenty-six",
+      "ru": "Сейчас две тысячи двадцать шестой год",
+      "accepted_en": [
+        "The year is two thousand twenty-six"
+      ],
+      "audio": "audio/listen-numbers.64.mp3"
+    },
+    {
+      "id": "listen-numbers.65",
+      "en": "We got married in twenty twenty",
+      "ru": "Мы поженились в две тысячи двадцатом году",
+      "accepted_en": [
+        "We got married in twenty twenty"
+      ],
+      "audio": "audio/listen-numbers.65.mp3"
+    },
+    {
+      "id": "listen-numbers.66",
+      "en": "School starts on the first of September",
+      "ru": "Школа начинается первого сентября",
+      "accepted_en": [
+        "School starts on the first of September"
+      ],
+      "audio": "audio/listen-numbers.66.mp3"
+    },
+    {
+      "id": "listen-numbers.67",
+      "en": "New Year is on the first of January",
+      "ru": "Новый год первого января",
+      "accepted_en": [
+        "New Year is on the first of January"
+      ],
+      "audio": "audio/listen-numbers.67.mp3"
+    },
+    {
+      "id": "listen-numbers.68",
+      "en": "My exam is on the fifth of March",
+      "ru": "Мой экзамен пятого марта",
+      "accepted_en": [
+        "My exam is on the fifth of March"
+      ],
+      "audio": "audio/listen-numbers.68.mp3"
+    },
+    {
+      "id": "listen-numbers.69",
+      "en": "The concert is on the tenth of July",
+      "ru": "Концерт десятого июля",
+      "accepted_en": [
+        "The concert is on the tenth of July"
+      ],
+      "audio": "audio/listen-numbers.69.mp3"
+    },
+    {
+      "id": "listen-numbers.70",
+      "en": "This book costs ten dollars",
+      "ru": "Эта книга стоит десять долларов",
+      "accepted_en": [
+        "This book costs ten dollars"
+      ],
+      "audio": "audio/listen-numbers.70.mp3"
+    },
+    {
+      "id": "listen-numbers.71",
+      "en": "The ticket costs twenty dollars",
+      "ru": "Билет стоит двадцать долларов",
+      "accepted_en": [
+        "The ticket costs twenty dollars"
+      ],
+      "audio": "audio/listen-numbers.71.mp3"
+    },
+    {
+      "id": "listen-numbers.72",
+      "en": "I have one hundred dollars",
+      "ru": "У меня сто долларов",
+      "accepted_en": [
+        "I have one hundred dollars"
+      ],
+      "audio": "audio/listen-numbers.72.mp3"
+    },
+    {
+      "id": "listen-numbers.73",
+      "en": "She paid fifty dollars for the shoes",
+      "ru": "Она заплатила пятьдесят долларов за туфли",
+      "accepted_en": [
+        "She paid fifty dollars for the shoes"
+      ],
+      "audio": "audio/listen-numbers.73.mp3"
+    },
+    {
+      "id": "listen-numbers.74",
+      "en": "The bill is thirty dollars",
+      "ru": "Счёт на тридцать долларов",
+      "accepted_en": [
+        "The bill is thirty dollars"
+      ],
+      "audio": "audio/listen-numbers.74.mp3"
+    },
+    {
+      "id": "listen-numbers.75",
+      "en": "Can I have two coffees, please?",
+      "ru": "Можно мне два кофе, пожалуйста?",
+      "accepted_en": [
+        "Can I have two coffees, please?",
+        "Can I have two coffees, please"
+      ],
+      "audio": "audio/listen-numbers.75.mp3"
+    },
+    {
+      "id": "listen-numbers.76",
+      "en": "Give me two apples, please",
+      "ru": "Дайте мне два яблока, пожалуйста",
+      "accepted_en": [
+        "Give me two apples, please"
+      ],
+      "audio": "audio/listen-numbers.76.mp3"
+    },
+    {
+      "id": "listen-numbers.77",
+      "en": "It's on sale for fifteen dollars",
+      "ru": "Это продаётся за пятнадцать долларов",
+      "accepted_en": [
+        "It's on sale for fifteen dollars",
+        "It is on sale for fifteen dollars"
+      ],
+      "audio": "audio/listen-numbers.77.mp3"
+    },
+    {
+      "id": "listen-numbers.78",
+      "en": "I have three sisters",
+      "ru": "У меня три сестры",
+      "accepted_en": [
+        "I have three sisters"
+      ],
+      "audio": "audio/listen-numbers.78.mp3"
+    },
+    {
+      "id": "listen-numbers.79",
+      "en": "She has five cats",
+      "ru": "У неё пять кошек",
+      "accepted_en": [
+        "She has five cats"
+      ],
+      "audio": "audio/listen-numbers.79.mp3"
+    },
+    {
+      "id": "listen-numbers.80",
+      "en": "He has two dogs",
+      "ru": "У него две собаки",
+      "accepted_en": [
+        "He has two dogs"
+      ],
+      "audio": "audio/listen-numbers.80.mp3"
+    },
+    {
+      "id": "listen-numbers.81",
+      "en": "I have ten fingers",
+      "ru": "У меня десять пальцев",
+      "accepted_en": [
+        "I have ten fingers"
+      ],
+      "audio": "audio/listen-numbers.81.mp3"
+    },
+    {
+      "id": "listen-numbers.82",
+      "en": "There are seven days in a week",
+      "ru": "В неделе семь дней",
+      "accepted_en": [
+        "There are seven days in a week"
+      ],
+      "audio": "audio/listen-numbers.82.mp3"
+    },
+    {
+      "id": "listen-numbers.83",
+      "en": "There are twelve months in a year",
+      "ru": "В году двенадцать месяцев",
+      "accepted_en": [
+        "There are twelve months in a year"
+      ],
+      "audio": "audio/listen-numbers.83.mp3"
+    },
+    {
+      "id": "listen-numbers.84",
+      "en": "There are sixty minutes in an hour",
+      "ru": "В часе шестьдесят минут",
+      "accepted_en": [
+        "There are sixty minutes in an hour"
+      ],
+      "audio": "audio/listen-numbers.84.mp3"
+    },
+    {
+      "id": "listen-numbers.85",
+      "en": "This is my first day at work",
+      "ru": "Это мой первый день на работе",
+      "accepted_en": [
+        "This is my first day at work"
+      ],
+      "audio": "audio/listen-numbers.85.mp3"
+    },
+    {
+      "id": "listen-numbers.86",
+      "en": "She finished in second place",
+      "ru": "Она заняла второе место",
+      "accepted_en": [
+        "She finished in second place"
+      ],
+      "audio": "audio/listen-numbers.86.mp3"
+    },
+    {
+      "id": "listen-numbers.87",
+      "en": "He lives on the third floor",
+      "ru": "Он живёт на третьем этаже",
+      "accepted_en": [
+        "He lives on the third floor"
+      ],
+      "audio": "audio/listen-numbers.87.mp3"
+    },
+    {
+      "id": "listen-numbers.88",
+      "en": "It's my fourth time here",
+      "ru": "Это мой четвёртый раз здесь",
+      "accepted_en": [
+        "It's my fourth time here",
+        "It is my fourth time here"
+      ],
+      "audio": "audio/listen-numbers.88.mp3"
+    },
+    {
+      "id": "listen-numbers.89",
+      "en": "This is her sixth book",
+      "ru": "Это её шестая книга",
+      "accepted_en": [
+        "This is her sixth book"
+      ],
+      "audio": "audio/listen-numbers.89.mp3"
+    },
+    {
+      "id": "listen-numbers.90",
+      "en": "He is the seventh player",
+      "ru": "Он седьмой игрок",
+      "accepted_en": [
+        "He is the seventh player",
+        "He's the seventh player"
+      ],
+      "audio": "audio/listen-numbers.90.mp3"
+    },
+    {
+      "id": "listen-numbers.91",
+      "en": "It's the eighth chapter",
+      "ru": "Это восьмая глава",
+      "accepted_en": [
+        "It's the eighth chapter",
+        "It is the eighth chapter"
+      ],
+      "audio": "audio/listen-numbers.91.mp3"
+    },
+    {
+      "id": "listen-numbers.92",
+      "en": "This is the tenth question",
+      "ru": "Это десятый вопрос",
+      "accepted_en": [
+        "This is the tenth question"
+      ],
+      "audio": "audio/listen-numbers.92.mp3"
+    },
+    {
+      "id": "listen-numbers.93",
+      "en": "My phone number is two three four five six",
+      "ru": "Мой номер телефона два три четыре пять шесть",
+      "accepted_en": [
+        "My phone number is two three four five six"
+      ],
+      "audio": "audio/listen-numbers.93.mp3"
+    },
+    {
+      "id": "listen-numbers.94",
+      "en": "My apartment number is twelve",
+      "ru": "Номер моей квартиры двенадцать",
+      "accepted_en": [
+        "My apartment number is twelve"
+      ],
+      "audio": "audio/listen-numbers.94.mp3"
+    },
+    {
+      "id": "listen-numbers.95",
+      "en": "Room number seven, please",
+      "ru": "Комната номер семь, пожалуйста",
+      "accepted_en": [
+        "Room number seven, please"
+      ],
+      "audio": "audio/listen-numbers.95.mp3"
+    },
+    {
+      "id": "listen-numbers.96",
+      "en": "My office is on the second floor",
+      "ru": "Мой офис на втором этаже",
+      "accepted_en": [
+        "My office is on the second floor"
+      ],
+      "audio": "audio/listen-numbers.96.mp3"
+    },
+    {
+      "id": "listen-numbers.97",
+      "en": "Table number three is ready",
+      "ru": "Столик номер три готов",
+      "accepted_en": [
+        "Table number three is ready"
+      ],
+      "audio": "audio/listen-numbers.97.mp3"
+    },
+    {
+      "id": "listen-numbers.98",
+      "en": "Two plus two is four",
+      "ru": "Два плюс два равно четыре",
+      "accepted_en": [
+        "Two plus two is four"
+      ],
+      "audio": "audio/listen-numbers.98.mp3"
+    },
+    {
+      "id": "listen-numbers.99",
+      "en": "Ten minus three is seven",
+      "ru": "Десять минус три равно семь",
+      "accepted_en": [
+        "Ten minus three is seven"
+      ],
+      "audio": "audio/listen-numbers.99.mp3"
+    },
+    {
+      "id": "listen-numbers.100",
+      "en": "This is exercise number one hundred",
+      "ru": "Это упражнение номер сто",
+      "accepted_en": [
+        "This is exercise number one hundred"
+      ],
+      "audio": "audio/listen-numbers.100.mp3"
+    }
+  ]
+}

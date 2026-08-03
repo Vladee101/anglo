@@ -1,0 +1,828 @@
+{
+  "id": "read-numbers",
+  "title_ru": "Чтение: числа и время",
+  "modality": "read",
+  "items": [
+    {
+      "id": "read-numbers.1",
+      "en": "One, two, three",
+      "ru": "Один, два, три",
+      "accepted_en": [
+        "One, two, three"
+      ]
+    },
+    {
+      "id": "read-numbers.2",
+      "en": "How old are you?",
+      "ru": "Сколько тебе лет?",
+      "accepted_en": [
+        "How old are you?",
+        "How old are you"
+      ]
+    },
+    {
+      "id": "read-numbers.3",
+      "en": "I am twenty years old",
+      "ru": "Мне двадцать лет",
+      "accepted_en": [
+        "I am twenty years old",
+        "I'm twenty years old"
+      ]
+    },
+    {
+      "id": "read-numbers.4",
+      "en": "What time is it?",
+      "ru": "Который час?",
+      "accepted_en": [
+        "What time is it?",
+        "What time is it"
+      ]
+    },
+    {
+      "id": "read-numbers.5",
+      "en": "It's ten o'clock",
+      "ru": "Сейчас десять часов",
+      "accepted_en": [
+        "It's ten o'clock",
+        "It is ten o'clock"
+      ]
+    },
+    {
+      "id": "read-numbers.6",
+      "en": "I have two brothers",
+      "ru": "У меня два брата",
+      "accepted_en": [
+        "I have two brothers"
+      ]
+    },
+    {
+      "id": "read-numbers.7",
+      "en": "She is thirty years old",
+      "ru": "Ей тридцать лет",
+      "accepted_en": [
+        "She is thirty years old",
+        "She's thirty years old"
+      ]
+    },
+    {
+      "id": "read-numbers.8",
+      "en": "The train leaves at nine",
+      "ru": "Поезд отправляется в девять",
+      "accepted_en": [
+        "The train leaves at nine"
+      ]
+    },
+    {
+      "id": "read-numbers.9",
+      "en": "We have four children",
+      "ru": "У нас четверо детей",
+      "accepted_en": [
+        "We have four children"
+      ]
+    },
+    {
+      "id": "read-numbers.10",
+      "en": "It costs five dollars",
+      "ru": "Это стоит пять долларов",
+      "accepted_en": [
+        "It costs five dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.11",
+      "en": "I am ten years old",
+      "ru": "Мне десять лет",
+      "accepted_en": [
+        "I am ten years old",
+        "I'm ten years old"
+      ]
+    },
+    {
+      "id": "read-numbers.12",
+      "en": "We have three cats",
+      "ru": "У нас три кошки",
+      "accepted_en": [
+        "We have three cats"
+      ]
+    },
+    {
+      "id": "read-numbers.13",
+      "en": "The meeting starts at six",
+      "ru": "Встреча начинается в шесть",
+      "accepted_en": [
+        "The meeting starts at six"
+      ]
+    },
+    {
+      "id": "read-numbers.14",
+      "en": "I need two tickets",
+      "ru": "Мне нужны два билета",
+      "accepted_en": [
+        "I need two tickets"
+      ]
+    },
+    {
+      "id": "read-numbers.15",
+      "en": "She has one sister",
+      "ru": "У неё одна сестра",
+      "accepted_en": [
+        "She has one sister"
+      ]
+    },
+    {
+      "id": "read-numbers.16",
+      "en": "I am thirty years old",
+      "ru": "Мне тридцать лет",
+      "accepted_en": [
+        "I am thirty years old",
+        "I'm thirty years old"
+      ]
+    },
+    {
+      "id": "read-numbers.17",
+      "en": "It is five o'clock",
+      "ru": "Сейчас пять часов",
+      "accepted_en": [
+        "It is five o'clock",
+        "It's five o'clock"
+      ]
+    },
+    {
+      "id": "read-numbers.18",
+      "en": "We have two children",
+      "ru": "У нас двое детей",
+      "accepted_en": [
+        "We have two children"
+      ]
+    },
+    {
+      "id": "read-numbers.19",
+      "en": "The bus arrives at seven",
+      "ru": "Автобус приезжает в семь",
+      "accepted_en": [
+        "The bus arrives at seven"
+      ]
+    },
+    {
+      "id": "read-numbers.20",
+      "en": "I need three minutes",
+      "ru": "Мне нужно три минуты",
+      "accepted_en": [
+        "I need three minutes"
+      ]
+    },
+    {
+      "id": "read-numbers.21",
+      "en": "Four, five, six",
+      "ru": "Четыре, пять, шесть",
+      "accepted_en": [
+        "Four, five, six"
+      ]
+    },
+    {
+      "id": "read-numbers.22",
+      "en": "Seven, eight, nine",
+      "ru": "Семь, восемь, девять",
+      "accepted_en": [
+        "Seven, eight, nine"
+      ]
+    },
+    {
+      "id": "read-numbers.23",
+      "en": "Ten, eleven, twelve",
+      "ru": "Десять, одиннадцать, двенадцать",
+      "accepted_en": [
+        "Ten, eleven, twelve"
+      ]
+    },
+    {
+      "id": "read-numbers.24",
+      "en": "Thirteen, fourteen, fifteen",
+      "ru": "Тринадцать, четырнадцать, пятнадцать",
+      "accepted_en": [
+        "Thirteen, fourteen, fifteen"
+      ]
+    },
+    {
+      "id": "read-numbers.25",
+      "en": "Sixteen, seventeen, eighteen",
+      "ru": "Шестнадцать, семнадцать, восемнадцать",
+      "accepted_en": [
+        "Sixteen, seventeen, eighteen"
+      ]
+    },
+    {
+      "id": "read-numbers.26",
+      "en": "Nineteen, twenty, twenty-one",
+      "ru": "Девятнадцать, двадцать, двадцать один",
+      "accepted_en": [
+        "Nineteen, twenty, twenty-one"
+      ]
+    },
+    {
+      "id": "read-numbers.27",
+      "en": "Thirty, forty, fifty",
+      "ru": "Тридцать, сорок, пятьдесят",
+      "accepted_en": [
+        "Thirty, forty, fifty"
+      ]
+    },
+    {
+      "id": "read-numbers.28",
+      "en": "Sixty, seventy, eighty",
+      "ru": "Шестьдесят, семьдесят, восемьдесят",
+      "accepted_en": [
+        "Sixty, seventy, eighty"
+      ]
+    },
+    {
+      "id": "read-numbers.29",
+      "en": "Ninety, one hundred",
+      "ru": "Девяносто, сто",
+      "accepted_en": [
+        "Ninety, one hundred"
+      ]
+    },
+    {
+      "id": "read-numbers.30",
+      "en": "He is forty-five years old",
+      "ru": "Ему сорок пять лет",
+      "accepted_en": [
+        "He is forty-five years old",
+        "He's forty-five years old"
+      ]
+    },
+    {
+      "id": "read-numbers.31",
+      "en": "My mother is fifty years old",
+      "ru": "Моей маме пятьдесят лет",
+      "accepted_en": [
+        "My mother is fifty years old"
+      ]
+    },
+    {
+      "id": "read-numbers.32",
+      "en": "My father is fifty-five years old",
+      "ru": "Моему отцу пятьдесят пять лет",
+      "accepted_en": [
+        "My father is fifty-five years old"
+      ]
+    },
+    {
+      "id": "read-numbers.33",
+      "en": "My sister is eighteen years old",
+      "ru": "Моей сестре восемнадцать лет",
+      "accepted_en": [
+        "My sister is eighteen years old"
+      ]
+    },
+    {
+      "id": "read-numbers.34",
+      "en": "My brother is twenty-five years old",
+      "ru": "Моему брату двадцать пять лет",
+      "accepted_en": [
+        "My brother is twenty-five years old"
+      ]
+    },
+    {
+      "id": "read-numbers.35",
+      "en": "The baby is one year old",
+      "ru": "Ребёнку один год",
+      "accepted_en": [
+        "The baby is one year old"
+      ]
+    },
+    {
+      "id": "read-numbers.36",
+      "en": "Our grandmother is eighty years old",
+      "ru": "Нашей бабушке восемьдесят лет",
+      "accepted_en": [
+        "Our grandmother is eighty years old"
+      ]
+    },
+    {
+      "id": "read-numbers.37",
+      "en": "It's three o'clock",
+      "ru": "Сейчас три часа",
+      "accepted_en": [
+        "It's three o'clock",
+        "It is three o'clock"
+      ]
+    },
+    {
+      "id": "read-numbers.38",
+      "en": "It's half past five",
+      "ru": "Сейчас половина шестого",
+      "accepted_en": [
+        "It's half past five",
+        "It is half past five"
+      ]
+    },
+    {
+      "id": "read-numbers.39",
+      "en": "It's a quarter past seven",
+      "ru": "Сейчас четверть восьмого",
+      "accepted_en": [
+        "It's a quarter past seven",
+        "It is a quarter past seven"
+      ]
+    },
+    {
+      "id": "read-numbers.40",
+      "en": "It's a quarter to nine",
+      "ru": "Без четверти девять",
+      "accepted_en": [
+        "It's a quarter to nine",
+        "It is a quarter to nine"
+      ]
+    },
+    {
+      "id": "read-numbers.41",
+      "en": "It's twelve o'clock",
+      "ru": "Сейчас двенадцать часов",
+      "accepted_en": [
+        "It's twelve o'clock",
+        "It is twelve o'clock"
+      ]
+    },
+    {
+      "id": "read-numbers.42",
+      "en": "It's five past two",
+      "ru": "Сейчас пять минут третьего",
+      "accepted_en": [
+        "It's five past two",
+        "It is five past two"
+      ]
+    },
+    {
+      "id": "read-numbers.43",
+      "en": "It's ten to six",
+      "ru": "Без десяти шесть",
+      "accepted_en": [
+        "It's ten to six",
+        "It is ten to six"
+      ]
+    },
+    {
+      "id": "read-numbers.44",
+      "en": "The shop opens at eight",
+      "ru": "Магазин открывается в восемь",
+      "accepted_en": [
+        "The shop opens at eight"
+      ]
+    },
+    {
+      "id": "read-numbers.45",
+      "en": "The shop closes at ten",
+      "ru": "Магазин закрывается в десять",
+      "accepted_en": [
+        "The shop closes at ten"
+      ]
+    },
+    {
+      "id": "read-numbers.46",
+      "en": "I wake up at seven",
+      "ru": "Я просыпаюсь в семь",
+      "accepted_en": [
+        "I wake up at seven"
+      ]
+    },
+    {
+      "id": "read-numbers.47",
+      "en": "I go to bed at eleven",
+      "ru": "Я ложусь спать в одиннадцать",
+      "accepted_en": [
+        "I go to bed at eleven"
+      ]
+    },
+    {
+      "id": "read-numbers.48",
+      "en": "I have lunch at one",
+      "ru": "Я обедаю в час",
+      "accepted_en": [
+        "I have lunch at one"
+      ]
+    },
+    {
+      "id": "read-numbers.49",
+      "en": "I finish work at six",
+      "ru": "Я заканчиваю работу в шесть",
+      "accepted_en": [
+        "I finish work at six"
+      ]
+    },
+    {
+      "id": "read-numbers.50",
+      "en": "Call me at nine tonight",
+      "ru": "Позвони мне в девять вечера",
+      "accepted_en": [
+        "Call me at nine tonight"
+      ]
+    },
+    {
+      "id": "read-numbers.51",
+      "en": "Wait for five minutes",
+      "ru": "Подожди пять минут",
+      "accepted_en": [
+        "Wait for five minutes"
+      ]
+    },
+    {
+      "id": "read-numbers.52",
+      "en": "See you in ten minutes",
+      "ru": "Увидимся через десять минут",
+      "accepted_en": [
+        "See you in ten minutes"
+      ]
+    },
+    {
+      "id": "read-numbers.53",
+      "en": "I sleep for eight hours",
+      "ru": "Я сплю восемь часов",
+      "accepted_en": [
+        "I sleep for eight hours"
+      ]
+    },
+    {
+      "id": "read-numbers.54",
+      "en": "I work for eight hours a day",
+      "ru": "Я работаю восемь часов в день",
+      "accepted_en": [
+        "I work for eight hours a day"
+      ]
+    },
+    {
+      "id": "read-numbers.55",
+      "en": "I go swimming twice a week",
+      "ru": "Я хожу плавать два раза в неделю",
+      "accepted_en": [
+        "I go swimming twice a week"
+      ]
+    },
+    {
+      "id": "read-numbers.56",
+      "en": "I visit my parents once a month",
+      "ru": "Я навещаю родителей раз в месяц",
+      "accepted_en": [
+        "I visit my parents once a month"
+      ]
+    },
+    {
+      "id": "read-numbers.57",
+      "en": "We meet every two weeks",
+      "ru": "Мы встречаемся раз в две недели",
+      "accepted_en": [
+        "We meet every two weeks"
+      ]
+    },
+    {
+      "id": "read-numbers.58",
+      "en": "The film lasts two hours",
+      "ru": "Фильм длится два часа",
+      "accepted_en": [
+        "The film lasts two hours"
+      ]
+    },
+    {
+      "id": "read-numbers.59",
+      "en": "It takes three hours",
+      "ru": "Это занимает три часа",
+      "accepted_en": [
+        "It takes three hours"
+      ]
+    },
+    {
+      "id": "read-numbers.60",
+      "en": "Today is the first of May",
+      "ru": "Сегодня первое мая",
+      "accepted_en": [
+        "Today is the first of May"
+      ]
+    },
+    {
+      "id": "read-numbers.61",
+      "en": "My birthday is on the third of June",
+      "ru": "Мой день рождения третьего июня",
+      "accepted_en": [
+        "My birthday is on the third of June"
+      ]
+    },
+    {
+      "id": "read-numbers.62",
+      "en": "She was born in nineteen ninety",
+      "ru": "Она родилась в тысяча девятьсот девяностом году",
+      "accepted_en": [
+        "She was born in nineteen ninety"
+      ]
+    },
+    {
+      "id": "read-numbers.63",
+      "en": "He was born in two thousand",
+      "ru": "Он родился в двухтысячном году",
+      "accepted_en": [
+        "He was born in two thousand"
+      ]
+    },
+    {
+      "id": "read-numbers.64",
+      "en": "The year is two thousand twenty-six",
+      "ru": "Сейчас две тысячи двадцать шестой год",
+      "accepted_en": [
+        "The year is two thousand twenty-six"
+      ]
+    },
+    {
+      "id": "read-numbers.65",
+      "en": "We got married in twenty twenty",
+      "ru": "Мы поженились в две тысячи двадцатом году",
+      "accepted_en": [
+        "We got married in twenty twenty"
+      ]
+    },
+    {
+      "id": "read-numbers.66",
+      "en": "School starts on the first of September",
+      "ru": "Школа начинается первого сентября",
+      "accepted_en": [
+        "School starts on the first of September"
+      ]
+    },
+    {
+      "id": "read-numbers.67",
+      "en": "New Year is on the first of January",
+      "ru": "Новый год первого января",
+      "accepted_en": [
+        "New Year is on the first of January"
+      ]
+    },
+    {
+      "id": "read-numbers.68",
+      "en": "My exam is on the fifth of March",
+      "ru": "Мой экзамен пятого марта",
+      "accepted_en": [
+        "My exam is on the fifth of March"
+      ]
+    },
+    {
+      "id": "read-numbers.69",
+      "en": "The concert is on the tenth of July",
+      "ru": "Концерт десятого июля",
+      "accepted_en": [
+        "The concert is on the tenth of July"
+      ]
+    },
+    {
+      "id": "read-numbers.70",
+      "en": "This book costs ten dollars",
+      "ru": "Эта книга стоит десять долларов",
+      "accepted_en": [
+        "This book costs ten dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.71",
+      "en": "The ticket costs twenty dollars",
+      "ru": "Билет стоит двадцать долларов",
+      "accepted_en": [
+        "The ticket costs twenty dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.72",
+      "en": "I have one hundred dollars",
+      "ru": "У меня сто долларов",
+      "accepted_en": [
+        "I have one hundred dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.73",
+      "en": "She paid fifty dollars for the shoes",
+      "ru": "Она заплатила пятьдесят долларов за туфли",
+      "accepted_en": [
+        "She paid fifty dollars for the shoes"
+      ]
+    },
+    {
+      "id": "read-numbers.74",
+      "en": "The bill is thirty dollars",
+      "ru": "Счёт на тридцать долларов",
+      "accepted_en": [
+        "The bill is thirty dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.75",
+      "en": "Can I have two coffees, please?",
+      "ru": "Можно мне два кофе, пожалуйста?",
+      "accepted_en": [
+        "Can I have two coffees, please?",
+        "Can I have two coffees, please"
+      ]
+    },
+    {
+      "id": "read-numbers.76",
+      "en": "Give me two apples, please",
+      "ru": "Дайте мне два яблока, пожалуйста",
+      "accepted_en": [
+        "Give me two apples, please"
+      ]
+    },
+    {
+      "id": "read-numbers.77",
+      "en": "It's on sale for fifteen dollars",
+      "ru": "Это продаётся за пятнадцать долларов",
+      "accepted_en": [
+        "It's on sale for fifteen dollars",
+        "It is on sale for fifteen dollars"
+      ]
+    },
+    {
+      "id": "read-numbers.78",
+      "en": "I have three sisters",
+      "ru": "У меня три сестры",
+      "accepted_en": [
+        "I have three sisters"
+      ]
+    },
+    {
+      "id": "read-numbers.79",
+      "en": "She has five cats",
+      "ru": "У неё пять кошек",
+      "accepted_en": [
+        "She has five cats"
+      ]
+    },
+    {
+      "id": "read-numbers.80",
+      "en": "He has two dogs",
+      "ru": "У него две собаки",
+      "accepted_en": [
+        "He has two dogs"
+      ]
+    },
+    {
+      "id": "read-numbers.81",
+      "en": "I have ten fingers",
+      "ru": "У меня десять пальцев",
+      "accepted_en": [
+        "I have ten fingers"
+      ]
+    },
+    {
+      "id": "read-numbers.82",
+      "en": "There are seven days in a week",
+      "ru": "В неделе семь дней",
+      "accepted_en": [
+        "There are seven days in a week"
+      ]
+    },
+    {
+      "id": "read-numbers.83",
+      "en": "There are twelve months in a year",
+      "ru": "В году двенадцать месяцев",
+      "accepted_en": [
+        "There are twelve months in a year"
+      ]
+    },
+    {
+      "id": "read-numbers.84",
+      "en": "There are sixty minutes in an hour",
+      "ru": "В часе шестьдесят минут",
+      "accepted_en": [
+        "There are sixty minutes in an hour"
+      ]
+    },
+    {
+      "id": "read-numbers.85",
+      "en": "This is my first day at work",
+      "ru": "Это мой первый день на работе",
+      "accepted_en": [
+        "This is my first day at work"
+      ]
+    },
+    {
+      "id": "read-numbers.86",
+      "en": "She finished in second place",
+      "ru": "Она заняла второе место",
+      "accepted_en": [
+        "She finished in second place"
+      ]
+    },
+    {
+      "id": "read-numbers.87",
+      "en": "He lives on the third floor",
+      "ru": "Он живёт на третьем этаже",
+      "accepted_en": [
+        "He lives on the third floor"
+      ]
+    },
+    {
+      "id": "read-numbers.88",
+      "en": "It's my fourth time here",
+      "ru": "Это мой четвёртый раз здесь",
+      "accepted_en": [
+        "It's my fourth time here",
+        "It is my fourth time here"
+      ]
+    },
+    {
+      "id": "read-numbers.89",
+      "en": "This is her sixth book",
+      "ru": "Это её шестая книга",
+      "accepted_en": [
+        "This is her sixth book"
+      ]
+    },
+    {
+      "id": "read-numbers.90",
+      "en": "He is the seventh player",
+      "ru": "Он седьмой игрок",
+      "accepted_en": [
+        "He is the seventh player",
+        "He's the seventh player"
+      ]
+    },
+    {
+      "id": "read-numbers.91",
+      "en": "It's the eighth chapter",
+      "ru": "Это восьмая глава",
+      "accepted_en": [
+        "It's the eighth chapter",
+        "It is the eighth chapter"
+      ]
+    },
+    {
+      "id": "read-numbers.92",
+      "en": "This is the tenth question",
+      "ru": "Это десятый вопрос",
+      "accepted_en": [
+        "This is the tenth question"
+      ]
+    },
+    {
+      "id": "read-numbers.93",
+      "en": "My phone number is two three four five six",
+      "ru": "Мой номер телефона два три четыре пять шесть",
+      "accepted_en": [
+        "My phone number is two three four five six"
+      ]
+    },
+    {
+      "id": "read-numbers.94",
+      "en": "My apartment number is twelve",
+      "ru": "Номер моей квартиры двенадцать",
+      "accepted_en": [
+        "My apartment number is twelve"
+      ]
+    },
+    {
+      "id": "read-numbers.95",
+      "en": "Room number seven, please",
+      "ru": "Комната номер семь, пожалуйста",
+      "accepted_en": [
+        "Room number seven, please"
+      ]
+    },
+    {
+      "id": "read-numbers.96",
+      "en": "My office is on the second floor",
+      "ru": "Мой офис на втором этаже",
+      "accepted_en": [
+        "My office is on the second floor"
+      ]
+    },
+    {
+      "id": "read-numbers.97",
+      "en": "Table number three is ready",
+      "ru": "Столик номер три готов",
+      "accepted_en": [
+        "Table number three is ready"
+      ]
+    },
+    {
+      "id": "read-numbers.98",
+      "en": "Two plus two is four",
+      "ru": "Два плюс два равно четыре",
+      "accepted_en": [
+        "Two plus two is four"
+      ]
+    },
+    {
+      "id": "read-numbers.99",
+      "en": "Ten minus three is seven",
+      "ru": "Десять минус три равно семь",
+      "accepted_en": [
+        "Ten minus three is seven"
+      ]
+    },
+    {
+      "id": "read-numbers.100",
+      "en": "This is exercise number one hundred",
+      "ru": "Это упражнение номер сто",
+      "accepted_en": [
+        "This is exercise number one hundred"
+      ]
+    }
+  ]
+}
