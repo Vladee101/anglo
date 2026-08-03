@@ -2,9 +2,48 @@ import { describe, expect, it } from 'vitest'
 import { sampleDistractors } from '../distractors'
 import { mulberry32 } from '../rng'
 import type { Chain } from '../../types'
-import wantWater from '../../../chains/want-water.json'
 
-const chain = wantWater as Chain
+// Small progressive chain fixture, kept local to this test so it doesn't
+// depend on any particular file under chains/ existing.
+const chain: Chain = {
+  id: 'want-water',
+  title_ru: 'Я хочу...',
+  progressive: true,
+  steps: [
+    {
+      id: 'want-water.1', en: 'I want', ru: 'Я хочу', accepted_en: ['I want'],
+      new_part: 'I want', trap_distractors_ru: ['Я хотел', 'Ты хочешь', 'Я могу'],
+      audio: 'audio/want-water.1.mp3',
+    },
+    {
+      id: 'want-water.2', en: 'I want water', ru: 'Я хочу воды',
+      accepted_en: ['I want water', 'I want some water'], new_part: 'water',
+      trap_distractors_ru: ['Я хочу чаю'], audio: 'audio/want-water.2.mp3',
+    },
+    {
+      id: 'want-water.3', en: 'I want to drink water', ru: 'Я хочу выпить воды',
+      accepted_en: ['I want to drink water', 'I want to drink some water'], new_part: 'to drink',
+      trap_distractors_ru: ['Я хочу пить'], audio: 'audio/want-water.3.mp3',
+    },
+    {
+      id: 'want-water.4', en: 'I want to drink cold water', ru: 'Я хочу выпить холодной воды',
+      accepted_en: ['I want to drink cold water', 'I want to drink some cold water'], new_part: 'cold',
+      trap_distractors_ru: ['Я хочу выпить горячей воды'], audio: 'audio/want-water.4.mp3',
+    },
+    {
+      id: 'want-water.5', en: 'I really want to drink cold water', ru: 'Я очень хочу выпить холодной воды',
+      accepted_en: ['I really want to drink cold water'], new_part: 'really',
+      trap_distractors_ru: ['Я очень хотел выпить холодной воды'], audio: 'audio/want-water.5.mp3',
+    },
+    {
+      id: 'want-water.6', en: 'I really want to drink cold water right now',
+      ru: 'Я очень хочу выпить холодной воды прямо сейчас',
+      accepted_en: ['I really want to drink cold water right now', 'I really want to drink cold water now'],
+      new_part: 'right now', trap_distractors_ru: ['Я очень хочу выпить холодной воды завтра'],
+      audio: 'audio/want-water.6.mp3',
+    },
+  ],
+}
 
 describe('sampleDistractors', () => {
   it('returns exactly 3 options for every step', () => {
