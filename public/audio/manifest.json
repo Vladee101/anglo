@@ -1249,6 +1249,506 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "listen-nouns.1": {
+    "en": "time",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.10": {
+    "en": "child",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.100": {
+    "en": "experience",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.11": {
+    "en": "world",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.12": {
+    "en": "school",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.13": {
+    "en": "state",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.14": {
+    "en": "family",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.15": {
+    "en": "student",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.16": {
+    "en": "group",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.17": {
+    "en": "country",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.18": {
+    "en": "problem",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.19": {
+    "en": "hand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.2": {
+    "en": "year",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.20": {
+    "en": "part",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.21": {
+    "en": "place",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.22": {
+    "en": "case",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.23": {
+    "en": "week",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.24": {
+    "en": "company",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.25": {
+    "en": "system",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.26": {
+    "en": "program",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.27": {
+    "en": "question",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.28": {
+    "en": "work",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.29": {
+    "en": "government",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.3": {
+    "en": "people",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.30": {
+    "en": "number",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.31": {
+    "en": "night",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.32": {
+    "en": "point",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.33": {
+    "en": "home",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.34": {
+    "en": "water",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.35": {
+    "en": "room",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.36": {
+    "en": "mother",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.37": {
+    "en": "area",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.38": {
+    "en": "money",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.39": {
+    "en": "story",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.4": {
+    "en": "way",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.40": {
+    "en": "fact",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.41": {
+    "en": "month",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.42": {
+    "en": "lot",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.43": {
+    "en": "right",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.44": {
+    "en": "study",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.45": {
+    "en": "book",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.46": {
+    "en": "eye",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.47": {
+    "en": "job",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.48": {
+    "en": "word",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.49": {
+    "en": "business",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.5": {
+    "en": "day",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.50": {
+    "en": "issue",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.51": {
+    "en": "side",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.52": {
+    "en": "kind",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.53": {
+    "en": "head",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.54": {
+    "en": "house",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.55": {
+    "en": "service",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.56": {
+    "en": "friend",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.57": {
+    "en": "father",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.58": {
+    "en": "power",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.59": {
+    "en": "hour",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.6": {
+    "en": "man",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.60": {
+    "en": "game",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.61": {
+    "en": "line",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.62": {
+    "en": "end",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.63": {
+    "en": "member",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.64": {
+    "en": "law",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.65": {
+    "en": "car",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.66": {
+    "en": "city",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.67": {
+    "en": "community",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.68": {
+    "en": "name",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.69": {
+    "en": "president",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.7": {
+    "en": "thing",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.70": {
+    "en": "team",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.71": {
+    "en": "minute",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.72": {
+    "en": "idea",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.73": {
+    "en": "body",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.74": {
+    "en": "information",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.75": {
+    "en": "back",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.76": {
+    "en": "parent",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.77": {
+    "en": "face",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.78": {
+    "en": "level",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.79": {
+    "en": "office",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.8": {
+    "en": "woman",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.80": {
+    "en": "door",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.81": {
+    "en": "health",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.82": {
+    "en": "person",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.83": {
+    "en": "art",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.84": {
+    "en": "war",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.85": {
+    "en": "history",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.86": {
+    "en": "party",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.87": {
+    "en": "result",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.88": {
+    "en": "change",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.89": {
+    "en": "morning",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.9": {
+    "en": "life",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.90": {
+    "en": "reason",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.91": {
+    "en": "research",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.92": {
+    "en": "girl",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.93": {
+    "en": "guy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.94": {
+    "en": "moment",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.95": {
+    "en": "air",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.96": {
+    "en": "teacher",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.97": {
+    "en": "force",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.98": {
+    "en": "education",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-nouns.99": {
+    "en": "society",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "listen-numbers.1": {
     "en": "One, two, three",
     "rate": "-10%",

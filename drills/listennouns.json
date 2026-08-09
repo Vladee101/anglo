@@ -1,0 +1,907 @@
+{
+  "id": "listen-nouns",
+  "title_ru": "Аудирование: существительные",
+  "modality": "listen",
+  "items": [
+    {
+      "id": "listen-nouns.1",
+      "en": "time",
+      "ru": "время",
+      "accepted_en": [
+        "time"
+      ],
+      "audio": "audio/listen-nouns.1.mp3"
+    },
+    {
+      "id": "listen-nouns.2",
+      "en": "year",
+      "ru": "год",
+      "accepted_en": [
+        "year"
+      ],
+      "audio": "audio/listen-nouns.2.mp3"
+    },
+    {
+      "id": "listen-nouns.3",
+      "en": "people",
+      "ru": "люди",
+      "accepted_en": [
+        "people"
+      ],
+      "audio": "audio/listen-nouns.3.mp3"
+    },
+    {
+      "id": "listen-nouns.4",
+      "en": "way",
+      "ru": "способ",
+      "accepted_en": [
+        "way"
+      ],
+      "audio": "audio/listen-nouns.4.mp3"
+    },
+    {
+      "id": "listen-nouns.5",
+      "en": "day",
+      "ru": "день",
+      "accepted_en": [
+        "day"
+      ],
+      "audio": "audio/listen-nouns.5.mp3"
+    },
+    {
+      "id": "listen-nouns.6",
+      "en": "man",
+      "ru": "мужчина",
+      "accepted_en": [
+        "man"
+      ],
+      "audio": "audio/listen-nouns.6.mp3"
+    },
+    {
+      "id": "listen-nouns.7",
+      "en": "thing",
+      "ru": "вещь",
+      "accepted_en": [
+        "thing"
+      ],
+      "audio": "audio/listen-nouns.7.mp3"
+    },
+    {
+      "id": "listen-nouns.8",
+      "en": "woman",
+      "ru": "женщина",
+      "accepted_en": [
+        "woman"
+      ],
+      "audio": "audio/listen-nouns.8.mp3"
+    },
+    {
+      "id": "listen-nouns.9",
+      "en": "life",
+      "ru": "жизнь",
+      "accepted_en": [
+        "life"
+      ],
+      "audio": "audio/listen-nouns.9.mp3"
+    },
+    {
+      "id": "listen-nouns.10",
+      "en": "child",
+      "ru": "ребёнок",
+      "accepted_en": [
+        "child"
+      ],
+      "audio": "audio/listen-nouns.10.mp3"
+    },
+    {
+      "id": "listen-nouns.11",
+      "en": "world",
+      "ru": "мир",
+      "accepted_en": [
+        "world"
+      ],
+      "audio": "audio/listen-nouns.11.mp3"
+    },
+    {
+      "id": "listen-nouns.12",
+      "en": "school",
+      "ru": "школа",
+      "accepted_en": [
+        "school"
+      ],
+      "audio": "audio/listen-nouns.12.mp3"
+    },
+    {
+      "id": "listen-nouns.13",
+      "en": "state",
+      "ru": "государство",
+      "accepted_en": [
+        "state"
+      ],
+      "audio": "audio/listen-nouns.13.mp3"
+    },
+    {
+      "id": "listen-nouns.14",
+      "en": "family",
+      "ru": "семья",
+      "accepted_en": [
+        "family"
+      ],
+      "audio": "audio/listen-nouns.14.mp3"
+    },
+    {
+      "id": "listen-nouns.15",
+      "en": "student",
+      "ru": "студент",
+      "accepted_en": [
+        "student"
+      ],
+      "audio": "audio/listen-nouns.15.mp3"
+    },
+    {
+      "id": "listen-nouns.16",
+      "en": "group",
+      "ru": "группа",
+      "accepted_en": [
+        "group"
+      ],
+      "audio": "audio/listen-nouns.16.mp3"
+    },
+    {
+      "id": "listen-nouns.17",
+      "en": "country",
+      "ru": "страна",
+      "accepted_en": [
+        "country"
+      ],
+      "audio": "audio/listen-nouns.17.mp3"
+    },
+    {
+      "id": "listen-nouns.18",
+      "en": "problem",
+      "ru": "проблема",
+      "accepted_en": [
+        "problem"
+      ],
+      "audio": "audio/listen-nouns.18.mp3"
+    },
+    {
+      "id": "listen-nouns.19",
+      "en": "hand",
+      "ru": "рука",
+      "accepted_en": [
+        "hand"
+      ],
+      "audio": "audio/listen-nouns.19.mp3"
+    },
+    {
+      "id": "listen-nouns.20",
+      "en": "part",
+      "ru": "часть",
+      "accepted_en": [
+        "part"
+      ],
+      "audio": "audio/listen-nouns.20.mp3"
+    },
+    {
+      "id": "listen-nouns.21",
+      "en": "place",
+      "ru": "место",
+      "accepted_en": [
+        "place"
+      ],
+      "audio": "audio/listen-nouns.21.mp3"
+    },
+    {
+      "id": "listen-nouns.22",
+      "en": "case",
+      "ru": "случай",
+      "accepted_en": [
+        "case"
+      ],
+      "audio": "audio/listen-nouns.22.mp3"
+    },
+    {
+      "id": "listen-nouns.23",
+      "en": "week",
+      "ru": "неделя",
+      "accepted_en": [
+        "week"
+      ],
+      "audio": "audio/listen-nouns.23.mp3"
+    },
+    {
+      "id": "listen-nouns.24",
+      "en": "company",
+      "ru": "компания",
+      "accepted_en": [
+        "company"
+      ],
+      "audio": "audio/listen-nouns.24.mp3"
+    },
+    {
+      "id": "listen-nouns.25",
+      "en": "system",
+      "ru": "система",
+      "accepted_en": [
+        "system"
+      ],
+      "audio": "audio/listen-nouns.25.mp3"
+    },
+    {
+      "id": "listen-nouns.26",
+      "en": "program",
+      "ru": "программа",
+      "accepted_en": [
+        "program"
+      ],
+      "audio": "audio/listen-nouns.26.mp3"
+    },
+    {
+      "id": "listen-nouns.27",
+      "en": "question",
+      "ru": "вопрос",
+      "accepted_en": [
+        "question"
+      ],
+      "audio": "audio/listen-nouns.27.mp3"
+    },
+    {
+      "id": "listen-nouns.28",
+      "en": "work",
+      "ru": "работа",
+      "accepted_en": [
+        "work"
+      ],
+      "audio": "audio/listen-nouns.28.mp3"
+    },
+    {
+      "id": "listen-nouns.29",
+      "en": "government",
+      "ru": "правительство",
+      "accepted_en": [
+        "government"
+      ],
+      "audio": "audio/listen-nouns.29.mp3"
+    },
+    {
+      "id": "listen-nouns.30",
+      "en": "number",
+      "ru": "число",
+      "accepted_en": [
+        "number"
+      ],
+      "audio": "audio/listen-nouns.30.mp3"
+    },
+    {
+      "id": "listen-nouns.31",
+      "en": "night",
+      "ru": "ночь",
+      "accepted_en": [
+        "night"
+      ],
+      "audio": "audio/listen-nouns.31.mp3"
+    },
+    {
+      "id": "listen-nouns.32",
+      "en": "point",
+      "ru": "точка",
+      "accepted_en": [
+        "point"
+      ],
+      "audio": "audio/listen-nouns.32.mp3"
+    },
+    {
+      "id": "listen-nouns.33",
+      "en": "home",
+      "ru": "дом",
+      "accepted_en": [
+        "home"
+      ],
+      "audio": "audio/listen-nouns.33.mp3"
+    },
+    {
+      "id": "listen-nouns.34",
+      "en": "water",
+      "ru": "вода",
+      "accepted_en": [
+        "water"
+      ],
+      "audio": "audio/listen-nouns.34.mp3"
+    },
+    {
+      "id": "listen-nouns.35",
+      "en": "room",
+      "ru": "комната",
+      "accepted_en": [
+        "room"
+      ],
+      "audio": "audio/listen-nouns.35.mp3"
+    },
+    {
+      "id": "listen-nouns.36",
+      "en": "mother",
+      "ru": "мать",
+      "accepted_en": [
+        "mother"
+      ],
+      "audio": "audio/listen-nouns.36.mp3"
+    },
+    {
+      "id": "listen-nouns.37",
+      "en": "area",
+      "ru": "область",
+      "accepted_en": [
+        "area"
+      ],
+      "audio": "audio/listen-nouns.37.mp3"
+    },
+    {
+      "id": "listen-nouns.38",
+      "en": "money",
+      "ru": "деньги",
+      "accepted_en": [
+        "money"
+      ],
+      "audio": "audio/listen-nouns.38.mp3"
+    },
+    {
+      "id": "listen-nouns.39",
+      "en": "story",
+      "ru": "рассказ",
+      "accepted_en": [
+        "story"
+      ],
+      "audio": "audio/listen-nouns.39.mp3"
+    },
+    {
+      "id": "listen-nouns.40",
+      "en": "fact",
+      "ru": "факт",
+      "accepted_en": [
+        "fact"
+      ],
+      "audio": "audio/listen-nouns.40.mp3"
+    },
+    {
+      "id": "listen-nouns.41",
+      "en": "month",
+      "ru": "месяц",
+      "accepted_en": [
+        "month"
+      ],
+      "audio": "audio/listen-nouns.41.mp3"
+    },
+    {
+      "id": "listen-nouns.42",
+      "en": "lot",
+      "ru": "множество",
+      "accepted_en": [
+        "lot"
+      ],
+      "audio": "audio/listen-nouns.42.mp3"
+    },
+    {
+      "id": "listen-nouns.43",
+      "en": "right",
+      "ru": "право",
+      "accepted_en": [
+        "right"
+      ],
+      "audio": "audio/listen-nouns.43.mp3"
+    },
+    {
+      "id": "listen-nouns.44",
+      "en": "study",
+      "ru": "изучение",
+      "accepted_en": [
+        "study"
+      ],
+      "audio": "audio/listen-nouns.44.mp3"
+    },
+    {
+      "id": "listen-nouns.45",
+      "en": "book",
+      "ru": "книга",
+      "accepted_en": [
+        "book"
+      ],
+      "audio": "audio/listen-nouns.45.mp3"
+    },
+    {
+      "id": "listen-nouns.46",
+      "en": "eye",
+      "ru": "глаз",
+      "accepted_en": [
+        "eye"
+      ],
+      "audio": "audio/listen-nouns.46.mp3"
+    },
+    {
+      "id": "listen-nouns.47",
+      "en": "job",
+      "ru": "должность",
+      "accepted_en": [
+        "job"
+      ],
+      "audio": "audio/listen-nouns.47.mp3"
+    },
+    {
+      "id": "listen-nouns.48",
+      "en": "word",
+      "ru": "слово",
+      "accepted_en": [
+        "word"
+      ],
+      "audio": "audio/listen-nouns.48.mp3"
+    },
+    {
+      "id": "listen-nouns.49",
+      "en": "business",
+      "ru": "бизнес",
+      "accepted_en": [
+        "business"
+      ],
+      "audio": "audio/listen-nouns.49.mp3"
+    },
+    {
+      "id": "listen-nouns.50",
+      "en": "issue",
+      "ru": "тема",
+      "accepted_en": [
+        "issue"
+      ],
+      "audio": "audio/listen-nouns.50.mp3"
+    },
+    {
+      "id": "listen-nouns.51",
+      "en": "side",
+      "ru": "сторона",
+      "accepted_en": [
+        "side"
+      ],
+      "audio": "audio/listen-nouns.51.mp3"
+    },
+    {
+      "id": "listen-nouns.52",
+      "en": "kind",
+      "ru": "вид",
+      "accepted_en": [
+        "kind"
+      ],
+      "audio": "audio/listen-nouns.52.mp3"
+    },
+    {
+      "id": "listen-nouns.53",
+      "en": "head",
+      "ru": "голова",
+      "accepted_en": [
+        "head"
+      ],
+      "audio": "audio/listen-nouns.53.mp3"
+    },
+    {
+      "id": "listen-nouns.54",
+      "en": "house",
+      "ru": "здание",
+      "accepted_en": [
+        "house"
+      ],
+      "audio": "audio/listen-nouns.54.mp3"
+    },
+    {
+      "id": "listen-nouns.55",
+      "en": "service",
+      "ru": "услуга",
+      "accepted_en": [
+        "service"
+      ],
+      "audio": "audio/listen-nouns.55.mp3"
+    },
+    {
+      "id": "listen-nouns.56",
+      "en": "friend",
+      "ru": "друг",
+      "accepted_en": [
+        "friend"
+      ],
+      "audio": "audio/listen-nouns.56.mp3"
+    },
+    {
+      "id": "listen-nouns.57",
+      "en": "father",
+      "ru": "отец",
+      "accepted_en": [
+        "father"
+      ],
+      "audio": "audio/listen-nouns.57.mp3"
+    },
+    {
+      "id": "listen-nouns.58",
+      "en": "power",
+      "ru": "сила",
+      "accepted_en": [
+        "power"
+      ],
+      "audio": "audio/listen-nouns.58.mp3"
+    },
+    {
+      "id": "listen-nouns.59",
+      "en": "hour",
+      "ru": "час",
+      "accepted_en": [
+        "hour"
+      ],
+      "audio": "audio/listen-nouns.59.mp3"
+    },
+    {
+      "id": "listen-nouns.60",
+      "en": "game",
+      "ru": "игра",
+      "accepted_en": [
+        "game"
+      ],
+      "audio": "audio/listen-nouns.60.mp3"
+    },
+    {
+      "id": "listen-nouns.61",
+      "en": "line",
+      "ru": "линия",
+      "accepted_en": [
+        "line"
+      ],
+      "audio": "audio/listen-nouns.61.mp3"
+    },
+    {
+      "id": "listen-nouns.62",
+      "en": "end",
+      "ru": "конец",
+      "accepted_en": [
+        "end"
+      ],
+      "audio": "audio/listen-nouns.62.mp3"
+    },
+    {
+      "id": "listen-nouns.63",
+      "en": "member",
+      "ru": "участник",
+      "accepted_en": [
+        "member"
+      ],
+      "audio": "audio/listen-nouns.63.mp3"
+    },
+    {
+      "id": "listen-nouns.64",
+      "en": "law",
+      "ru": "закон",
+      "accepted_en": [
+        "law"
+      ],
+      "audio": "audio/listen-nouns.64.mp3"
+    },
+    {
+      "id": "listen-nouns.65",
+      "en": "car",
+      "ru": "машина",
+      "accepted_en": [
+        "car"
+      ],
+      "audio": "audio/listen-nouns.65.mp3"
+    },
+    {
+      "id": "listen-nouns.66",
+      "en": "city",
+      "ru": "город",
+      "accepted_en": [
+        "city"
+      ],
+      "audio": "audio/listen-nouns.66.mp3"
+    },
+    {
+      "id": "listen-nouns.67",
+      "en": "community",
+      "ru": "сообщество",
+      "accepted_en": [
+        "community"
+      ],
+      "audio": "audio/listen-nouns.67.mp3"
+    },
+    {
+      "id": "listen-nouns.68",
+      "en": "name",
+      "ru": "имя",
+      "accepted_en": [
+        "name"
+      ],
+      "audio": "audio/listen-nouns.68.mp3"
+    },
+    {
+      "id": "listen-nouns.69",
+      "en": "president",
+      "ru": "президент",
+      "accepted_en": [
+        "president"
+      ],
+      "audio": "audio/listen-nouns.69.mp3"
+    },
+    {
+      "id": "listen-nouns.70",
+      "en": "team",
+      "ru": "команда",
+      "accepted_en": [
+        "team"
+      ],
+      "audio": "audio/listen-nouns.70.mp3"
+    },
+    {
+      "id": "listen-nouns.71",
+      "en": "minute",
+      "ru": "минута",
+      "accepted_en": [
+        "minute"
+      ],
+      "audio": "audio/listen-nouns.71.mp3"
+    },
+    {
+      "id": "listen-nouns.72",
+      "en": "idea",
+      "ru": "идея",
+      "accepted_en": [
+        "idea"
+      ],
+      "audio": "audio/listen-nouns.72.mp3"
+    },
+    {
+      "id": "listen-nouns.73",
+      "en": "body",
+      "ru": "тело",
+      "accepted_en": [
+        "body"
+      ],
+      "audio": "audio/listen-nouns.73.mp3"
+    },
+    {
+      "id": "listen-nouns.74",
+      "en": "information",
+      "ru": "информация",
+      "accepted_en": [
+        "information"
+      ],
+      "audio": "audio/listen-nouns.74.mp3"
+    },
+    {
+      "id": "listen-nouns.75",
+      "en": "back",
+      "ru": "спина",
+      "accepted_en": [
+        "back"
+      ],
+      "audio": "audio/listen-nouns.75.mp3"
+    },
+    {
+      "id": "listen-nouns.76",
+      "en": "parent",
+      "ru": "родитель",
+      "accepted_en": [
+        "parent"
+      ],
+      "audio": "audio/listen-nouns.76.mp3"
+    },
+    {
+      "id": "listen-nouns.77",
+      "en": "face",
+      "ru": "лицо",
+      "accepted_en": [
+        "face"
+      ],
+      "audio": "audio/listen-nouns.77.mp3"
+    },
+    {
+      "id": "listen-nouns.78",
+      "en": "level",
+      "ru": "уровень",
+      "accepted_en": [
+        "level"
+      ],
+      "audio": "audio/listen-nouns.78.mp3"
+    },
+    {
+      "id": "listen-nouns.79",
+      "en": "office",
+      "ru": "офис",
+      "accepted_en": [
+        "office"
+      ],
+      "audio": "audio/listen-nouns.79.mp3"
+    },
+    {
+      "id": "listen-nouns.80",
+      "en": "door",
+      "ru": "дверь",
+      "accepted_en": [
+        "door"
+      ],
+      "audio": "audio/listen-nouns.80.mp3"
+    },
+    {
+      "id": "listen-nouns.81",
+      "en": "health",
+      "ru": "здоровье",
+      "accepted_en": [
+        "health"
+      ],
+      "audio": "audio/listen-nouns.81.mp3"
+    },
+    {
+      "id": "listen-nouns.82",
+      "en": "person",
+      "ru": "человек",
+      "accepted_en": [
+        "person"
+      ],
+      "audio": "audio/listen-nouns.82.mp3"
+    },
+    {
+      "id": "listen-nouns.83",
+      "en": "art",
+      "ru": "искусство",
+      "accepted_en": [
+        "art"
+      ],
+      "audio": "audio/listen-nouns.83.mp3"
+    },
+    {
+      "id": "listen-nouns.84",
+      "en": "war",
+      "ru": "война",
+      "accepted_en": [
+        "war"
+      ],
+      "audio": "audio/listen-nouns.84.mp3"
+    },
+    {
+      "id": "listen-nouns.85",
+      "en": "history",
+      "ru": "история",
+      "accepted_en": [
+        "history"
+      ],
+      "audio": "audio/listen-nouns.85.mp3"
+    },
+    {
+      "id": "listen-nouns.86",
+      "en": "party",
+      "ru": "вечеринка",
+      "accepted_en": [
+        "party"
+      ],
+      "audio": "audio/listen-nouns.86.mp3"
+    },
+    {
+      "id": "listen-nouns.87",
+      "en": "result",
+      "ru": "результат",
+      "accepted_en": [
+        "result"
+      ],
+      "audio": "audio/listen-nouns.87.mp3"
+    },
+    {
+      "id": "listen-nouns.88",
+      "en": "change",
+      "ru": "изменение",
+      "accepted_en": [
+        "change"
+      ],
+      "audio": "audio/listen-nouns.88.mp3"
+    },
+    {
+      "id": "listen-nouns.89",
+      "en": "morning",
+      "ru": "утро",
+      "accepted_en": [
+        "morning"
+      ],
+      "audio": "audio/listen-nouns.89.mp3"
+    },
+    {
+      "id": "listen-nouns.90",
+      "en": "reason",
+      "ru": "причина",
+      "accepted_en": [
+        "reason"
+      ],
+      "audio": "audio/listen-nouns.90.mp3"
+    },
+    {
+      "id": "listen-nouns.91",
+      "en": "research",
+      "ru": "исследование",
+      "accepted_en": [
+        "research"
+      ],
+      "audio": "audio/listen-nouns.91.mp3"
+    },
+    {
+      "id": "listen-nouns.92",
+      "en": "girl",
+      "ru": "девочка",
+      "accepted_en": [
+        "girl"
+      ],
+      "audio": "audio/listen-nouns.92.mp3"
+    },
+    {
+      "id": "listen-nouns.93",
+      "en": "guy",
+      "ru": "парень",
+      "accepted_en": [
+        "guy"
+      ],
+      "audio": "audio/listen-nouns.93.mp3"
+    },
+    {
+      "id": "listen-nouns.94",
+      "en": "moment",
+      "ru": "момент",
+      "accepted_en": [
+        "moment"
+      ],
+      "audio": "audio/listen-nouns.94.mp3"
+    },
+    {
+      "id": "listen-nouns.95",
+      "en": "air",
+      "ru": "воздух",
+      "accepted_en": [
+        "air"
+      ],
+      "audio": "audio/listen-nouns.95.mp3"
+    },
+    {
+      "id": "listen-nouns.96",
+      "en": "teacher",
+      "ru": "учитель",
+      "accepted_en": [
+        "teacher"
+      ],
+      "audio": "audio/listen-nouns.96.mp3"
+    },
+    {
+      "id": "listen-nouns.97",
+      "en": "force",
+      "ru": "мощь",
+      "accepted_en": [
+        "force"
+      ],
+      "audio": "audio/listen-nouns.97.mp3"
+    },
+    {
+      "id": "listen-nouns.98",
+      "en": "education",
+      "ru": "образование",
+      "accepted_en": [
+        "education"
+      ],
+      "audio": "audio/listen-nouns.98.mp3"
+    },
+    {
+      "id": "listen-nouns.99",
+      "en": "society",
+      "ru": "общество",
+      "accepted_en": [
+        "society"
+      ],
+      "audio": "audio/listen-nouns.99.mp3"
+    },
+    {
+      "id": "listen-nouns.100",
+      "en": "experience",
+      "ru": "опыт",
+      "accepted_en": [
+        "experience"
+      ],
+      "audio": "audio/listen-nouns.100.mp3"
+    }
+  ]
+}

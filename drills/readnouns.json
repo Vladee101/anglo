@@ -1,0 +1,807 @@
+{
+  "id": "read-nouns",
+  "title_ru": "Чтение: существительные",
+  "modality": "read",
+  "items": [
+    {
+      "id": "read-nouns.1",
+      "en": "time",
+      "ru": "время",
+      "accepted_en": [
+        "time"
+      ]
+    },
+    {
+      "id": "read-nouns.2",
+      "en": "year",
+      "ru": "год",
+      "accepted_en": [
+        "year"
+      ]
+    },
+    {
+      "id": "read-nouns.3",
+      "en": "people",
+      "ru": "люди",
+      "accepted_en": [
+        "people"
+      ]
+    },
+    {
+      "id": "read-nouns.4",
+      "en": "way",
+      "ru": "способ",
+      "accepted_en": [
+        "way"
+      ]
+    },
+    {
+      "id": "read-nouns.5",
+      "en": "day",
+      "ru": "день",
+      "accepted_en": [
+        "day"
+      ]
+    },
+    {
+      "id": "read-nouns.6",
+      "en": "man",
+      "ru": "мужчина",
+      "accepted_en": [
+        "man"
+      ]
+    },
+    {
+      "id": "read-nouns.7",
+      "en": "thing",
+      "ru": "вещь",
+      "accepted_en": [
+        "thing"
+      ]
+    },
+    {
+      "id": "read-nouns.8",
+      "en": "woman",
+      "ru": "женщина",
+      "accepted_en": [
+        "woman"
+      ]
+    },
+    {
+      "id": "read-nouns.9",
+      "en": "life",
+      "ru": "жизнь",
+      "accepted_en": [
+        "life"
+      ]
+    },
+    {
+      "id": "read-nouns.10",
+      "en": "child",
+      "ru": "ребёнок",
+      "accepted_en": [
+        "child"
+      ]
+    },
+    {
+      "id": "read-nouns.11",
+      "en": "world",
+      "ru": "мир",
+      "accepted_en": [
+        "world"
+      ]
+    },
+    {
+      "id": "read-nouns.12",
+      "en": "school",
+      "ru": "школа",
+      "accepted_en": [
+        "school"
+      ]
+    },
+    {
+      "id": "read-nouns.13",
+      "en": "state",
+      "ru": "государство",
+      "accepted_en": [
+        "state"
+      ]
+    },
+    {
+      "id": "read-nouns.14",
+      "en": "family",
+      "ru": "семья",
+      "accepted_en": [
+        "family"
+      ]
+    },
+    {
+      "id": "read-nouns.15",
+      "en": "student",
+      "ru": "студент",
+      "accepted_en": [
+        "student"
+      ]
+    },
+    {
+      "id": "read-nouns.16",
+      "en": "group",
+      "ru": "группа",
+      "accepted_en": [
+        "group"
+      ]
+    },
+    {
+      "id": "read-nouns.17",
+      "en": "country",
+      "ru": "страна",
+      "accepted_en": [
+        "country"
+      ]
+    },
+    {
+      "id": "read-nouns.18",
+      "en": "problem",
+      "ru": "проблема",
+      "accepted_en": [
+        "problem"
+      ]
+    },
+    {
+      "id": "read-nouns.19",
+      "en": "hand",
+      "ru": "рука",
+      "accepted_en": [
+        "hand"
+      ]
+    },
+    {
+      "id": "read-nouns.20",
+      "en": "part",
+      "ru": "часть",
+      "accepted_en": [
+        "part"
+      ]
+    },
+    {
+      "id": "read-nouns.21",
+      "en": "place",
+      "ru": "место",
+      "accepted_en": [
+        "place"
+      ]
+    },
+    {
+      "id": "read-nouns.22",
+      "en": "case",
+      "ru": "случай",
+      "accepted_en": [
+        "case"
+      ]
+    },
+    {
+      "id": "read-nouns.23",
+      "en": "week",
+      "ru": "неделя",
+      "accepted_en": [
+        "week"
+      ]
+    },
+    {
+      "id": "read-nouns.24",
+      "en": "company",
+      "ru": "компания",
+      "accepted_en": [
+        "company"
+      ]
+    },
+    {
+      "id": "read-nouns.25",
+      "en": "system",
+      "ru": "система",
+      "accepted_en": [
+        "system"
+      ]
+    },
+    {
+      "id": "read-nouns.26",
+      "en": "program",
+      "ru": "программа",
+      "accepted_en": [
+        "program"
+      ]
+    },
+    {
+      "id": "read-nouns.27",
+      "en": "question",
+      "ru": "вопрос",
+      "accepted_en": [
+        "question"
+      ]
+    },
+    {
+      "id": "read-nouns.28",
+      "en": "work",
+      "ru": "работа",
+      "accepted_en": [
+        "work"
+      ]
+    },
+    {
+      "id": "read-nouns.29",
+      "en": "government",
+      "ru": "правительство",
+      "accepted_en": [
+        "government"
+      ]
+    },
+    {
+      "id": "read-nouns.30",
+      "en": "number",
+      "ru": "число",
+      "accepted_en": [
+        "number"
+      ]
+    },
+    {
+      "id": "read-nouns.31",
+      "en": "night",
+      "ru": "ночь",
+      "accepted_en": [
+        "night"
+      ]
+    },
+    {
+      "id": "read-nouns.32",
+      "en": "point",
+      "ru": "точка",
+      "accepted_en": [
+        "point"
+      ]
+    },
+    {
+      "id": "read-nouns.33",
+      "en": "home",
+      "ru": "дом",
+      "accepted_en": [
+        "home"
+      ]
+    },
+    {
+      "id": "read-nouns.34",
+      "en": "water",
+      "ru": "вода",
+      "accepted_en": [
+        "water"
+      ]
+    },
+    {
+      "id": "read-nouns.35",
+      "en": "room",
+      "ru": "комната",
+      "accepted_en": [
+        "room"
+      ]
+    },
+    {
+      "id": "read-nouns.36",
+      "en": "mother",
+      "ru": "мать",
+      "accepted_en": [
+        "mother"
+      ]
+    },
+    {
+      "id": "read-nouns.37",
+      "en": "area",
+      "ru": "область",
+      "accepted_en": [
+        "area"
+      ]
+    },
+    {
+      "id": "read-nouns.38",
+      "en": "money",
+      "ru": "деньги",
+      "accepted_en": [
+        "money"
+      ]
+    },
+    {
+      "id": "read-nouns.39",
+      "en": "story",
+      "ru": "рассказ",
+      "accepted_en": [
+        "story"
+      ]
+    },
+    {
+      "id": "read-nouns.40",
+      "en": "fact",
+      "ru": "факт",
+      "accepted_en": [
+        "fact"
+      ]
+    },
+    {
+      "id": "read-nouns.41",
+      "en": "month",
+      "ru": "месяц",
+      "accepted_en": [
+        "month"
+      ]
+    },
+    {
+      "id": "read-nouns.42",
+      "en": "lot",
+      "ru": "множество",
+      "accepted_en": [
+        "lot"
+      ]
+    },
+    {
+      "id": "read-nouns.43",
+      "en": "right",
+      "ru": "право",
+      "accepted_en": [
+        "right"
+      ]
+    },
+    {
+      "id": "read-nouns.44",
+      "en": "study",
+      "ru": "изучение",
+      "accepted_en": [
+        "study"
+      ]
+    },
+    {
+      "id": "read-nouns.45",
+      "en": "book",
+      "ru": "книга",
+      "accepted_en": [
+        "book"
+      ]
+    },
+    {
+      "id": "read-nouns.46",
+      "en": "eye",
+      "ru": "глаз",
+      "accepted_en": [
+        "eye"
+      ]
+    },
+    {
+      "id": "read-nouns.47",
+      "en": "job",
+      "ru": "должность",
+      "accepted_en": [
+        "job"
+      ]
+    },
+    {
+      "id": "read-nouns.48",
+      "en": "word",
+      "ru": "слово",
+      "accepted_en": [
+        "word"
+      ]
+    },
+    {
+      "id": "read-nouns.49",
+      "en": "business",
+      "ru": "бизнес",
+      "accepted_en": [
+        "business"
+      ]
+    },
+    {
+      "id": "read-nouns.50",
+      "en": "issue",
+      "ru": "тема",
+      "accepted_en": [
+        "issue"
+      ]
+    },
+    {
+      "id": "read-nouns.51",
+      "en": "side",
+      "ru": "сторона",
+      "accepted_en": [
+        "side"
+      ]
+    },
+    {
+      "id": "read-nouns.52",
+      "en": "kind",
+      "ru": "вид",
+      "accepted_en": [
+        "kind"
+      ]
+    },
+    {
+      "id": "read-nouns.53",
+      "en": "head",
+      "ru": "голова",
+      "accepted_en": [
+        "head"
+      ]
+    },
+    {
+      "id": "read-nouns.54",
+      "en": "house",
+      "ru": "здание",
+      "accepted_en": [
+        "house"
+      ]
+    },
+    {
+      "id": "read-nouns.55",
+      "en": "service",
+      "ru": "услуга",
+      "accepted_en": [
+        "service"
+      ]
+    },
+    {
+      "id": "read-nouns.56",
+      "en": "friend",
+      "ru": "друг",
+      "accepted_en": [
+        "friend"
+      ]
+    },
+    {
+      "id": "read-nouns.57",
+      "en": "father",
+      "ru": "отец",
+      "accepted_en": [
+        "father"
+      ]
+    },
+    {
+      "id": "read-nouns.58",
+      "en": "power",
+      "ru": "сила",
+      "accepted_en": [
+        "power"
+      ]
+    },
+    {
+      "id": "read-nouns.59",
+      "en": "hour",
+      "ru": "час",
+      "accepted_en": [
+        "hour"
+      ]
+    },
+    {
+      "id": "read-nouns.60",
+      "en": "game",
+      "ru": "игра",
+      "accepted_en": [
+        "game"
+      ]
+    },
+    {
+      "id": "read-nouns.61",
+      "en": "line",
+      "ru": "линия",
+      "accepted_en": [
+        "line"
+      ]
+    },
+    {
+      "id": "read-nouns.62",
+      "en": "end",
+      "ru": "конец",
+      "accepted_en": [
+        "end"
+      ]
+    },
+    {
+      "id": "read-nouns.63",
+      "en": "member",
+      "ru": "участник",
+      "accepted_en": [
+        "member"
+      ]
+    },
+    {
+      "id": "read-nouns.64",
+      "en": "law",
+      "ru": "закон",
+      "accepted_en": [
+        "law"
+      ]
+    },
+    {
+      "id": "read-nouns.65",
+      "en": "car",
+      "ru": "машина",
+      "accepted_en": [
+        "car"
+      ]
+    },
+    {
+      "id": "read-nouns.66",
+      "en": "city",
+      "ru": "город",
+      "accepted_en": [
+        "city"
+      ]
+    },
+    {
+      "id": "read-nouns.67",
+      "en": "community",
+      "ru": "сообщество",
+      "accepted_en": [
+        "community"
+      ]
+    },
+    {
+      "id": "read-nouns.68",
+      "en": "name",
+      "ru": "имя",
+      "accepted_en": [
+        "name"
+      ]
+    },
+    {
+      "id": "read-nouns.69",
+      "en": "president",
+      "ru": "президент",
+      "accepted_en": [
+        "president"
+      ]
+    },
+    {
+      "id": "read-nouns.70",
+      "en": "team",
+      "ru": "команда",
+      "accepted_en": [
+        "team"
+      ]
+    },
+    {
+      "id": "read-nouns.71",
+      "en": "minute",
+      "ru": "минута",
+      "accepted_en": [
+        "minute"
+      ]
+    },
+    {
+      "id": "read-nouns.72",
+      "en": "idea",
+      "ru": "идея",
+      "accepted_en": [
+        "idea"
+      ]
+    },
+    {
+      "id": "read-nouns.73",
+      "en": "body",
+      "ru": "тело",
+      "accepted_en": [
+        "body"
+      ]
+    },
+    {
+      "id": "read-nouns.74",
+      "en": "information",
+      "ru": "информация",
+      "accepted_en": [
+        "information"
+      ]
+    },
+    {
+      "id": "read-nouns.75",
+      "en": "back",
+      "ru": "спина",
+      "accepted_en": [
+        "back"
+      ]
+    },
+    {
+      "id": "read-nouns.76",
+      "en": "parent",
+      "ru": "родитель",
+      "accepted_en": [
+        "parent"
+      ]
+    },
+    {
+      "id": "read-nouns.77",
+      "en": "face",
+      "ru": "лицо",
+      "accepted_en": [
+        "face"
+      ]
+    },
+    {
+      "id": "read-nouns.78",
+      "en": "level",
+      "ru": "уровень",
+      "accepted_en": [
+        "level"
+      ]
+    },
+    {
+      "id": "read-nouns.79",
+      "en": "office",
+      "ru": "офис",
+      "accepted_en": [
+        "office"
+      ]
+    },
+    {
+      "id": "read-nouns.80",
+      "en": "door",
+      "ru": "дверь",
+      "accepted_en": [
+        "door"
+      ]
+    },
+    {
+      "id": "read-nouns.81",
+      "en": "health",
+      "ru": "здоровье",
+      "accepted_en": [
+        "health"
+      ]
+    },
+    {
+      "id": "read-nouns.82",
+      "en": "person",
+      "ru": "человек",
+      "accepted_en": [
+        "person"
+      ]
+    },
+    {
+      "id": "read-nouns.83",
+      "en": "art",
+      "ru": "искусство",
+      "accepted_en": [
+        "art"
+      ]
+    },
+    {
+      "id": "read-nouns.84",
+      "en": "war",
+      "ru": "война",
+      "accepted_en": [
+        "war"
+      ]
+    },
+    {
+      "id": "read-nouns.85",
+      "en": "history",
+      "ru": "история",
+      "accepted_en": [
+        "history"
+      ]
+    },
+    {
+      "id": "read-nouns.86",
+      "en": "party",
+      "ru": "вечеринка",
+      "accepted_en": [
+        "party"
+      ]
+    },
+    {
+      "id": "read-nouns.87",
+      "en": "result",
+      "ru": "результат",
+      "accepted_en": [
+        "result"
+      ]
+    },
+    {
+      "id": "read-nouns.88",
+      "en": "change",
+      "ru": "изменение",
+      "accepted_en": [
+        "change"
+      ]
+    },
+    {
+      "id": "read-nouns.89",
+      "en": "morning",
+      "ru": "утро",
+      "accepted_en": [
+        "morning"
+      ]
+    },
+    {
+      "id": "read-nouns.90",
+      "en": "reason",
+      "ru": "причина",
+      "accepted_en": [
+        "reason"
+      ]
+    },
+    {
+      "id": "read-nouns.91",
+      "en": "research",
+      "ru": "исследование",
+      "accepted_en": [
+        "research"
+      ]
+    },
+    {
+      "id": "read-nouns.92",
+      "en": "girl",
+      "ru": "девочка",
+      "accepted_en": [
+        "girl"
+      ]
+    },
+    {
+      "id": "read-nouns.93",
+      "en": "guy",
+      "ru": "парень",
+      "accepted_en": [
+        "guy"
+      ]
+    },
+    {
+      "id": "read-nouns.94",
+      "en": "moment",
+      "ru": "момент",
+      "accepted_en": [
+        "moment"
+      ]
+    },
+    {
+      "id": "read-nouns.95",
+      "en": "air",
+      "ru": "воздух",
+      "accepted_en": [
+        "air"
+      ]
+    },
+    {
+      "id": "read-nouns.96",
+      "en": "teacher",
+      "ru": "учитель",
+      "accepted_en": [
+        "teacher"
+      ]
+    },
+    {
+      "id": "read-nouns.97",
+      "en": "force",
+      "ru": "мощь",
+      "accepted_en": [
+        "force"
+      ]
+    },
+    {
+      "id": "read-nouns.98",
+      "en": "education",
+      "ru": "образование",
+      "accepted_en": [
+        "education"
+      ]
+    },
+    {
+      "id": "read-nouns.99",
+      "en": "society",
+      "ru": "общество",
+      "accepted_en": [
+        "society"
+      ]
+    },
+    {
+      "id": "read-nouns.100",
+      "en": "experience",
+      "ru": "опыт",
+      "accepted_en": [
+        "experience"
+      ]
+    }
+  ]
+}
