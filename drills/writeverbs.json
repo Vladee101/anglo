@@ -1,0 +1,907 @@
+{
+  "id": "write-verbs",
+  "title_ru": "Письмо: глаголы",
+  "modality": "write",
+  "items": [
+    {
+      "id": "write-verbs.1",
+      "en": "be",
+      "ru": "быть",
+      "accepted_en": [
+        "be",
+        "to be"
+      ]
+    },
+    {
+      "id": "write-verbs.2",
+      "en": "have",
+      "ru": "иметь",
+      "accepted_en": [
+        "have",
+        "to have"
+      ]
+    },
+    {
+      "id": "write-verbs.3",
+      "en": "do",
+      "ru": "делать",
+      "accepted_en": [
+        "do",
+        "to do"
+      ]
+    },
+    {
+      "id": "write-verbs.4",
+      "en": "say",
+      "ru": "сказать",
+      "accepted_en": [
+        "say",
+        "to say"
+      ]
+    },
+    {
+      "id": "write-verbs.5",
+      "en": "get",
+      "ru": "получать",
+      "accepted_en": [
+        "get",
+        "to get"
+      ]
+    },
+    {
+      "id": "write-verbs.6",
+      "en": "make",
+      "ru": "изготавливать",
+      "accepted_en": [
+        "make",
+        "to make"
+      ]
+    },
+    {
+      "id": "write-verbs.7",
+      "en": "go",
+      "ru": "идти",
+      "accepted_en": [
+        "go",
+        "to go"
+      ]
+    },
+    {
+      "id": "write-verbs.8",
+      "en": "know",
+      "ru": "знать",
+      "accepted_en": [
+        "know",
+        "to know"
+      ]
+    },
+    {
+      "id": "write-verbs.9",
+      "en": "take",
+      "ru": "брать",
+      "accepted_en": [
+        "take",
+        "to take"
+      ]
+    },
+    {
+      "id": "write-verbs.10",
+      "en": "see",
+      "ru": "видеть",
+      "accepted_en": [
+        "see",
+        "to see"
+      ]
+    },
+    {
+      "id": "write-verbs.11",
+      "en": "come",
+      "ru": "приходить",
+      "accepted_en": [
+        "come",
+        "to come"
+      ]
+    },
+    {
+      "id": "write-verbs.12",
+      "en": "think",
+      "ru": "думать",
+      "accepted_en": [
+        "think",
+        "to think"
+      ]
+    },
+    {
+      "id": "write-verbs.13",
+      "en": "look",
+      "ru": "смотреть",
+      "accepted_en": [
+        "look",
+        "to look"
+      ]
+    },
+    {
+      "id": "write-verbs.14",
+      "en": "want",
+      "ru": "хотеть",
+      "accepted_en": [
+        "want",
+        "to want"
+      ]
+    },
+    {
+      "id": "write-verbs.15",
+      "en": "give",
+      "ru": "давать",
+      "accepted_en": [
+        "give",
+        "to give"
+      ]
+    },
+    {
+      "id": "write-verbs.16",
+      "en": "use",
+      "ru": "использовать",
+      "accepted_en": [
+        "use",
+        "to use"
+      ]
+    },
+    {
+      "id": "write-verbs.17",
+      "en": "find",
+      "ru": "находить",
+      "accepted_en": [
+        "find",
+        "to find"
+      ]
+    },
+    {
+      "id": "write-verbs.18",
+      "en": "tell",
+      "ru": "рассказывать",
+      "accepted_en": [
+        "tell",
+        "to tell"
+      ]
+    },
+    {
+      "id": "write-verbs.19",
+      "en": "ask",
+      "ru": "спрашивать",
+      "accepted_en": [
+        "ask",
+        "to ask"
+      ]
+    },
+    {
+      "id": "write-verbs.20",
+      "en": "work",
+      "ru": "работать",
+      "accepted_en": [
+        "work",
+        "to work"
+      ]
+    },
+    {
+      "id": "write-verbs.21",
+      "en": "seem",
+      "ru": "казаться",
+      "accepted_en": [
+        "seem",
+        "to seem"
+      ]
+    },
+    {
+      "id": "write-verbs.22",
+      "en": "feel",
+      "ru": "чувствовать",
+      "accepted_en": [
+        "feel",
+        "to feel"
+      ]
+    },
+    {
+      "id": "write-verbs.23",
+      "en": "try",
+      "ru": "пытаться",
+      "accepted_en": [
+        "try",
+        "to try"
+      ]
+    },
+    {
+      "id": "write-verbs.24",
+      "en": "leave",
+      "ru": "уходить",
+      "accepted_en": [
+        "leave",
+        "to leave"
+      ]
+    },
+    {
+      "id": "write-verbs.25",
+      "en": "call",
+      "ru": "звонить",
+      "accepted_en": [
+        "call",
+        "to call"
+      ]
+    },
+    {
+      "id": "write-verbs.26",
+      "en": "need",
+      "ru": "нуждаться",
+      "accepted_en": [
+        "need",
+        "to need"
+      ]
+    },
+    {
+      "id": "write-verbs.27",
+      "en": "become",
+      "ru": "становиться",
+      "accepted_en": [
+        "become",
+        "to become"
+      ]
+    },
+    {
+      "id": "write-verbs.28",
+      "en": "put",
+      "ru": "класть",
+      "accepted_en": [
+        "put",
+        "to put"
+      ]
+    },
+    {
+      "id": "write-verbs.29",
+      "en": "mean",
+      "ru": "означать",
+      "accepted_en": [
+        "mean",
+        "to mean"
+      ]
+    },
+    {
+      "id": "write-verbs.30",
+      "en": "keep",
+      "ru": "хранить",
+      "accepted_en": [
+        "keep",
+        "to keep"
+      ]
+    },
+    {
+      "id": "write-verbs.31",
+      "en": "let",
+      "ru": "позволять",
+      "accepted_en": [
+        "let",
+        "to let"
+      ]
+    },
+    {
+      "id": "write-verbs.32",
+      "en": "begin",
+      "ru": "начинать",
+      "accepted_en": [
+        "begin",
+        "to begin"
+      ]
+    },
+    {
+      "id": "write-verbs.33",
+      "en": "help",
+      "ru": "помогать",
+      "accepted_en": [
+        "help",
+        "to help"
+      ]
+    },
+    {
+      "id": "write-verbs.34",
+      "en": "talk",
+      "ru": "разговаривать",
+      "accepted_en": [
+        "talk",
+        "to talk"
+      ]
+    },
+    {
+      "id": "write-verbs.35",
+      "en": "turn",
+      "ru": "поворачивать",
+      "accepted_en": [
+        "turn",
+        "to turn"
+      ]
+    },
+    {
+      "id": "write-verbs.36",
+      "en": "start",
+      "ru": "начать",
+      "accepted_en": [
+        "start",
+        "to start"
+      ]
+    },
+    {
+      "id": "write-verbs.37",
+      "en": "show",
+      "ru": "показывать",
+      "accepted_en": [
+        "show",
+        "to show"
+      ]
+    },
+    {
+      "id": "write-verbs.38",
+      "en": "hear",
+      "ru": "слышать",
+      "accepted_en": [
+        "hear",
+        "to hear"
+      ]
+    },
+    {
+      "id": "write-verbs.39",
+      "en": "play",
+      "ru": "играть",
+      "accepted_en": [
+        "play",
+        "to play"
+      ]
+    },
+    {
+      "id": "write-verbs.40",
+      "en": "run",
+      "ru": "бежать",
+      "accepted_en": [
+        "run",
+        "to run"
+      ]
+    },
+    {
+      "id": "write-verbs.41",
+      "en": "move",
+      "ru": "двигаться",
+      "accepted_en": [
+        "move",
+        "to move"
+      ]
+    },
+    {
+      "id": "write-verbs.42",
+      "en": "like",
+      "ru": "нравиться",
+      "accepted_en": [
+        "like",
+        "to like"
+      ]
+    },
+    {
+      "id": "write-verbs.43",
+      "en": "live",
+      "ru": "жить",
+      "accepted_en": [
+        "live",
+        "to live"
+      ]
+    },
+    {
+      "id": "write-verbs.44",
+      "en": "believe",
+      "ru": "верить",
+      "accepted_en": [
+        "believe",
+        "to believe"
+      ]
+    },
+    {
+      "id": "write-verbs.45",
+      "en": "bring",
+      "ru": "приносить",
+      "accepted_en": [
+        "bring",
+        "to bring"
+      ]
+    },
+    {
+      "id": "write-verbs.46",
+      "en": "happen",
+      "ru": "случаться",
+      "accepted_en": [
+        "happen",
+        "to happen"
+      ]
+    },
+    {
+      "id": "write-verbs.47",
+      "en": "write",
+      "ru": "писать",
+      "accepted_en": [
+        "write",
+        "to write"
+      ]
+    },
+    {
+      "id": "write-verbs.48",
+      "en": "sit",
+      "ru": "сидеть",
+      "accepted_en": [
+        "sit",
+        "to sit"
+      ]
+    },
+    {
+      "id": "write-verbs.49",
+      "en": "stand",
+      "ru": "стоять",
+      "accepted_en": [
+        "stand",
+        "to stand"
+      ]
+    },
+    {
+      "id": "write-verbs.50",
+      "en": "lose",
+      "ru": "терять",
+      "accepted_en": [
+        "lose",
+        "to lose"
+      ]
+    },
+    {
+      "id": "write-verbs.51",
+      "en": "pay",
+      "ru": "платить",
+      "accepted_en": [
+        "pay",
+        "to pay"
+      ]
+    },
+    {
+      "id": "write-verbs.52",
+      "en": "meet",
+      "ru": "встречать",
+      "accepted_en": [
+        "meet",
+        "to meet"
+      ]
+    },
+    {
+      "id": "write-verbs.53",
+      "en": "include",
+      "ru": "включать",
+      "accepted_en": [
+        "include",
+        "to include"
+      ]
+    },
+    {
+      "id": "write-verbs.54",
+      "en": "continue",
+      "ru": "продолжать",
+      "accepted_en": [
+        "continue",
+        "to continue"
+      ]
+    },
+    {
+      "id": "write-verbs.55",
+      "en": "set",
+      "ru": "устанавливать",
+      "accepted_en": [
+        "set",
+        "to set"
+      ]
+    },
+    {
+      "id": "write-verbs.56",
+      "en": "learn",
+      "ru": "учиться",
+      "accepted_en": [
+        "learn",
+        "to learn"
+      ]
+    },
+    {
+      "id": "write-verbs.57",
+      "en": "change",
+      "ru": "менять",
+      "accepted_en": [
+        "change",
+        "to change"
+      ]
+    },
+    {
+      "id": "write-verbs.58",
+      "en": "lead",
+      "ru": "вести",
+      "accepted_en": [
+        "lead",
+        "to lead"
+      ]
+    },
+    {
+      "id": "write-verbs.59",
+      "en": "understand",
+      "ru": "понимать",
+      "accepted_en": [
+        "understand",
+        "to understand"
+      ]
+    },
+    {
+      "id": "write-verbs.60",
+      "en": "watch",
+      "ru": "наблюдать",
+      "accepted_en": [
+        "watch",
+        "to watch"
+      ]
+    },
+    {
+      "id": "write-verbs.61",
+      "en": "follow",
+      "ru": "следовать",
+      "accepted_en": [
+        "follow",
+        "to follow"
+      ]
+    },
+    {
+      "id": "write-verbs.62",
+      "en": "stop",
+      "ru": "останавливаться",
+      "accepted_en": [
+        "stop",
+        "to stop"
+      ]
+    },
+    {
+      "id": "write-verbs.63",
+      "en": "create",
+      "ru": "создавать",
+      "accepted_en": [
+        "create",
+        "to create"
+      ]
+    },
+    {
+      "id": "write-verbs.64",
+      "en": "speak",
+      "ru": "говорить",
+      "accepted_en": [
+        "speak",
+        "to speak"
+      ]
+    },
+    {
+      "id": "write-verbs.65",
+      "en": "read",
+      "ru": "читать",
+      "accepted_en": [
+        "read",
+        "to read"
+      ]
+    },
+    {
+      "id": "write-verbs.66",
+      "en": "allow",
+      "ru": "разрешать",
+      "accepted_en": [
+        "allow",
+        "to allow"
+      ]
+    },
+    {
+      "id": "write-verbs.67",
+      "en": "add",
+      "ru": "добавлять",
+      "accepted_en": [
+        "add",
+        "to add"
+      ]
+    },
+    {
+      "id": "write-verbs.68",
+      "en": "spend",
+      "ru": "тратить",
+      "accepted_en": [
+        "spend",
+        "to spend"
+      ]
+    },
+    {
+      "id": "write-verbs.69",
+      "en": "grow",
+      "ru": "расти",
+      "accepted_en": [
+        "grow",
+        "to grow"
+      ]
+    },
+    {
+      "id": "write-verbs.70",
+      "en": "open",
+      "ru": "открывать",
+      "accepted_en": [
+        "open",
+        "to open"
+      ]
+    },
+    {
+      "id": "write-verbs.71",
+      "en": "walk",
+      "ru": "гулять",
+      "accepted_en": [
+        "walk",
+        "to walk"
+      ]
+    },
+    {
+      "id": "write-verbs.72",
+      "en": "win",
+      "ru": "выигрывать",
+      "accepted_en": [
+        "win",
+        "to win"
+      ]
+    },
+    {
+      "id": "write-verbs.73",
+      "en": "offer",
+      "ru": "предлагать",
+      "accepted_en": [
+        "offer",
+        "to offer"
+      ]
+    },
+    {
+      "id": "write-verbs.74",
+      "en": "remember",
+      "ru": "помнить",
+      "accepted_en": [
+        "remember",
+        "to remember"
+      ]
+    },
+    {
+      "id": "write-verbs.75",
+      "en": "love",
+      "ru": "любить",
+      "accepted_en": [
+        "love",
+        "to love"
+      ]
+    },
+    {
+      "id": "write-verbs.76",
+      "en": "consider",
+      "ru": "считать",
+      "accepted_en": [
+        "consider",
+        "to consider"
+      ]
+    },
+    {
+      "id": "write-verbs.77",
+      "en": "appear",
+      "ru": "появляться",
+      "accepted_en": [
+        "appear",
+        "to appear"
+      ]
+    },
+    {
+      "id": "write-verbs.78",
+      "en": "buy",
+      "ru": "покупать",
+      "accepted_en": [
+        "buy",
+        "to buy"
+      ]
+    },
+    {
+      "id": "write-verbs.79",
+      "en": "wait",
+      "ru": "ждать",
+      "accepted_en": [
+        "wait",
+        "to wait"
+      ]
+    },
+    {
+      "id": "write-verbs.80",
+      "en": "serve",
+      "ru": "обслуживать",
+      "accepted_en": [
+        "serve",
+        "to serve"
+      ]
+    },
+    {
+      "id": "write-verbs.81",
+      "en": "die",
+      "ru": "умирать",
+      "accepted_en": [
+        "die",
+        "to die"
+      ]
+    },
+    {
+      "id": "write-verbs.82",
+      "en": "send",
+      "ru": "отправлять",
+      "accepted_en": [
+        "send",
+        "to send"
+      ]
+    },
+    {
+      "id": "write-verbs.83",
+      "en": "expect",
+      "ru": "ожидать",
+      "accepted_en": [
+        "expect",
+        "to expect"
+      ]
+    },
+    {
+      "id": "write-verbs.84",
+      "en": "build",
+      "ru": "строить",
+      "accepted_en": [
+        "build",
+        "to build"
+      ]
+    },
+    {
+      "id": "write-verbs.85",
+      "en": "stay",
+      "ru": "оставаться",
+      "accepted_en": [
+        "stay",
+        "to stay"
+      ]
+    },
+    {
+      "id": "write-verbs.86",
+      "en": "fall",
+      "ru": "падать",
+      "accepted_en": [
+        "fall",
+        "to fall"
+      ]
+    },
+    {
+      "id": "write-verbs.87",
+      "en": "cut",
+      "ru": "резать",
+      "accepted_en": [
+        "cut",
+        "to cut"
+      ]
+    },
+    {
+      "id": "write-verbs.88",
+      "en": "reach",
+      "ru": "достигать",
+      "accepted_en": [
+        "reach",
+        "to reach"
+      ]
+    },
+    {
+      "id": "write-verbs.89",
+      "en": "kill",
+      "ru": "убивать",
+      "accepted_en": [
+        "kill",
+        "to kill"
+      ]
+    },
+    {
+      "id": "write-verbs.90",
+      "en": "remain",
+      "ru": "пребывать",
+      "accepted_en": [
+        "remain",
+        "to remain"
+      ]
+    },
+    {
+      "id": "write-verbs.91",
+      "en": "suggest",
+      "ru": "советовать",
+      "accepted_en": [
+        "suggest",
+        "to suggest"
+      ]
+    },
+    {
+      "id": "write-verbs.92",
+      "en": "raise",
+      "ru": "поднимать",
+      "accepted_en": [
+        "raise",
+        "to raise"
+      ]
+    },
+    {
+      "id": "write-verbs.93",
+      "en": "pass",
+      "ru": "проходить",
+      "accepted_en": [
+        "pass",
+        "to pass"
+      ]
+    },
+    {
+      "id": "write-verbs.94",
+      "en": "sell",
+      "ru": "продавать",
+      "accepted_en": [
+        "sell",
+        "to sell"
+      ]
+    },
+    {
+      "id": "write-verbs.95",
+      "en": "require",
+      "ru": "требовать",
+      "accepted_en": [
+        "require",
+        "to require"
+      ]
+    },
+    {
+      "id": "write-verbs.96",
+      "en": "report",
+      "ru": "сообщать",
+      "accepted_en": [
+        "report",
+        "to report"
+      ]
+    },
+    {
+      "id": "write-verbs.97",
+      "en": "decide",
+      "ru": "решать",
+      "accepted_en": [
+        "decide",
+        "to decide"
+      ]
+    },
+    {
+      "id": "write-verbs.98",
+      "en": "pull",
+      "ru": "тянуть",
+      "accepted_en": [
+        "pull",
+        "to pull"
+      ]
+    },
+    {
+      "id": "write-verbs.99",
+      "en": "break",
+      "ru": "ломать",
+      "accepted_en": [
+        "break",
+        "to break"
+      ]
+    },
+    {
+      "id": "write-verbs.100",
+      "en": "eat",
+      "ru": "есть",
+      "accepted_en": [
+        "eat",
+        "to eat"
+      ]
+    }
+  ]
+}

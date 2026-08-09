@@ -1999,6 +1999,506 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "listen-verbs.1": {
+    "en": "be",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.10": {
+    "en": "see",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.100": {
+    "en": "eat",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.11": {
+    "en": "come",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.12": {
+    "en": "think",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.13": {
+    "en": "look",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.14": {
+    "en": "want",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.15": {
+    "en": "give",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.16": {
+    "en": "use",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.17": {
+    "en": "find",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.18": {
+    "en": "tell",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.19": {
+    "en": "ask",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.2": {
+    "en": "have",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.20": {
+    "en": "work",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.21": {
+    "en": "seem",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.22": {
+    "en": "feel",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.23": {
+    "en": "try",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.24": {
+    "en": "leave",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.25": {
+    "en": "call",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.26": {
+    "en": "need",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.27": {
+    "en": "become",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.28": {
+    "en": "put",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.29": {
+    "en": "mean",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.3": {
+    "en": "do",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.30": {
+    "en": "keep",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.31": {
+    "en": "let",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.32": {
+    "en": "begin",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.33": {
+    "en": "help",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.34": {
+    "en": "talk",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.35": {
+    "en": "turn",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.36": {
+    "en": "start",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.37": {
+    "en": "show",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.38": {
+    "en": "hear",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.39": {
+    "en": "play",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.4": {
+    "en": "say",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.40": {
+    "en": "run",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.41": {
+    "en": "move",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.42": {
+    "en": "like",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.43": {
+    "en": "live",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.44": {
+    "en": "believe",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.45": {
+    "en": "bring",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.46": {
+    "en": "happen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.47": {
+    "en": "write",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.48": {
+    "en": "sit",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.49": {
+    "en": "stand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.5": {
+    "en": "get",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.50": {
+    "en": "lose",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.51": {
+    "en": "pay",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.52": {
+    "en": "meet",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.53": {
+    "en": "include",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.54": {
+    "en": "continue",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.55": {
+    "en": "set",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.56": {
+    "en": "learn",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.57": {
+    "en": "change",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.58": {
+    "en": "lead",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.59": {
+    "en": "understand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.6": {
+    "en": "make",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.60": {
+    "en": "watch",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.61": {
+    "en": "follow",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.62": {
+    "en": "stop",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.63": {
+    "en": "create",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.64": {
+    "en": "speak",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.65": {
+    "en": "read",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.66": {
+    "en": "allow",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.67": {
+    "en": "add",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.68": {
+    "en": "spend",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.69": {
+    "en": "grow",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.7": {
+    "en": "go",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.70": {
+    "en": "open",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.71": {
+    "en": "walk",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.72": {
+    "en": "win",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.73": {
+    "en": "offer",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.74": {
+    "en": "remember",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.75": {
+    "en": "love",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.76": {
+    "en": "consider",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.77": {
+    "en": "appear",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.78": {
+    "en": "buy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.79": {
+    "en": "wait",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.8": {
+    "en": "know",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.80": {
+    "en": "serve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.81": {
+    "en": "die",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.82": {
+    "en": "send",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.83": {
+    "en": "expect",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.84": {
+    "en": "build",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.85": {
+    "en": "stay",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.86": {
+    "en": "fall",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.87": {
+    "en": "cut",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.88": {
+    "en": "reach",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.89": {
+    "en": "kill",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.9": {
+    "en": "take",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.90": {
+    "en": "remain",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.91": {
+    "en": "suggest",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.92": {
+    "en": "raise",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.93": {
+    "en": "pass",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.94": {
+    "en": "sell",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.95": {
+    "en": "require",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.96": {
+    "en": "report",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.97": {
+    "en": "decide",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.98": {
+    "en": "pull",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-verbs.99": {
+    "en": "break",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "numbers.1": {
     "en": "One, two, three",
     "rate": "-10%",
