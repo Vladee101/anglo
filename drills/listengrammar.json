@@ -1,0 +1,907 @@
+{
+  "id": "listen-grammar",
+  "title_ru": "Аудирование: прилагательные, наречия, предлоги",
+  "modality": "listen",
+  "items": [
+    {
+      "id": "listen-grammar.1",
+      "en": "of",
+      "ru": "из",
+      "accepted_en": [
+        "of"
+      ],
+      "audio": "audio/listen-grammar.1.mp3"
+    },
+    {
+      "id": "listen-grammar.2",
+      "en": "in",
+      "ru": "в",
+      "accepted_en": [
+        "in"
+      ],
+      "audio": "audio/listen-grammar.2.mp3"
+    },
+    {
+      "id": "listen-grammar.3",
+      "en": "to",
+      "ru": "к",
+      "accepted_en": [
+        "to"
+      ],
+      "audio": "audio/listen-grammar.3.mp3"
+    },
+    {
+      "id": "listen-grammar.4",
+      "en": "for",
+      "ru": "для",
+      "accepted_en": [
+        "for"
+      ],
+      "audio": "audio/listen-grammar.4.mp3"
+    },
+    {
+      "id": "listen-grammar.5",
+      "en": "with",
+      "ru": "с",
+      "accepted_en": [
+        "with"
+      ],
+      "audio": "audio/listen-grammar.5.mp3"
+    },
+    {
+      "id": "listen-grammar.6",
+      "en": "on",
+      "ru": "на",
+      "accepted_en": [
+        "on"
+      ],
+      "audio": "audio/listen-grammar.6.mp3"
+    },
+    {
+      "id": "listen-grammar.7",
+      "en": "at",
+      "ru": "у",
+      "accepted_en": [
+        "at"
+      ],
+      "audio": "audio/listen-grammar.7.mp3"
+    },
+    {
+      "id": "listen-grammar.8",
+      "en": "from",
+      "ru": "от",
+      "accepted_en": [
+        "from"
+      ],
+      "audio": "audio/listen-grammar.8.mp3"
+    },
+    {
+      "id": "listen-grammar.9",
+      "en": "by",
+      "ru": "около",
+      "accepted_en": [
+        "by"
+      ],
+      "audio": "audio/listen-grammar.9.mp3"
+    },
+    {
+      "id": "listen-grammar.10",
+      "en": "about",
+      "ru": "о",
+      "accepted_en": [
+        "about"
+      ],
+      "audio": "audio/listen-grammar.10.mp3"
+    },
+    {
+      "id": "listen-grammar.11",
+      "en": "as",
+      "ru": "как",
+      "accepted_en": [
+        "as"
+      ],
+      "audio": "audio/listen-grammar.11.mp3"
+    },
+    {
+      "id": "listen-grammar.12",
+      "en": "into",
+      "ru": "внутрь",
+      "accepted_en": [
+        "into"
+      ],
+      "audio": "audio/listen-grammar.12.mp3"
+    },
+    {
+      "id": "listen-grammar.13",
+      "en": "like",
+      "ru": "подобно",
+      "accepted_en": [
+        "like"
+      ],
+      "audio": "audio/listen-grammar.13.mp3"
+    },
+    {
+      "id": "listen-grammar.14",
+      "en": "through",
+      "ru": "через",
+      "accepted_en": [
+        "through"
+      ],
+      "audio": "audio/listen-grammar.14.mp3"
+    },
+    {
+      "id": "listen-grammar.15",
+      "en": "after",
+      "ru": "после",
+      "accepted_en": [
+        "after"
+      ],
+      "audio": "audio/listen-grammar.15.mp3"
+    },
+    {
+      "id": "listen-grammar.16",
+      "en": "over",
+      "ru": "над",
+      "accepted_en": [
+        "over"
+      ],
+      "audio": "audio/listen-grammar.16.mp3"
+    },
+    {
+      "id": "listen-grammar.17",
+      "en": "between",
+      "ru": "между",
+      "accepted_en": [
+        "between"
+      ],
+      "audio": "audio/listen-grammar.17.mp3"
+    },
+    {
+      "id": "listen-grammar.18",
+      "en": "out",
+      "ru": "вне",
+      "accepted_en": [
+        "out"
+      ],
+      "audio": "audio/listen-grammar.18.mp3"
+    },
+    {
+      "id": "listen-grammar.19",
+      "en": "against",
+      "ru": "против",
+      "accepted_en": [
+        "against"
+      ],
+      "audio": "audio/listen-grammar.19.mp3"
+    },
+    {
+      "id": "listen-grammar.20",
+      "en": "during",
+      "ru": "во время",
+      "accepted_en": [
+        "during"
+      ],
+      "audio": "audio/listen-grammar.20.mp3"
+    },
+    {
+      "id": "listen-grammar.21",
+      "en": "without",
+      "ru": "без",
+      "accepted_en": [
+        "without"
+      ],
+      "audio": "audio/listen-grammar.21.mp3"
+    },
+    {
+      "id": "listen-grammar.22",
+      "en": "before",
+      "ru": "до",
+      "accepted_en": [
+        "before"
+      ],
+      "audio": "audio/listen-grammar.22.mp3"
+    },
+    {
+      "id": "listen-grammar.23",
+      "en": "under",
+      "ru": "под",
+      "accepted_en": [
+        "under"
+      ],
+      "audio": "audio/listen-grammar.23.mp3"
+    },
+    {
+      "id": "listen-grammar.24",
+      "en": "around",
+      "ru": "вокруг",
+      "accepted_en": [
+        "around"
+      ],
+      "audio": "audio/listen-grammar.24.mp3"
+    },
+    {
+      "id": "listen-grammar.25",
+      "en": "among",
+      "ru": "среди",
+      "accepted_en": [
+        "among"
+      ],
+      "audio": "audio/listen-grammar.25.mp3"
+    },
+    {
+      "id": "listen-grammar.26",
+      "en": "good",
+      "ru": "хороший",
+      "accepted_en": [
+        "good"
+      ],
+      "audio": "audio/listen-grammar.26.mp3"
+    },
+    {
+      "id": "listen-grammar.27",
+      "en": "new",
+      "ru": "новый",
+      "accepted_en": [
+        "new"
+      ],
+      "audio": "audio/listen-grammar.27.mp3"
+    },
+    {
+      "id": "listen-grammar.28",
+      "en": "first",
+      "ru": "первый",
+      "accepted_en": [
+        "first"
+      ],
+      "audio": "audio/listen-grammar.28.mp3"
+    },
+    {
+      "id": "listen-grammar.29",
+      "en": "last",
+      "ru": "последний",
+      "accepted_en": [
+        "last"
+      ],
+      "audio": "audio/listen-grammar.29.mp3"
+    },
+    {
+      "id": "listen-grammar.30",
+      "en": "long",
+      "ru": "длинный",
+      "accepted_en": [
+        "long"
+      ],
+      "audio": "audio/listen-grammar.30.mp3"
+    },
+    {
+      "id": "listen-grammar.31",
+      "en": "great",
+      "ru": "великий",
+      "accepted_en": [
+        "great"
+      ],
+      "audio": "audio/listen-grammar.31.mp3"
+    },
+    {
+      "id": "listen-grammar.32",
+      "en": "little",
+      "ru": "маленький",
+      "accepted_en": [
+        "little"
+      ],
+      "audio": "audio/listen-grammar.32.mp3"
+    },
+    {
+      "id": "listen-grammar.33",
+      "en": "own",
+      "ru": "собственный",
+      "accepted_en": [
+        "own"
+      ],
+      "audio": "audio/listen-grammar.33.mp3"
+    },
+    {
+      "id": "listen-grammar.34",
+      "en": "other",
+      "ru": "другой",
+      "accepted_en": [
+        "other"
+      ],
+      "audio": "audio/listen-grammar.34.mp3"
+    },
+    {
+      "id": "listen-grammar.35",
+      "en": "old",
+      "ru": "старый",
+      "accepted_en": [
+        "old"
+      ],
+      "audio": "audio/listen-grammar.35.mp3"
+    },
+    {
+      "id": "listen-grammar.36",
+      "en": "right",
+      "ru": "правильный",
+      "accepted_en": [
+        "right"
+      ],
+      "audio": "audio/listen-grammar.36.mp3"
+    },
+    {
+      "id": "listen-grammar.37",
+      "en": "big",
+      "ru": "большой",
+      "accepted_en": [
+        "big"
+      ],
+      "audio": "audio/listen-grammar.37.mp3"
+    },
+    {
+      "id": "listen-grammar.38",
+      "en": "high",
+      "ru": "высокий",
+      "accepted_en": [
+        "high"
+      ],
+      "audio": "audio/listen-grammar.38.mp3"
+    },
+    {
+      "id": "listen-grammar.39",
+      "en": "different",
+      "ru": "разный",
+      "accepted_en": [
+        "different"
+      ],
+      "audio": "audio/listen-grammar.39.mp3"
+    },
+    {
+      "id": "listen-grammar.40",
+      "en": "small",
+      "ru": "небольшой",
+      "accepted_en": [
+        "small"
+      ],
+      "audio": "audio/listen-grammar.40.mp3"
+    },
+    {
+      "id": "listen-grammar.41",
+      "en": "large",
+      "ru": "крупный",
+      "accepted_en": [
+        "large"
+      ],
+      "audio": "audio/listen-grammar.41.mp3"
+    },
+    {
+      "id": "listen-grammar.42",
+      "en": "next",
+      "ru": "следующий",
+      "accepted_en": [
+        "next"
+      ],
+      "audio": "audio/listen-grammar.42.mp3"
+    },
+    {
+      "id": "listen-grammar.43",
+      "en": "early",
+      "ru": "ранний",
+      "accepted_en": [
+        "early"
+      ],
+      "audio": "audio/listen-grammar.43.mp3"
+    },
+    {
+      "id": "listen-grammar.44",
+      "en": "young",
+      "ru": "молодой",
+      "accepted_en": [
+        "young"
+      ],
+      "audio": "audio/listen-grammar.44.mp3"
+    },
+    {
+      "id": "listen-grammar.45",
+      "en": "important",
+      "ru": "важный",
+      "accepted_en": [
+        "important"
+      ],
+      "audio": "audio/listen-grammar.45.mp3"
+    },
+    {
+      "id": "listen-grammar.46",
+      "en": "few",
+      "ru": "мало",
+      "accepted_en": [
+        "few"
+      ],
+      "audio": "audio/listen-grammar.46.mp3"
+    },
+    {
+      "id": "listen-grammar.47",
+      "en": "public",
+      "ru": "публичный",
+      "accepted_en": [
+        "public"
+      ],
+      "audio": "audio/listen-grammar.47.mp3"
+    },
+    {
+      "id": "listen-grammar.48",
+      "en": "bad",
+      "ru": "плохой",
+      "accepted_en": [
+        "bad"
+      ],
+      "audio": "audio/listen-grammar.48.mp3"
+    },
+    {
+      "id": "listen-grammar.49",
+      "en": "same",
+      "ru": "одинаковый",
+      "accepted_en": [
+        "same"
+      ],
+      "audio": "audio/listen-grammar.49.mp3"
+    },
+    {
+      "id": "listen-grammar.50",
+      "en": "able",
+      "ru": "способный",
+      "accepted_en": [
+        "able"
+      ],
+      "audio": "audio/listen-grammar.50.mp3"
+    },
+    {
+      "id": "listen-grammar.51",
+      "en": "human",
+      "ru": "человеческий",
+      "accepted_en": [
+        "human"
+      ],
+      "audio": "audio/listen-grammar.51.mp3"
+    },
+    {
+      "id": "listen-grammar.52",
+      "en": "local",
+      "ru": "местный",
+      "accepted_en": [
+        "local"
+      ],
+      "audio": "audio/listen-grammar.52.mp3"
+    },
+    {
+      "id": "listen-grammar.53",
+      "en": "sure",
+      "ru": "уверенный",
+      "accepted_en": [
+        "sure"
+      ],
+      "audio": "audio/listen-grammar.53.mp3"
+    },
+    {
+      "id": "listen-grammar.54",
+      "en": "national",
+      "ru": "национальный",
+      "accepted_en": [
+        "national"
+      ],
+      "audio": "audio/listen-grammar.54.mp3"
+    },
+    {
+      "id": "listen-grammar.55",
+      "en": "hard",
+      "ru": "твёрдый",
+      "accepted_en": [
+        "hard"
+      ],
+      "audio": "audio/listen-grammar.55.mp3"
+    },
+    {
+      "id": "listen-grammar.56",
+      "en": "free",
+      "ru": "свободный",
+      "accepted_en": [
+        "free"
+      ],
+      "audio": "audio/listen-grammar.56.mp3"
+    },
+    {
+      "id": "listen-grammar.57",
+      "en": "better",
+      "ru": "лучший",
+      "accepted_en": [
+        "better"
+      ],
+      "audio": "audio/listen-grammar.57.mp3"
+    },
+    {
+      "id": "listen-grammar.58",
+      "en": "true",
+      "ru": "истинный",
+      "accepted_en": [
+        "true"
+      ],
+      "audio": "audio/listen-grammar.58.mp3"
+    },
+    {
+      "id": "listen-grammar.59",
+      "en": "whole",
+      "ru": "целый",
+      "accepted_en": [
+        "whole"
+      ],
+      "audio": "audio/listen-grammar.59.mp3"
+    },
+    {
+      "id": "listen-grammar.60",
+      "en": "real",
+      "ru": "настоящий",
+      "accepted_en": [
+        "real"
+      ],
+      "audio": "audio/listen-grammar.60.mp3"
+    },
+    {
+      "id": "listen-grammar.61",
+      "en": "best",
+      "ru": "наилучший",
+      "accepted_en": [
+        "best"
+      ],
+      "audio": "audio/listen-grammar.61.mp3"
+    },
+    {
+      "id": "listen-grammar.62",
+      "en": "low",
+      "ru": "низкий",
+      "accepted_en": [
+        "low"
+      ],
+      "audio": "audio/listen-grammar.62.mp3"
+    },
+    {
+      "id": "listen-grammar.63",
+      "en": "easy",
+      "ru": "лёгкий",
+      "accepted_en": [
+        "easy"
+      ],
+      "audio": "audio/listen-grammar.63.mp3"
+    },
+    {
+      "id": "listen-grammar.64",
+      "en": "possible",
+      "ru": "возможный",
+      "accepted_en": [
+        "possible"
+      ],
+      "audio": "audio/listen-grammar.64.mp3"
+    },
+    {
+      "id": "listen-grammar.65",
+      "en": "strong",
+      "ru": "сильный",
+      "accepted_en": [
+        "strong"
+      ],
+      "audio": "audio/listen-grammar.65.mp3"
+    },
+    {
+      "id": "listen-grammar.66",
+      "en": "full",
+      "ru": "полный",
+      "accepted_en": [
+        "full"
+      ],
+      "audio": "audio/listen-grammar.66.mp3"
+    },
+    {
+      "id": "listen-grammar.67",
+      "en": "late",
+      "ru": "поздний",
+      "accepted_en": [
+        "late"
+      ],
+      "audio": "audio/listen-grammar.67.mp3"
+    },
+    {
+      "id": "listen-grammar.68",
+      "en": "special",
+      "ru": "особый",
+      "accepted_en": [
+        "special"
+      ],
+      "audio": "audio/listen-grammar.68.mp3"
+    },
+    {
+      "id": "listen-grammar.69",
+      "en": "clear",
+      "ru": "ясный",
+      "accepted_en": [
+        "clear"
+      ],
+      "audio": "audio/listen-grammar.69.mp3"
+    },
+    {
+      "id": "listen-grammar.70",
+      "en": "difficult",
+      "ru": "трудный",
+      "accepted_en": [
+        "difficult"
+      ],
+      "audio": "audio/listen-grammar.70.mp3"
+    },
+    {
+      "id": "listen-grammar.71",
+      "en": "not",
+      "ru": "не",
+      "accepted_en": [
+        "not"
+      ],
+      "audio": "audio/listen-grammar.71.mp3"
+    },
+    {
+      "id": "listen-grammar.72",
+      "en": "also",
+      "ru": "также",
+      "accepted_en": [
+        "also"
+      ],
+      "audio": "audio/listen-grammar.72.mp3"
+    },
+    {
+      "id": "listen-grammar.73",
+      "en": "very",
+      "ru": "очень",
+      "accepted_en": [
+        "very"
+      ],
+      "audio": "audio/listen-grammar.73.mp3"
+    },
+    {
+      "id": "listen-grammar.74",
+      "en": "often",
+      "ru": "часто",
+      "accepted_en": [
+        "often"
+      ],
+      "audio": "audio/listen-grammar.74.mp3"
+    },
+    {
+      "id": "listen-grammar.75",
+      "en": "however",
+      "ru": "однако",
+      "accepted_en": [
+        "however"
+      ],
+      "audio": "audio/listen-grammar.75.mp3"
+    },
+    {
+      "id": "listen-grammar.76",
+      "en": "too",
+      "ru": "тоже",
+      "accepted_en": [
+        "too"
+      ],
+      "audio": "audio/listen-grammar.76.mp3"
+    },
+    {
+      "id": "listen-grammar.77",
+      "en": "usually",
+      "ru": "обычно",
+      "accepted_en": [
+        "usually"
+      ],
+      "audio": "audio/listen-grammar.77.mp3"
+    },
+    {
+      "id": "listen-grammar.78",
+      "en": "really",
+      "ru": "действительно",
+      "accepted_en": [
+        "really"
+      ],
+      "audio": "audio/listen-grammar.78.mp3"
+    },
+    {
+      "id": "listen-grammar.79",
+      "en": "never",
+      "ru": "никогда",
+      "accepted_en": [
+        "never"
+      ],
+      "audio": "audio/listen-grammar.79.mp3"
+    },
+    {
+      "id": "listen-grammar.80",
+      "en": "always",
+      "ru": "всегда",
+      "accepted_en": [
+        "always"
+      ],
+      "audio": "audio/listen-grammar.80.mp3"
+    },
+    {
+      "id": "listen-grammar.81",
+      "en": "sometimes",
+      "ru": "иногда",
+      "accepted_en": [
+        "sometimes"
+      ],
+      "audio": "audio/listen-grammar.81.mp3"
+    },
+    {
+      "id": "listen-grammar.82",
+      "en": "together",
+      "ru": "вместе",
+      "accepted_en": [
+        "together"
+      ],
+      "audio": "audio/listen-grammar.82.mp3"
+    },
+    {
+      "id": "listen-grammar.83",
+      "en": "likely",
+      "ru": "вероятно",
+      "accepted_en": [
+        "likely"
+      ],
+      "audio": "audio/listen-grammar.83.mp3"
+    },
+    {
+      "id": "listen-grammar.84",
+      "en": "simply",
+      "ru": "просто",
+      "accepted_en": [
+        "simply"
+      ],
+      "audio": "audio/listen-grammar.84.mp3"
+    },
+    {
+      "id": "listen-grammar.85",
+      "en": "generally",
+      "ru": "в целом",
+      "accepted_en": [
+        "generally"
+      ],
+      "audio": "audio/listen-grammar.85.mp3"
+    },
+    {
+      "id": "listen-grammar.86",
+      "en": "instead",
+      "ru": "вместо",
+      "accepted_en": [
+        "instead"
+      ],
+      "audio": "audio/listen-grammar.86.mp3"
+    },
+    {
+      "id": "listen-grammar.87",
+      "en": "actually",
+      "ru": "на самом деле",
+      "accepted_en": [
+        "actually"
+      ],
+      "audio": "audio/listen-grammar.87.mp3"
+    },
+    {
+      "id": "listen-grammar.88",
+      "en": "again",
+      "ru": "снова",
+      "accepted_en": [
+        "again"
+      ],
+      "audio": "audio/listen-grammar.88.mp3"
+    },
+    {
+      "id": "listen-grammar.89",
+      "en": "here",
+      "ru": "здесь",
+      "accepted_en": [
+        "here"
+      ],
+      "audio": "audio/listen-grammar.89.mp3"
+    },
+    {
+      "id": "listen-grammar.90",
+      "en": "there",
+      "ru": "там",
+      "accepted_en": [
+        "there"
+      ],
+      "audio": "audio/listen-grammar.90.mp3"
+    },
+    {
+      "id": "listen-grammar.91",
+      "en": "then",
+      "ru": "тогда",
+      "accepted_en": [
+        "then"
+      ],
+      "audio": "audio/listen-grammar.91.mp3"
+    },
+    {
+      "id": "listen-grammar.92",
+      "en": "now",
+      "ru": "сейчас",
+      "accepted_en": [
+        "now"
+      ],
+      "audio": "audio/listen-grammar.92.mp3"
+    },
+    {
+      "id": "listen-grammar.93",
+      "en": "still",
+      "ru": "всё ещё",
+      "accepted_en": [
+        "still"
+      ],
+      "audio": "audio/listen-grammar.93.mp3"
+    },
+    {
+      "id": "listen-grammar.94",
+      "en": "just",
+      "ru": "только что",
+      "accepted_en": [
+        "just"
+      ],
+      "audio": "audio/listen-grammar.94.mp3"
+    },
+    {
+      "id": "listen-grammar.95",
+      "en": "only",
+      "ru": "только",
+      "accepted_en": [
+        "only"
+      ],
+      "audio": "audio/listen-grammar.95.mp3"
+    },
+    {
+      "id": "listen-grammar.96",
+      "en": "even",
+      "ru": "даже",
+      "accepted_en": [
+        "even"
+      ],
+      "audio": "audio/listen-grammar.96.mp3"
+    },
+    {
+      "id": "listen-grammar.97",
+      "en": "back",
+      "ru": "обратно",
+      "accepted_en": [
+        "back"
+      ],
+      "audio": "audio/listen-grammar.97.mp3"
+    },
+    {
+      "id": "listen-grammar.98",
+      "en": "almost",
+      "ru": "почти",
+      "accepted_en": [
+        "almost"
+      ],
+      "audio": "audio/listen-grammar.98.mp3"
+    },
+    {
+      "id": "listen-grammar.99",
+      "en": "probably",
+      "ru": "наверное",
+      "accepted_en": [
+        "probably"
+      ],
+      "audio": "audio/listen-grammar.99.mp3"
+    },
+    {
+      "id": "listen-grammar.100",
+      "en": "quickly",
+      "ru": "быстро",
+      "accepted_en": [
+        "quickly"
+      ],
+      "audio": "audio/listen-grammar.100.mp3"
+    }
+  ]
+}

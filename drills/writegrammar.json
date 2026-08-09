@@ -1,0 +1,807 @@
+{
+  "id": "write-grammar",
+  "title_ru": "Письмо: прилагательные, наречия, предлоги",
+  "modality": "write",
+  "items": [
+    {
+      "id": "write-grammar.1",
+      "en": "of",
+      "ru": "из",
+      "accepted_en": [
+        "of"
+      ]
+    },
+    {
+      "id": "write-grammar.2",
+      "en": "in",
+      "ru": "в",
+      "accepted_en": [
+        "in"
+      ]
+    },
+    {
+      "id": "write-grammar.3",
+      "en": "to",
+      "ru": "к",
+      "accepted_en": [
+        "to"
+      ]
+    },
+    {
+      "id": "write-grammar.4",
+      "en": "for",
+      "ru": "для",
+      "accepted_en": [
+        "for"
+      ]
+    },
+    {
+      "id": "write-grammar.5",
+      "en": "with",
+      "ru": "с",
+      "accepted_en": [
+        "with"
+      ]
+    },
+    {
+      "id": "write-grammar.6",
+      "en": "on",
+      "ru": "на",
+      "accepted_en": [
+        "on"
+      ]
+    },
+    {
+      "id": "write-grammar.7",
+      "en": "at",
+      "ru": "у",
+      "accepted_en": [
+        "at"
+      ]
+    },
+    {
+      "id": "write-grammar.8",
+      "en": "from",
+      "ru": "от",
+      "accepted_en": [
+        "from"
+      ]
+    },
+    {
+      "id": "write-grammar.9",
+      "en": "by",
+      "ru": "около",
+      "accepted_en": [
+        "by"
+      ]
+    },
+    {
+      "id": "write-grammar.10",
+      "en": "about",
+      "ru": "о",
+      "accepted_en": [
+        "about"
+      ]
+    },
+    {
+      "id": "write-grammar.11",
+      "en": "as",
+      "ru": "как",
+      "accepted_en": [
+        "as"
+      ]
+    },
+    {
+      "id": "write-grammar.12",
+      "en": "into",
+      "ru": "внутрь",
+      "accepted_en": [
+        "into"
+      ]
+    },
+    {
+      "id": "write-grammar.13",
+      "en": "like",
+      "ru": "подобно",
+      "accepted_en": [
+        "like"
+      ]
+    },
+    {
+      "id": "write-grammar.14",
+      "en": "through",
+      "ru": "через",
+      "accepted_en": [
+        "through"
+      ]
+    },
+    {
+      "id": "write-grammar.15",
+      "en": "after",
+      "ru": "после",
+      "accepted_en": [
+        "after"
+      ]
+    },
+    {
+      "id": "write-grammar.16",
+      "en": "over",
+      "ru": "над",
+      "accepted_en": [
+        "over"
+      ]
+    },
+    {
+      "id": "write-grammar.17",
+      "en": "between",
+      "ru": "между",
+      "accepted_en": [
+        "between"
+      ]
+    },
+    {
+      "id": "write-grammar.18",
+      "en": "out",
+      "ru": "вне",
+      "accepted_en": [
+        "out"
+      ]
+    },
+    {
+      "id": "write-grammar.19",
+      "en": "against",
+      "ru": "против",
+      "accepted_en": [
+        "against"
+      ]
+    },
+    {
+      "id": "write-grammar.20",
+      "en": "during",
+      "ru": "во время",
+      "accepted_en": [
+        "during"
+      ]
+    },
+    {
+      "id": "write-grammar.21",
+      "en": "without",
+      "ru": "без",
+      "accepted_en": [
+        "without"
+      ]
+    },
+    {
+      "id": "write-grammar.22",
+      "en": "before",
+      "ru": "до",
+      "accepted_en": [
+        "before"
+      ]
+    },
+    {
+      "id": "write-grammar.23",
+      "en": "under",
+      "ru": "под",
+      "accepted_en": [
+        "under"
+      ]
+    },
+    {
+      "id": "write-grammar.24",
+      "en": "around",
+      "ru": "вокруг",
+      "accepted_en": [
+        "around"
+      ]
+    },
+    {
+      "id": "write-grammar.25",
+      "en": "among",
+      "ru": "среди",
+      "accepted_en": [
+        "among"
+      ]
+    },
+    {
+      "id": "write-grammar.26",
+      "en": "good",
+      "ru": "хороший",
+      "accepted_en": [
+        "good"
+      ]
+    },
+    {
+      "id": "write-grammar.27",
+      "en": "new",
+      "ru": "новый",
+      "accepted_en": [
+        "new"
+      ]
+    },
+    {
+      "id": "write-grammar.28",
+      "en": "first",
+      "ru": "первый",
+      "accepted_en": [
+        "first"
+      ]
+    },
+    {
+      "id": "write-grammar.29",
+      "en": "last",
+      "ru": "последний",
+      "accepted_en": [
+        "last"
+      ]
+    },
+    {
+      "id": "write-grammar.30",
+      "en": "long",
+      "ru": "длинный",
+      "accepted_en": [
+        "long"
+      ]
+    },
+    {
+      "id": "write-grammar.31",
+      "en": "great",
+      "ru": "великий",
+      "accepted_en": [
+        "great"
+      ]
+    },
+    {
+      "id": "write-grammar.32",
+      "en": "little",
+      "ru": "маленький",
+      "accepted_en": [
+        "little"
+      ]
+    },
+    {
+      "id": "write-grammar.33",
+      "en": "own",
+      "ru": "собственный",
+      "accepted_en": [
+        "own"
+      ]
+    },
+    {
+      "id": "write-grammar.34",
+      "en": "other",
+      "ru": "другой",
+      "accepted_en": [
+        "other"
+      ]
+    },
+    {
+      "id": "write-grammar.35",
+      "en": "old",
+      "ru": "старый",
+      "accepted_en": [
+        "old"
+      ]
+    },
+    {
+      "id": "write-grammar.36",
+      "en": "right",
+      "ru": "правильный",
+      "accepted_en": [
+        "right"
+      ]
+    },
+    {
+      "id": "write-grammar.37",
+      "en": "big",
+      "ru": "большой",
+      "accepted_en": [
+        "big"
+      ]
+    },
+    {
+      "id": "write-grammar.38",
+      "en": "high",
+      "ru": "высокий",
+      "accepted_en": [
+        "high"
+      ]
+    },
+    {
+      "id": "write-grammar.39",
+      "en": "different",
+      "ru": "разный",
+      "accepted_en": [
+        "different"
+      ]
+    },
+    {
+      "id": "write-grammar.40",
+      "en": "small",
+      "ru": "небольшой",
+      "accepted_en": [
+        "small"
+      ]
+    },
+    {
+      "id": "write-grammar.41",
+      "en": "large",
+      "ru": "крупный",
+      "accepted_en": [
+        "large"
+      ]
+    },
+    {
+      "id": "write-grammar.42",
+      "en": "next",
+      "ru": "следующий",
+      "accepted_en": [
+        "next"
+      ]
+    },
+    {
+      "id": "write-grammar.43",
+      "en": "early",
+      "ru": "ранний",
+      "accepted_en": [
+        "early"
+      ]
+    },
+    {
+      "id": "write-grammar.44",
+      "en": "young",
+      "ru": "молодой",
+      "accepted_en": [
+        "young"
+      ]
+    },
+    {
+      "id": "write-grammar.45",
+      "en": "important",
+      "ru": "важный",
+      "accepted_en": [
+        "important"
+      ]
+    },
+    {
+      "id": "write-grammar.46",
+      "en": "few",
+      "ru": "мало",
+      "accepted_en": [
+        "few"
+      ]
+    },
+    {
+      "id": "write-grammar.47",
+      "en": "public",
+      "ru": "публичный",
+      "accepted_en": [
+        "public"
+      ]
+    },
+    {
+      "id": "write-grammar.48",
+      "en": "bad",
+      "ru": "плохой",
+      "accepted_en": [
+        "bad"
+      ]
+    },
+    {
+      "id": "write-grammar.49",
+      "en": "same",
+      "ru": "одинаковый",
+      "accepted_en": [
+        "same"
+      ]
+    },
+    {
+      "id": "write-grammar.50",
+      "en": "able",
+      "ru": "способный",
+      "accepted_en": [
+        "able"
+      ]
+    },
+    {
+      "id": "write-grammar.51",
+      "en": "human",
+      "ru": "человеческий",
+      "accepted_en": [
+        "human"
+      ]
+    },
+    {
+      "id": "write-grammar.52",
+      "en": "local",
+      "ru": "местный",
+      "accepted_en": [
+        "local"
+      ]
+    },
+    {
+      "id": "write-grammar.53",
+      "en": "sure",
+      "ru": "уверенный",
+      "accepted_en": [
+        "sure"
+      ]
+    },
+    {
+      "id": "write-grammar.54",
+      "en": "national",
+      "ru": "национальный",
+      "accepted_en": [
+        "national"
+      ]
+    },
+    {
+      "id": "write-grammar.55",
+      "en": "hard",
+      "ru": "твёрдый",
+      "accepted_en": [
+        "hard"
+      ]
+    },
+    {
+      "id": "write-grammar.56",
+      "en": "free",
+      "ru": "свободный",
+      "accepted_en": [
+        "free"
+      ]
+    },
+    {
+      "id": "write-grammar.57",
+      "en": "better",
+      "ru": "лучший",
+      "accepted_en": [
+        "better"
+      ]
+    },
+    {
+      "id": "write-grammar.58",
+      "en": "true",
+      "ru": "истинный",
+      "accepted_en": [
+        "true"
+      ]
+    },
+    {
+      "id": "write-grammar.59",
+      "en": "whole",
+      "ru": "целый",
+      "accepted_en": [
+        "whole"
+      ]
+    },
+    {
+      "id": "write-grammar.60",
+      "en": "real",
+      "ru": "настоящий",
+      "accepted_en": [
+        "real"
+      ]
+    },
+    {
+      "id": "write-grammar.61",
+      "en": "best",
+      "ru": "наилучший",
+      "accepted_en": [
+        "best"
+      ]
+    },
+    {
+      "id": "write-grammar.62",
+      "en": "low",
+      "ru": "низкий",
+      "accepted_en": [
+        "low"
+      ]
+    },
+    {
+      "id": "write-grammar.63",
+      "en": "easy",
+      "ru": "лёгкий",
+      "accepted_en": [
+        "easy"
+      ]
+    },
+    {
+      "id": "write-grammar.64",
+      "en": "possible",
+      "ru": "возможный",
+      "accepted_en": [
+        "possible"
+      ]
+    },
+    {
+      "id": "write-grammar.65",
+      "en": "strong",
+      "ru": "сильный",
+      "accepted_en": [
+        "strong"
+      ]
+    },
+    {
+      "id": "write-grammar.66",
+      "en": "full",
+      "ru": "полный",
+      "accepted_en": [
+        "full"
+      ]
+    },
+    {
+      "id": "write-grammar.67",
+      "en": "late",
+      "ru": "поздний",
+      "accepted_en": [
+        "late"
+      ]
+    },
+    {
+      "id": "write-grammar.68",
+      "en": "special",
+      "ru": "особый",
+      "accepted_en": [
+        "special"
+      ]
+    },
+    {
+      "id": "write-grammar.69",
+      "en": "clear",
+      "ru": "ясный",
+      "accepted_en": [
+        "clear"
+      ]
+    },
+    {
+      "id": "write-grammar.70",
+      "en": "difficult",
+      "ru": "трудный",
+      "accepted_en": [
+        "difficult"
+      ]
+    },
+    {
+      "id": "write-grammar.71",
+      "en": "not",
+      "ru": "не",
+      "accepted_en": [
+        "not"
+      ]
+    },
+    {
+      "id": "write-grammar.72",
+      "en": "also",
+      "ru": "также",
+      "accepted_en": [
+        "also"
+      ]
+    },
+    {
+      "id": "write-grammar.73",
+      "en": "very",
+      "ru": "очень",
+      "accepted_en": [
+        "very"
+      ]
+    },
+    {
+      "id": "write-grammar.74",
+      "en": "often",
+      "ru": "часто",
+      "accepted_en": [
+        "often"
+      ]
+    },
+    {
+      "id": "write-grammar.75",
+      "en": "however",
+      "ru": "однако",
+      "accepted_en": [
+        "however"
+      ]
+    },
+    {
+      "id": "write-grammar.76",
+      "en": "too",
+      "ru": "тоже",
+      "accepted_en": [
+        "too"
+      ]
+    },
+    {
+      "id": "write-grammar.77",
+      "en": "usually",
+      "ru": "обычно",
+      "accepted_en": [
+        "usually"
+      ]
+    },
+    {
+      "id": "write-grammar.78",
+      "en": "really",
+      "ru": "действительно",
+      "accepted_en": [
+        "really"
+      ]
+    },
+    {
+      "id": "write-grammar.79",
+      "en": "never",
+      "ru": "никогда",
+      "accepted_en": [
+        "never"
+      ]
+    },
+    {
+      "id": "write-grammar.80",
+      "en": "always",
+      "ru": "всегда",
+      "accepted_en": [
+        "always"
+      ]
+    },
+    {
+      "id": "write-grammar.81",
+      "en": "sometimes",
+      "ru": "иногда",
+      "accepted_en": [
+        "sometimes"
+      ]
+    },
+    {
+      "id": "write-grammar.82",
+      "en": "together",
+      "ru": "вместе",
+      "accepted_en": [
+        "together"
+      ]
+    },
+    {
+      "id": "write-grammar.83",
+      "en": "likely",
+      "ru": "вероятно",
+      "accepted_en": [
+        "likely"
+      ]
+    },
+    {
+      "id": "write-grammar.84",
+      "en": "simply",
+      "ru": "просто",
+      "accepted_en": [
+        "simply"
+      ]
+    },
+    {
+      "id": "write-grammar.85",
+      "en": "generally",
+      "ru": "в целом",
+      "accepted_en": [
+        "generally"
+      ]
+    },
+    {
+      "id": "write-grammar.86",
+      "en": "instead",
+      "ru": "вместо",
+      "accepted_en": [
+        "instead"
+      ]
+    },
+    {
+      "id": "write-grammar.87",
+      "en": "actually",
+      "ru": "на самом деле",
+      "accepted_en": [
+        "actually"
+      ]
+    },
+    {
+      "id": "write-grammar.88",
+      "en": "again",
+      "ru": "снова",
+      "accepted_en": [
+        "again"
+      ]
+    },
+    {
+      "id": "write-grammar.89",
+      "en": "here",
+      "ru": "здесь",
+      "accepted_en": [
+        "here"
+      ]
+    },
+    {
+      "id": "write-grammar.90",
+      "en": "there",
+      "ru": "там",
+      "accepted_en": [
+        "there"
+      ]
+    },
+    {
+      "id": "write-grammar.91",
+      "en": "then",
+      "ru": "тогда",
+      "accepted_en": [
+        "then"
+      ]
+    },
+    {
+      "id": "write-grammar.92",
+      "en": "now",
+      "ru": "сейчас",
+      "accepted_en": [
+        "now"
+      ]
+    },
+    {
+      "id": "write-grammar.93",
+      "en": "still",
+      "ru": "всё ещё",
+      "accepted_en": [
+        "still"
+      ]
+    },
+    {
+      "id": "write-grammar.94",
+      "en": "just",
+      "ru": "только что",
+      "accepted_en": [
+        "just"
+      ]
+    },
+    {
+      "id": "write-grammar.95",
+      "en": "only",
+      "ru": "только",
+      "accepted_en": [
+        "only"
+      ]
+    },
+    {
+      "id": "write-grammar.96",
+      "en": "even",
+      "ru": "даже",
+      "accepted_en": [
+        "even"
+      ]
+    },
+    {
+      "id": "write-grammar.97",
+      "en": "back",
+      "ru": "обратно",
+      "accepted_en": [
+        "back"
+      ]
+    },
+    {
+      "id": "write-grammar.98",
+      "en": "almost",
+      "ru": "почти",
+      "accepted_en": [
+        "almost"
+      ]
+    },
+    {
+      "id": "write-grammar.99",
+      "en": "probably",
+      "ru": "наверное",
+      "accepted_en": [
+        "probably"
+      ]
+    },
+    {
+      "id": "write-grammar.100",
+      "en": "quickly",
+      "ru": "быстро",
+      "accepted_en": [
+        "quickly"
+      ]
+    }
+  ]
+}

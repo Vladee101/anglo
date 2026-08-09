@@ -999,6 +999,506 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "listen-grammar.1": {
+    "en": "of",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.10": {
+    "en": "about",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.100": {
+    "en": "quickly",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.11": {
+    "en": "as",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.12": {
+    "en": "into",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.13": {
+    "en": "like",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.14": {
+    "en": "through",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.15": {
+    "en": "after",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.16": {
+    "en": "over",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.17": {
+    "en": "between",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.18": {
+    "en": "out",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.19": {
+    "en": "against",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.2": {
+    "en": "in",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.20": {
+    "en": "during",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.21": {
+    "en": "without",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.22": {
+    "en": "before",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.23": {
+    "en": "under",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.24": {
+    "en": "around",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.25": {
+    "en": "among",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.26": {
+    "en": "good",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.27": {
+    "en": "new",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.28": {
+    "en": "first",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.29": {
+    "en": "last",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.3": {
+    "en": "to",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.30": {
+    "en": "long",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.31": {
+    "en": "great",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.32": {
+    "en": "little",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.33": {
+    "en": "own",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.34": {
+    "en": "other",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.35": {
+    "en": "old",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.36": {
+    "en": "right",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.37": {
+    "en": "big",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.38": {
+    "en": "high",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.39": {
+    "en": "different",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.4": {
+    "en": "for",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.40": {
+    "en": "small",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.41": {
+    "en": "large",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.42": {
+    "en": "next",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.43": {
+    "en": "early",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.44": {
+    "en": "young",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.45": {
+    "en": "important",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.46": {
+    "en": "few",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.47": {
+    "en": "public",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.48": {
+    "en": "bad",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.49": {
+    "en": "same",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.5": {
+    "en": "with",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.50": {
+    "en": "able",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.51": {
+    "en": "human",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.52": {
+    "en": "local",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.53": {
+    "en": "sure",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.54": {
+    "en": "national",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.55": {
+    "en": "hard",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.56": {
+    "en": "free",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.57": {
+    "en": "better",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.58": {
+    "en": "true",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.59": {
+    "en": "whole",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.6": {
+    "en": "on",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.60": {
+    "en": "real",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.61": {
+    "en": "best",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.62": {
+    "en": "low",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.63": {
+    "en": "easy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.64": {
+    "en": "possible",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.65": {
+    "en": "strong",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.66": {
+    "en": "full",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.67": {
+    "en": "late",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.68": {
+    "en": "special",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.69": {
+    "en": "clear",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.7": {
+    "en": "at",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.70": {
+    "en": "difficult",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.71": {
+    "en": "not",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.72": {
+    "en": "also",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.73": {
+    "en": "very",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.74": {
+    "en": "often",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.75": {
+    "en": "however",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.76": {
+    "en": "too",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.77": {
+    "en": "usually",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.78": {
+    "en": "really",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.79": {
+    "en": "never",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.8": {
+    "en": "from",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.80": {
+    "en": "always",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.81": {
+    "en": "sometimes",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.82": {
+    "en": "together",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.83": {
+    "en": "likely",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.84": {
+    "en": "simply",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.85": {
+    "en": "generally",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.86": {
+    "en": "instead",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.87": {
+    "en": "actually",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.88": {
+    "en": "again",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.89": {
+    "en": "here",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.9": {
+    "en": "by",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.90": {
+    "en": "there",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.91": {
+    "en": "then",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.92": {
+    "en": "now",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.93": {
+    "en": "still",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.94": {
+    "en": "just",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.95": {
+    "en": "only",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.96": {
+    "en": "even",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.97": {
+    "en": "back",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.98": {
+    "en": "almost",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-grammar.99": {
+    "en": "probably",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "listen-locations.1": {
     "en": "Come here, please",
     "rate": "-10%",
