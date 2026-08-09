@@ -1,0 +1,407 @@
+{
+  "id": "write-locations",
+  "title_ru": "Письмо: расположение",
+  "modality": "write",
+  "items": [
+    {
+      "id": "write-locations.1",
+      "en": "Come here, please",
+      "ru": "Иди сюда, пожалуйста",
+      "accepted_en": [
+        "Come here, please"
+      ]
+    },
+    {
+      "id": "write-locations.2",
+      "en": "I am here",
+      "ru": "Я здесь",
+      "accepted_en": [
+        "I am here"
+      ]
+    },
+    {
+      "id": "write-locations.3",
+      "en": "Put it there",
+      "ru": "Положи это туда",
+      "accepted_en": [
+        "Put it there"
+      ]
+    },
+    {
+      "id": "write-locations.4",
+      "en": "She is over there",
+      "ru": "Она вон там",
+      "accepted_en": [
+        "She is over there"
+      ]
+    },
+    {
+      "id": "write-locations.5",
+      "en": "Is anyone here?",
+      "ru": "Здесь кто-нибудь есть?",
+      "accepted_en": [
+        "Is anyone here?"
+      ]
+    },
+    {
+      "id": "write-locations.6",
+      "en": "We live here",
+      "ru": "Мы живём здесь",
+      "accepted_en": [
+        "We live here"
+      ]
+    },
+    {
+      "id": "write-locations.7",
+      "en": "Let's go inside",
+      "ru": "Давай зайдём внутрь",
+      "accepted_en": [
+        "Let's go inside"
+      ]
+    },
+    {
+      "id": "write-locations.8",
+      "en": "The children are playing outside",
+      "ru": "Дети играют на улице",
+      "accepted_en": [
+        "The children are playing outside"
+      ]
+    },
+    {
+      "id": "write-locations.9",
+      "en": "It's cold outside",
+      "ru": "На улице холодно",
+      "accepted_en": [
+        "It's cold outside"
+      ]
+    },
+    {
+      "id": "write-locations.10",
+      "en": "Stay inside",
+      "ru": "Оставайся внутри",
+      "accepted_en": [
+        "Stay inside"
+      ]
+    },
+    {
+      "id": "write-locations.11",
+      "en": "The cat is inside the house",
+      "ru": "Кошка внутри дома",
+      "accepted_en": [
+        "The cat is inside the house"
+      ]
+    },
+    {
+      "id": "write-locations.12",
+      "en": "We had lunch outside",
+      "ru": "Мы обедали на улице",
+      "accepted_en": [
+        "We had lunch outside"
+      ]
+    },
+    {
+      "id": "write-locations.13",
+      "en": "The shop is near my house",
+      "ru": "Магазин рядом с моим домом",
+      "accepted_en": [
+        "The shop is near my house"
+      ]
+    },
+    {
+      "id": "write-locations.14",
+      "en": "It's very far from here",
+      "ru": "Это очень далеко отсюда",
+      "accepted_en": [
+        "It's very far from here"
+      ]
+    },
+    {
+      "id": "write-locations.15",
+      "en": "Sit near the window",
+      "ru": "Сядь возле окна",
+      "accepted_en": [
+        "Sit near the window"
+      ]
+    },
+    {
+      "id": "write-locations.16",
+      "en": "The airport is far away",
+      "ru": "Аэропорт далеко",
+      "accepted_en": [
+        "The airport is far away"
+      ]
+    },
+    {
+      "id": "write-locations.17",
+      "en": "My school is close to the park",
+      "ru": "Моя школа рядом с парком",
+      "accepted_en": [
+        "My school is close to the park"
+      ]
+    },
+    {
+      "id": "write-locations.18",
+      "en": "How far is the station?",
+      "ru": "Как далеко вокзал?",
+      "accepted_en": [
+        "How far is the station?"
+      ]
+    },
+    {
+      "id": "write-locations.19",
+      "en": "Look up",
+      "ru": "Посмотри вверх",
+      "accepted_en": [
+        "Look up"
+      ]
+    },
+    {
+      "id": "write-locations.20",
+      "en": "Look down",
+      "ru": "Посмотри вниз",
+      "accepted_en": [
+        "Look down"
+      ]
+    },
+    {
+      "id": "write-locations.21",
+      "en": "Go upstairs",
+      "ru": "Поднимись наверх",
+      "accepted_en": [
+        "Go upstairs"
+      ]
+    },
+    {
+      "id": "write-locations.22",
+      "en": "Go downstairs",
+      "ru": "Спустись вниз",
+      "accepted_en": [
+        "Go downstairs"
+      ]
+    },
+    {
+      "id": "write-locations.23",
+      "en": "The plane flew up",
+      "ru": "Самолёт взлетел вверх",
+      "accepted_en": [
+        "The plane flew up"
+      ]
+    },
+    {
+      "id": "write-locations.24",
+      "en": "The sun went down",
+      "ru": "Солнце село",
+      "accepted_en": [
+        "The sun went down"
+      ]
+    },
+    {
+      "id": "write-locations.25",
+      "en": "Stand in front of me",
+      "ru": "Встань передо мной",
+      "accepted_en": [
+        "Stand in front of me"
+      ]
+    },
+    {
+      "id": "write-locations.26",
+      "en": "The car is parked in front of the house",
+      "ru": "Машина припаркована перед домом",
+      "accepted_en": [
+        "The car is parked in front of the house"
+      ]
+    },
+    {
+      "id": "write-locations.27",
+      "en": "He is standing behind the door",
+      "ru": "Он стоит за дверью",
+      "accepted_en": [
+        "He is standing behind the door"
+      ]
+    },
+    {
+      "id": "write-locations.28",
+      "en": "The garden is behind the house",
+      "ru": "Сад находится за домом",
+      "accepted_en": [
+        "The garden is behind the house"
+      ]
+    },
+    {
+      "id": "write-locations.29",
+      "en": "There is a park in front of the school",
+      "ru": "Перед школой есть парк",
+      "accepted_en": [
+        "There is a park in front of the school"
+      ]
+    },
+    {
+      "id": "write-locations.30",
+      "en": "Don't stand behind me",
+      "ru": "Не стой позади меня",
+      "accepted_en": [
+        "Don't stand behind me"
+      ]
+    },
+    {
+      "id": "write-locations.31",
+      "en": "Sit next to me",
+      "ru": "Сядь рядом со мной",
+      "accepted_en": [
+        "Sit next to me"
+      ]
+    },
+    {
+      "id": "write-locations.32",
+      "en": "The bank is next to the supermarket",
+      "ru": "Банк рядом с супермаркетом",
+      "accepted_en": [
+        "The bank is next to the supermarket"
+      ]
+    },
+    {
+      "id": "write-locations.33",
+      "en": "The book is between the two boxes",
+      "ru": "Книга между двумя коробками",
+      "accepted_en": [
+        "The book is between the two boxes"
+      ]
+    },
+    {
+      "id": "write-locations.34",
+      "en": "I live between the park and the school",
+      "ru": "Я живу между парком и школой",
+      "accepted_en": [
+        "I live between the park and the school"
+      ]
+    },
+    {
+      "id": "write-locations.35",
+      "en": "Put the lamp next to the bed",
+      "ru": "Поставь лампу рядом с кроватью",
+      "accepted_en": [
+        "Put the lamp next to the bed"
+      ]
+    },
+    {
+      "id": "write-locations.36",
+      "en": "The cat is sitting between us",
+      "ru": "Кошка сидит между нами",
+      "accepted_en": [
+        "The cat is sitting between us"
+      ]
+    },
+    {
+      "id": "write-locations.37",
+      "en": "The lamp is above the table",
+      "ru": "Лампа находится над столом",
+      "accepted_en": [
+        "The lamp is above the table"
+      ]
+    },
+    {
+      "id": "write-locations.38",
+      "en": "The shoes are under the bed",
+      "ru": "Обувь под кроватью",
+      "accepted_en": [
+        "The shoes are under the bed"
+      ]
+    },
+    {
+      "id": "write-locations.39",
+      "en": "The picture is on the wall",
+      "ru": "Картина на стене",
+      "accepted_en": [
+        "The picture is on the wall"
+      ]
+    },
+    {
+      "id": "write-locations.40",
+      "en": "There is a bridge below the hill",
+      "ru": "Под холмом есть мост",
+      "accepted_en": [
+        "There is a bridge below the hill"
+      ]
+    },
+    {
+      "id": "write-locations.41",
+      "en": "Put the box on the shelf",
+      "ru": "Поставь коробку на полку",
+      "accepted_en": [
+        "Put the box on the shelf"
+      ]
+    },
+    {
+      "id": "write-locations.42",
+      "en": "The keys are under the mat",
+      "ru": "Ключи под ковриком",
+      "accepted_en": [
+        "The keys are under the mat"
+      ]
+    },
+    {
+      "id": "write-locations.43",
+      "en": "Turn left at the corner",
+      "ru": "Поверни налево на углу",
+      "accepted_en": [
+        "Turn left at the corner"
+      ]
+    },
+    {
+      "id": "write-locations.44",
+      "en": "The bank is on your right",
+      "ru": "Банк справа от вас",
+      "accepted_en": [
+        "The bank is on your right"
+      ]
+    },
+    {
+      "id": "write-locations.45",
+      "en": "Look to the left",
+      "ru": "Посмотри налево",
+      "accepted_en": [
+        "Look to the left"
+      ]
+    },
+    {
+      "id": "write-locations.46",
+      "en": "My office is on the left side",
+      "ru": "Мой офис слева",
+      "accepted_en": [
+        "My office is on the left side"
+      ]
+    },
+    {
+      "id": "write-locations.47",
+      "en": "Turn right after the bridge",
+      "ru": "Поверни направо после моста",
+      "accepted_en": [
+        "Turn right after the bridge"
+      ]
+    },
+    {
+      "id": "write-locations.48",
+      "en": "Keep to the right",
+      "ru": "Держись правой стороны",
+      "accepted_en": [
+        "Keep to the right"
+      ]
+    },
+    {
+      "id": "write-locations.49",
+      "en": "I looked for it everywhere",
+      "ru": "Я искал это везде",
+      "accepted_en": [
+        "I looked for it everywhere"
+      ]
+    },
+    {
+      "id": "write-locations.50",
+      "en": "Let's go home",
+      "ru": "Пойдём домой",
+      "accepted_en": [
+        "Let's go home"
+      ]
+    }
+  ]
+}
