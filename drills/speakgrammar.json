@@ -373,10 +373,10 @@
     },
     {
       "id": "speak-grammar.47",
-      "en": "public",
-      "ru": "публичный",
+      "en": "this",
+      "ru": "этот",
       "accepted_en": [
-        "public"
+        "this"
       ]
     },
     {
@@ -405,18 +405,18 @@
     },
     {
       "id": "speak-grammar.51",
-      "en": "human",
-      "ru": "человеческий",
+      "en": "that",
+      "ru": "тот",
       "accepted_en": [
-        "human"
+        "that"
       ]
     },
     {
       "id": "speak-grammar.52",
-      "en": "local",
-      "ru": "местный",
+      "en": "these",
+      "ru": "эти",
       "accepted_en": [
-        "local"
+        "these"
       ]
     },
     {
@@ -429,10 +429,10 @@
     },
     {
       "id": "speak-grammar.54",
-      "en": "national",
-      "ru": "национальный",
+      "en": "those",
+      "ru": "те",
       "accepted_en": [
-        "national"
+        "those"
       ]
     },
     {
