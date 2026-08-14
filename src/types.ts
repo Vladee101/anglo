@@ -58,7 +58,24 @@ export interface ManifestEntry {
   file: string
 }
 
-export type Manifest = Record<Mode, ManifestEntry[]>
+export type Manifest = Record<Mode, ManifestEntry[]> & { dictionary: ManifestEntry[] }
+
+/** One word/phrase reference card in a dictionary lesson. */
+export interface DictionaryEntry {
+  id: string
+  en: string
+  meaning_ru: string
+  example_en: string
+  example_ru: string
+  mistakes_ru: string
+}
+
+/** A read-only reference lesson (bound to a chain/drill topic), not a quiz. */
+export interface Dictionary {
+  id: string
+  title_ru: string
+  entries: DictionaryEntry[]
+}
 
 export interface ExerciseResult {
   correct: boolean

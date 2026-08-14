@@ -1,0 +1,806 @@
+{
+  "id": "nouns",
+  "title_ru": "Словарь: существительные",
+  "entries": [
+    {
+      "id": "nouns.1",
+      "en": "time",
+      "meaning_ru": "время (в общем смысле); также означает \"раз\" (three times)",
+      "example_en": "I don't have time today.",
+      "example_ru": "У меня сегодня нет времени.",
+      "mistakes_ru": "\"Time\" в значении \"время\" — неисчисляемое существительное, не используется с \"a/an\" и не имеет обычного множественного числа: \"I have no time\", а не \"a time\"."
+    },
+    {
+      "id": "nouns.2",
+      "en": "year",
+      "meaning_ru": "год",
+      "example_en": "I moved here last year.",
+      "example_ru": "Я переехал сюда в прошлом году.",
+      "mistakes_ru": "С \"last/next year\" артикль не нужен: \"last year\", а не \"the last year\"."
+    },
+    {
+      "id": "nouns.3",
+      "en": "people",
+      "meaning_ru": "люди (множественное число от \"person\")",
+      "example_en": "Many people were at the concert.",
+      "example_ru": "На концерте было много людей.",
+      "mistakes_ru": "\"People\" уже само по себе множественное число — не говорите \"peoples\" (кроме особого значения \"народы\"); глагол ставится во множественном числе: \"people are\", не \"people is\"."
+    },
+    {
+      "id": "nouns.4",
+      "en": "way",
+      "meaning_ru": "способ, путь; манера",
+      "example_en": "This is the best way to learn English.",
+      "example_ru": "Это лучший способ выучить английский.",
+      "mistakes_ru": "\"By the way\" — устойчивое выражение \"кстати\", не переводите дословно."
+    },
+    {
+      "id": "nouns.5",
+      "en": "day",
+      "meaning_ru": "день",
+      "example_en": "I go for a walk every day.",
+      "example_ru": "Я гуляю каждый день.",
+      "mistakes_ru": "Не путайте \"every day\" (наречие, раздельно) с \"everyday\" (прилагательное, слитно: \"everyday life\")."
+    },
+    {
+      "id": "nouns.6",
+      "en": "man",
+      "meaning_ru": "мужчина; человек (в общем смысле)",
+      "example_en": "That man is my neighbor.",
+      "example_ru": "Этот мужчина — мой сосед.",
+      "mistakes_ru": "Множественное число неправильное: \"men\", а не \"mans\"."
+    },
+    {
+      "id": "nouns.7",
+      "en": "thing",
+      "meaning_ru": "вещь, предмет",
+      "example_en": "I need to buy a few things.",
+      "example_ru": "Мне нужно купить несколько вещей.",
+      "mistakes_ru": "\"Things\" во множественном числе часто означает \"дела, обстоятельства\": \"How are things?\" — Как дела?"
+    },
+    {
+      "id": "nouns.8",
+      "en": "woman",
+      "meaning_ru": "женщина",
+      "example_en": "She is a strong woman.",
+      "example_ru": "Она сильная женщина.",
+      "mistakes_ru": "Множественное число неправильное и меняет произношение: \"women\", а не \"womans\"."
+    },
+    {
+      "id": "nouns.9",
+      "en": "life",
+      "meaning_ru": "жизнь",
+      "example_en": "I love my life.",
+      "example_ru": "Я люблю свою жизнь.",
+      "mistakes_ru": "Множественное число \"lives\" (не \"lifes\") — с изменением \"f\" на \"v\"."
+    },
+    {
+      "id": "nouns.10",
+      "en": "child",
+      "meaning_ru": "ребёнок",
+      "example_en": "The child is playing in the garden.",
+      "example_ru": "Ребёнок играет в саду.",
+      "mistakes_ru": "Неправильное множественное число: \"children\", а не \"childs\" или \"childrens\"."
+    },
+    {
+      "id": "nouns.11",
+      "en": "world",
+      "meaning_ru": "мир, свет (планета)",
+      "example_en": "She has traveled around the world.",
+      "example_ru": "Она путешествовала по всему миру.",
+      "mistakes_ru": "\"The world\" почти всегда с определённым артиклем, так как мир один: \"in the world\", а не \"in world\"."
+    },
+    {
+      "id": "nouns.12",
+      "en": "school",
+      "meaning_ru": "школа",
+      "example_en": "My children go to school by bus.",
+      "example_ru": "Мои дети ездят в школу на автобусе.",
+      "mistakes_ru": "\"Go to school\" (учиться, без артикля) отличается от \"go to the school\" (пойти в конкретное здание школы)."
+    },
+    {
+      "id": "nouns.13",
+      "en": "state",
+      "meaning_ru": "государство; штат; состояние",
+      "example_en": "California is a state in the USA.",
+      "example_ru": "Калифорния — это штат в США.",
+      "mistakes_ru": "Не путайте с \"country\" (страна) — \"state\" чаще используется для штата или формального понятия государства."
+    },
+    {
+      "id": "nouns.14",
+      "en": "family",
+      "meaning_ru": "семья",
+      "example_en": "I spend a lot of time with my family.",
+      "example_ru": "Я провожу много времени с семьёй.",
+      "mistakes_ru": "\"Family\" может согласовываться и в единственном числе (\"my family is here\"), и во множественном в британском английском (\"my family are here\")."
+    },
+    {
+      "id": "nouns.15",
+      "en": "student",
+      "meaning_ru": "студент, учащийся",
+      "example_en": "She is a university student.",
+      "example_ru": "Она студентка университета.",
+      "mistakes_ru": "В английском \"student\" используется и для школьников, и для студентов вузов — шире, чем в русском."
+    },
+    {
+      "id": "nouns.16",
+      "en": "group",
+      "meaning_ru": "группа",
+      "example_en": "We work in a small group.",
+      "example_ru": "Мы работаем в маленькой группе.",
+      "mistakes_ru": "\"A group of people\" — с предлогом \"of\" перед исчисляемым существительным во множественном числе."
+    },
+    {
+      "id": "nouns.17",
+      "en": "country",
+      "meaning_ru": "страна",
+      "example_en": "Russia is a very big country.",
+      "example_ru": "Россия — очень большая страна.",
+      "mistakes_ru": "Не путайте с \"nation\" (нация/народ) — \"country\" обычно про территорию/государство."
+    },
+    {
+      "id": "nouns.18",
+      "en": "problem",
+      "meaning_ru": "проблема",
+      "example_en": "We have a small problem.",
+      "example_ru": "У нас небольшая проблема.",
+      "mistakes_ru": "\"No problem\" — устойчивое выражение \"не за что/без проблем\"."
+    },
+    {
+      "id": "nouns.19",
+      "en": "hand",
+      "meaning_ru": "рука (кисть)",
+      "example_en": "She held my hand.",
+      "example_ru": "Она держала меня за руку.",
+      "mistakes_ru": "Не путайте с \"arm\" — \"hand\" это кисть руки, \"arm\" — рука целиком (от плеча до кисти)."
+    },
+    {
+      "id": "nouns.20",
+      "en": "part",
+      "meaning_ru": "часть",
+      "example_en": "This is the best part of the movie.",
+      "example_ru": "Это лучшая часть фильма.",
+      "mistakes_ru": "\"Take part in something\" — устойчивое выражение \"принимать участие в чём-то\", а не \"take part on\"."
+    },
+    {
+      "id": "nouns.21",
+      "en": "place",
+      "meaning_ru": "место",
+      "example_en": "This is a beautiful place.",
+      "example_ru": "Это красивое место.",
+      "mistakes_ru": "\"Take place\" — идиома \"происходить, случаться\" (о событии), не переводите дословно."
+    },
+    {
+      "id": "nouns.22",
+      "en": "case",
+      "meaning_ru": "случай; дело (юридическое)",
+      "example_en": "In this case, we need more time.",
+      "example_ru": "В этом случае нам нужно больше времени.",
+      "mistakes_ru": "\"In case\" (на случай, если) отличается по смыслу от \"in this case\" (в этом случае) — частая путаница."
+    },
+    {
+      "id": "nouns.23",
+      "en": "week",
+      "meaning_ru": "неделя",
+      "example_en": "I see her twice a week.",
+      "example_ru": "Я вижусь с ней два раза в неделю.",
+      "mistakes_ru": "\"Twice a week\" — с неопределённым артиклем \"a\" в значении \"в неделю\", а не \"twice in week\"."
+    },
+    {
+      "id": "nouns.24",
+      "en": "company",
+      "meaning_ru": "компания (фирма); компания (общество людей)",
+      "example_en": "She works for a big company.",
+      "example_ru": "Она работает в большой компании.",
+      "mistakes_ru": "\"Company\" в значении \"фирма\" исчисляемое (\"a company\"), а в значении \"общение\" — неисчисляемое: \"I enjoy his company\" (без артикля)."
+    },
+    {
+      "id": "nouns.25",
+      "en": "system",
+      "meaning_ru": "система",
+      "example_en": "The new system works well.",
+      "example_ru": "Новая система работает хорошо.",
+      "mistakes_ru": "Не забывайте артикль перед конкретной системой: \"the system\", если речь о чём-то определённом."
+    },
+    {
+      "id": "nouns.26",
+      "en": "program",
+      "meaning_ru": "программа",
+      "example_en": "I watched an interesting program.",
+      "example_ru": "Я посмотрел интересную программу.",
+      "mistakes_ru": "В британском английском для передач иногда пишут \"programme\", но \"program\" универсально верно, особенно в американском варианте."
+    },
+    {
+      "id": "nouns.27",
+      "en": "question",
+      "meaning_ru": "вопрос",
+      "example_en": "Can I ask a question?",
+      "example_ru": "Могу я задать вопрос?",
+      "mistakes_ru": "\"Ask a question\" — правильный глагол \"ask\", а не \"make a question\" (калька с других языков)."
+    },
+    {
+      "id": "nouns.28",
+      "en": "work",
+      "meaning_ru": "работа (процесс, деятельность)",
+      "example_en": "I have a lot of work to do.",
+      "example_ru": "У меня много работы.",
+      "mistakes_ru": "\"Work\" в значении \"работа как деятельность\" — неисчисляемое: \"much work\", а не \"many works\"; для должности используйте \"job\"."
+    },
+    {
+      "id": "nouns.29",
+      "en": "government",
+      "meaning_ru": "правительство",
+      "example_en": "The government made a new decision.",
+      "example_ru": "Правительство приняло новое решение.",
+      "mistakes_ru": "В британском английском \"government\" может согласовываться с глаголом во множественном числе (\"the government are\"), в американском — в единственном."
+    },
+    {
+      "id": "nouns.30",
+      "en": "number",
+      "meaning_ru": "число, количество; номер",
+      "example_en": "What's your phone number?",
+      "example_ru": "Какой у тебя номер телефона?",
+      "mistakes_ru": "\"A number of\" означает \"несколько/ряд\" и требует глагола во множественном числе: \"a number of people are here\"."
+    },
+    {
+      "id": "nouns.31",
+      "en": "night",
+      "meaning_ru": "ночь",
+      "example_en": "I couldn't sleep last night.",
+      "example_ru": "Я не мог уснуть прошлой ночью.",
+      "mistakes_ru": "\"Last night\" (без артикля) означает \"прошлой ночью/вчера вечером\" — устойчивое выражение."
+    },
+    {
+      "id": "nouns.32",
+      "en": "point",
+      "meaning_ru": "точка; суть, смысл, момент",
+      "example_en": "I see your point.",
+      "example_ru": "Я понимаю твою мысль.",
+      "mistakes_ru": "\"There's no point in doing something\" — идиома \"нет смысла что-то делать\", с герундием после \"in\"."
+    },
+    {
+      "id": "nouns.33",
+      "en": "home",
+      "meaning_ru": "дом, домашний очаг",
+      "example_en": "I stayed home yesterday.",
+      "example_ru": "Вчера я остался дома.",
+      "mistakes_ru": "\"Go home\" / \"stay home\" — без предлога \"to\" и без артикля, в отличие от \"go to the house\"."
+    },
+    {
+      "id": "nouns.34",
+      "en": "water",
+      "meaning_ru": "вода",
+      "example_en": "Can I have some water?",
+      "example_ru": "Можно мне немного воды?",
+      "mistakes_ru": "Неисчисляемое существительное: не используется с \"a/an\": \"some water\", а не \"a water\"."
+    },
+    {
+      "id": "nouns.35",
+      "en": "room",
+      "meaning_ru": "комната; свободное место",
+      "example_en": "There isn't much room in this box.",
+      "example_ru": "В этой коробке немного места.",
+      "mistakes_ru": "\"Room\" в значении \"место, пространство\" — неисчисляемое (\"no room\"), а в значении \"комната\" — исчисляемое (\"a room\")."
+    },
+    {
+      "id": "nouns.36",
+      "en": "mother",
+      "meaning_ru": "мать, мама",
+      "example_en": "My mother is a doctor.",
+      "example_ru": "Моя мама — врач.",
+      "mistakes_ru": "С притяжательным местоимением артикль не нужен: \"my mother\", а не \"the my mother\"."
+    },
+    {
+      "id": "nouns.37",
+      "en": "area",
+      "meaning_ru": "область, район, зона; сфера",
+      "example_en": "This is a quiet area of the city.",
+      "example_ru": "Это тихий район города.",
+      "mistakes_ru": "Не путайте с \"region\" (более крупная территория) — \"area\" может быть любого масштаба."
+    },
+    {
+      "id": "nouns.38",
+      "en": "money",
+      "meaning_ru": "деньги",
+      "example_en": "I don't have much money.",
+      "example_ru": "У меня немного денег.",
+      "mistakes_ru": "Неисчисляемое существительное (в отличие от русского): \"much money\", а не \"many moneys\"; глагол в единственном числе: \"money is\"."
+    },
+    {
+      "id": "nouns.39",
+      "en": "story",
+      "meaning_ru": "рассказ, история (повествование)",
+      "example_en": "She told us an interesting story.",
+      "example_ru": "Она рассказала нам интересную историю.",
+      "mistakes_ru": "Не путайте с \"history\" (история как наука/прошлое) — \"story\" это именно повествование/рассказ."
+    },
+    {
+      "id": "nouns.40",
+      "en": "fact",
+      "meaning_ru": "факт",
+      "example_en": "It's a fact that the Earth is round.",
+      "example_ru": "Это факт, что Земля круглая.",
+      "mistakes_ru": "\"In fact\" — устойчивое выражение \"на самом деле\", без артикля."
+    },
+    {
+      "id": "nouns.41",
+      "en": "month",
+      "meaning_ru": "месяц",
+      "example_en": "We'll meet again next month.",
+      "example_ru": "Мы снова встретимся в следующем месяце.",
+      "mistakes_ru": "\"Next month\" / \"last month\" — без предлога \"in\": \"next month\", а не \"in next month\"."
+    },
+    {
+      "id": "nouns.42",
+      "en": "lot",
+      "meaning_ru": "множество, большое количество",
+      "example_en": "I have a lot of friends here.",
+      "example_ru": "У меня здесь много друзей.",
+      "mistakes_ru": "\"A lot of\" перед исчисляемыми и неисчисляемыми существительными одинаково: \"a lot of money\", \"a lot of people\"."
+    },
+    {
+      "id": "nouns.43",
+      "en": "right",
+      "meaning_ru": "право (юридическое/моральное)",
+      "example_en": "Everyone has the right to education.",
+      "example_ru": "Каждый имеет право на образование.",
+      "mistakes_ru": "Не путайте существительное \"right\" (право) с прилагательным \"right\" (правильный) — разные части речи, одно написание."
+    },
+    {
+      "id": "nouns.44",
+      "en": "study",
+      "meaning_ru": "исследование; изучение",
+      "example_en": "This study shows interesting results.",
+      "example_ru": "Это исследование показывает интересные результаты.",
+      "mistakes_ru": "Не путайте с глаголом \"to study\" (учиться/изучать) — здесь \"study\" существительное со значением \"исследование\"."
+    },
+    {
+      "id": "nouns.45",
+      "en": "book",
+      "meaning_ru": "книга",
+      "example_en": "I'm reading a new book.",
+      "example_ru": "Я читаю новую книгу.",
+      "mistakes_ru": "\"Book\" также используется как глагол \"бронировать\": \"book a table\" — не путайте части речи."
+    },
+    {
+      "id": "nouns.46",
+      "en": "eye",
+      "meaning_ru": "глаз",
+      "example_en": "She has beautiful blue eyes.",
+      "example_ru": "У неё красивые голубые глаза.",
+      "mistakes_ru": "Множественное число регулярное (\"eyes\"), но не забывайте его использовать, говоря о двух глазах: \"her eyes\", а не \"her eye\"."
+    },
+    {
+      "id": "nouns.47",
+      "en": "job",
+      "meaning_ru": "работа, должность",
+      "example_en": "I found a new job.",
+      "example_ru": "Я нашёл новую работу.",
+      "mistakes_ru": "\"Job\" — исчисляемое существительное (конкретная должность), в отличие от неисчисляемого \"work\" (работа как процесс): \"a job\", но \"some work\"."
+    },
+    {
+      "id": "nouns.48",
+      "en": "word",
+      "meaning_ru": "слово",
+      "example_en": "I don't know this word.",
+      "example_ru": "Я не знаю это слово.",
+      "mistakes_ru": "\"In other words\" — устойчивое выражение \"другими словами\", без артикля перед \"words\"."
+    },
+    {
+      "id": "nouns.49",
+      "en": "business",
+      "meaning_ru": "бизнес, дело, предпринимательство",
+      "example_en": "She runs her own business.",
+      "example_ru": "Она ведёт свой собственный бизнес.",
+      "mistakes_ru": "В значении \"предпринимательство в целом\" — неисчисляемое (\"business is good\"), а в значении \"конкретное предприятие\" — исчисляемое (\"a small business\")."
+    },
+    {
+      "id": "nouns.50",
+      "en": "issue",
+      "meaning_ru": "тема, спорный вопрос, проблема",
+      "example_en": "This is an important issue to discuss.",
+      "example_ru": "Это важная тема для обсуждения.",
+      "mistakes_ru": "Не путайте с \"problem\" — \"issue\" часто более нейтрально, просто \"вопрос/тема\", не обязательно что-то плохое."
+    },
+    {
+      "id": "nouns.51",
+      "en": "side",
+      "meaning_ru": "сторона",
+      "example_en": "Which side are you on?",
+      "example_ru": "На чьей ты стороне?",
+      "mistakes_ru": "\"On the other hand\" (с другой стороны, в переносном смысле) — устойчивое выражение, не используйте \"side\" в этом контексте."
+    },
+    {
+      "id": "nouns.52",
+      "en": "kind",
+      "meaning_ru": "вид, тип, разновидность",
+      "example_en": "What kind of music do you like?",
+      "example_ru": "Какой вид музыки тебе нравится?",
+      "mistakes_ru": "\"Kind of\" в разговорной речи также означает \"вроде, как бы\": \"I'm kind of tired\" — я вроде как устал."
+    },
+    {
+      "id": "nouns.53",
+      "en": "head",
+      "meaning_ru": "голова; глава, руководитель",
+      "example_en": "He is the head of the department.",
+      "example_ru": "Он глава отдела.",
+      "mistakes_ru": "\"Head\" как \"руководитель\" — исчисляемое существительное: \"the head of the company\"."
+    },
+    {
+      "id": "nouns.54",
+      "en": "house",
+      "meaning_ru": "дом (здание)",
+      "example_en": "They bought a new house.",
+      "example_ru": "Они купили новый дом.",
+      "mistakes_ru": "Не путайте с \"home\" — \"house\" это физическое здание, \"home\" — дом как понятие уюта/семьи."
+    },
+    {
+      "id": "nouns.55",
+      "en": "service",
+      "meaning_ru": "услуга, обслуживание",
+      "example_en": "The service in this restaurant is excellent.",
+      "example_ru": "Обслуживание в этом ресторане отличное.",
+      "mistakes_ru": "В значении \"обслуживание\" — неисчисляемое (\"good service\"), в значении \"конкретная услуга\" — исчисляемое (\"many services\")."
+    },
+    {
+      "id": "nouns.56",
+      "en": "friend",
+      "meaning_ru": "друг, подруга",
+      "example_en": "She is my best friend.",
+      "example_ru": "Она моя лучшая подруга.",
+      "mistakes_ru": "\"Friend\" не имеет рода в английском — одно слово и для друга, и для подруги, в отличие от русского."
+    },
+    {
+      "id": "nouns.57",
+      "en": "father",
+      "meaning_ru": "отец, папа",
+      "example_en": "My father works as an engineer.",
+      "example_ru": "Мой отец работает инженером.",
+      "mistakes_ru": "С притяжательным местоимением артикль не нужен: \"my father\", а не \"the my father\"."
+    },
+    {
+      "id": "nouns.58",
+      "en": "power",
+      "meaning_ru": "сила, мощь; власть, полномочия",
+      "example_en": "Knowledge is power.",
+      "example_ru": "Знание — сила.",
+      "mistakes_ru": "В значении \"власть\" часто неисчисляемое (\"political power\"), в значении \"держава\" может быть исчисляемым (\"a world power\")."
+    },
+    {
+      "id": "nouns.59",
+      "en": "hour",
+      "meaning_ru": "час",
+      "example_en": "The meeting lasted an hour.",
+      "example_ru": "Встреча длилась час.",
+      "mistakes_ru": "Перед \"hour\" ставится артикль \"an\", а не \"a\", так как буква \"h\" не произносится: \"an hour\"."
+    },
+    {
+      "id": "nouns.60",
+      "en": "game",
+      "meaning_ru": "игра",
+      "example_en": "Let's play a game.",
+      "example_ru": "Давай сыграем в игру.",
+      "mistakes_ru": "Названия видов спорта используются без артикля: \"play football\", но \"watch a game\" (конкретный матч) — с артиклем."
+    },
+    {
+      "id": "nouns.61",
+      "en": "line",
+      "meaning_ru": "линия; очередь (амер. англ.)",
+      "example_en": "Please stand in line.",
+      "example_ru": "Пожалуйста, встаньте в очередь.",
+      "mistakes_ru": "В британском английском \"очередь\" — \"queue\", а не \"line\" — региональное различие."
+    },
+    {
+      "id": "nouns.62",
+      "en": "end",
+      "meaning_ru": "конец, окончание",
+      "example_en": "I'll see you at the end of the day.",
+      "example_ru": "Увидимся в конце дня.",
+      "mistakes_ru": "\"In the end\" (в конце концов, в итоге) отличается от \"at the end\" (в конце чего-то конкретного)."
+    },
+    {
+      "id": "nouns.63",
+      "en": "member",
+      "meaning_ru": "участник, член (группы, организации)",
+      "example_en": "She is a member of the club.",
+      "example_ru": "Она член клуба.",
+      "mistakes_ru": "\"Member of\" — с предлогом \"of\" перед группой/организацией: \"a member of the team\"."
+    },
+    {
+      "id": "nouns.64",
+      "en": "law",
+      "meaning_ru": "закон",
+      "example_en": "It's against the law to do that.",
+      "example_ru": "Делать это противозаконно.",
+      "mistakes_ru": "В значении \"право как система\" — неисчисляемое (\"study law\"), в значении \"конкретный закон\" — исчисляемое (\"a new law\")."
+    },
+    {
+      "id": "nouns.65",
+      "en": "car",
+      "meaning_ru": "машина, автомобиль",
+      "example_en": "I bought a new car last month.",
+      "example_ru": "В прошлом месяце я купил новую машину.",
+      "mistakes_ru": "\"By car\" (на машине) — без артикля, как и с другими видами транспорта: \"by bus\", \"by train\"."
+    },
+    {
+      "id": "nouns.66",
+      "en": "city",
+      "meaning_ru": "город (крупный)",
+      "example_en": "New York is a huge city.",
+      "example_ru": "Нью-Йорк — огромный город.",
+      "mistakes_ru": "Не путайте с \"town\" (небольшой город/посёлок) — \"city\" обычно крупнее и более формально."
+    },
+    {
+      "id": "nouns.67",
+      "en": "community",
+      "meaning_ru": "сообщество, община",
+      "example_en": "We live in a friendly community.",
+      "example_ru": "Мы живём в дружном сообществе.",
+      "mistakes_ru": "\"Community\" может согласовываться и в единственном, и во множественном числе в зависимости от контекста."
+    },
+    {
+      "id": "nouns.68",
+      "en": "name",
+      "meaning_ru": "имя, название",
+      "example_en": "What's your name?",
+      "example_ru": "Как тебя зовут?",
+      "mistakes_ru": "\"My name is...\" — стандартная форма представления, не переводите дословно как \"меня называют\"."
+    },
+    {
+      "id": "nouns.69",
+      "en": "president",
+      "meaning_ru": "президент",
+      "example_en": "The president gave a speech today.",
+      "example_ru": "Президент выступил с речью сегодня.",
+      "mistakes_ru": "Пишется с заглавной буквы, только если используется как титул перед именем: \"President Biden\", но \"the president\" — со строчной."
+    },
+    {
+      "id": "nouns.70",
+      "en": "team",
+      "meaning_ru": "команда",
+      "example_en": "Our team won the championship.",
+      "example_ru": "Наша команда выиграла чемпионат.",
+      "mistakes_ru": "Как и \"family\", \"team\" может согласовываться с глаголом и в единственном, и во множественном числе в британском английском."
+    },
+    {
+      "id": "nouns.71",
+      "en": "minute",
+      "meaning_ru": "минута",
+      "example_en": "Wait a minute, please.",
+      "example_ru": "Подожди минуту, пожалуйста.",
+      "mistakes_ru": "\"Minute\" как существительное (минута) произносится иначе, чем прилагательное \"minute\" (крошечный) — омографы с разным ударением."
+    },
+    {
+      "id": "nouns.72",
+      "en": "idea",
+      "meaning_ru": "идея, мысль",
+      "example_en": "That's a great idea!",
+      "example_ru": "Это отличная идея!",
+      "mistakes_ru": "\"I have no idea\" — устойчивое выражение \"понятия не имею\", а не \"I don't have an idea\"."
+    },
+    {
+      "id": "nouns.73",
+      "en": "body",
+      "meaning_ru": "тело; организация, орган",
+      "example_en": "Exercise is good for your body.",
+      "example_ru": "Физические упражнения полезны для тела.",
+      "mistakes_ru": "\"Body\" также означает \"организация, орган\" в формальном контексте: \"a governing body\" — руководящий орган."
+    },
+    {
+      "id": "nouns.74",
+      "en": "information",
+      "meaning_ru": "информация",
+      "example_en": "I need more information about this.",
+      "example_ru": "Мне нужно больше информации об этом.",
+      "mistakes_ru": "Неисчисляемое существительное — не используется во множественном числе: \"some information\", а не \"informations\"."
+    },
+    {
+      "id": "nouns.75",
+      "en": "back",
+      "meaning_ru": "спина",
+      "example_en": "My back hurts today.",
+      "example_ru": "У меня сегодня болит спина.",
+      "mistakes_ru": "\"Back\" также широко используется как наречие (\"come back\") и прилагательное (\"the back door\") — не путайте части речи."
+    },
+    {
+      "id": "nouns.76",
+      "en": "parent",
+      "meaning_ru": "родитель (мать или отец)",
+      "example_en": "Both of my parents are teachers.",
+      "example_ru": "Оба моих родителя учителя.",
+      "mistakes_ru": "Множественное число \"parents\" обычно означает \"родители\" (мать и отец вместе), единственное \"a parent\" — один из них."
+    },
+    {
+      "id": "nouns.77",
+      "en": "face",
+      "meaning_ru": "лицо",
+      "example_en": "She has a kind face.",
+      "example_ru": "У неё доброе лицо.",
+      "mistakes_ru": "\"Face\" также используется как глагол \"сталкиваться (с проблемой)\": \"face a problem\" — не путайте части речи."
+    },
+    {
+      "id": "nouns.78",
+      "en": "level",
+      "meaning_ru": "уровень",
+      "example_en": "My English is at an intermediate level.",
+      "example_ru": "Мой английский на среднем уровне.",
+      "mistakes_ru": "\"At a ... level\" — с предлогом \"at\" для обозначения уровня: \"at a high level\", а не \"on a high level\"."
+    },
+    {
+      "id": "nouns.79",
+      "en": "office",
+      "meaning_ru": "офис, кабинет",
+      "example_en": "I work in an office downtown.",
+      "example_ru": "Я работаю в офисе в центре города.",
+      "mistakes_ru": "\"At the office\" (в офисе, на работе) — устойчивое выражение с предлогом \"at\"."
+    },
+    {
+      "id": "nouns.80",
+      "en": "door",
+      "meaning_ru": "дверь",
+      "example_en": "Please close the door.",
+      "example_ru": "Пожалуйста, закрой дверь.",
+      "mistakes_ru": "\"Next door\" (по соседству) — устойчивое выражение без артикля: \"the neighbor next door\"."
+    },
+    {
+      "id": "nouns.81",
+      "en": "health",
+      "meaning_ru": "здоровье",
+      "example_en": "Regular exercise is good for your health.",
+      "example_ru": "Регулярные упражнения полезны для здоровья.",
+      "mistakes_ru": "Неисчисляемое существительное, не используется с артиклем \"a\": \"good health\", а не \"a good health\"."
+    },
+    {
+      "id": "nouns.82",
+      "en": "person",
+      "meaning_ru": "человек (отдельный индивид)",
+      "example_en": "She is a very kind person.",
+      "example_ru": "Она очень добрый человек.",
+      "mistakes_ru": "Множественное число обычно \"people\", а не \"persons\" (последнее только в официальном/юридическом стиле)."
+    },
+    {
+      "id": "nouns.83",
+      "en": "art",
+      "meaning_ru": "искусство",
+      "example_en": "She studies art at university.",
+      "example_ru": "Она изучает искусство в университете.",
+      "mistakes_ru": "В общем значении неисчисляемое (\"modern art\"), но \"an art\" возможно в значении \"мастерство в чём-то\": \"cooking is an art\"."
+    },
+    {
+      "id": "nouns.84",
+      "en": "war",
+      "meaning_ru": "война",
+      "example_en": "The country was at war for many years.",
+      "example_ru": "Страна находилась в состоянии войны много лет.",
+      "mistakes_ru": "\"At war\" (в состоянии войны) — устойчивое выражение без артикля."
+    },
+    {
+      "id": "nouns.85",
+      "en": "history",
+      "meaning_ru": "история (наука, прошлое)",
+      "example_en": "I love studying history.",
+      "example_ru": "Я люблю изучать историю.",
+      "mistakes_ru": "Не путайте со \"story\" (рассказ, повествование) — это разные слова с разным значением."
+    },
+    {
+      "id": "nouns.86",
+      "en": "party",
+      "meaning_ru": "вечеринка; партия (политическая)",
+      "example_en": "We're having a party this weekend.",
+      "example_ru": "У нас будет вечеринка в эти выходные.",
+      "mistakes_ru": "Не путайте значения — \"political party\" и \"birthday party\" используют одно и то же слово."
+    },
+    {
+      "id": "nouns.87",
+      "en": "result",
+      "meaning_ru": "результат",
+      "example_en": "I'm happy with the test result.",
+      "example_ru": "Я доволен результатом теста.",
+      "mistakes_ru": "\"As a result\" — устойчивое выражение \"в результате\", без артикля."
+    },
+    {
+      "id": "nouns.88",
+      "en": "change",
+      "meaning_ru": "изменение; сдача (деньги)",
+      "example_en": "There has been a big change in the weather.",
+      "example_ru": "Произошло большое изменение погоды.",
+      "mistakes_ru": "\"Change\" в значении \"сдача\" — неисчисляемое: \"keep the change\" (оставь сдачу себе)."
+    },
+    {
+      "id": "nouns.89",
+      "en": "morning",
+      "meaning_ru": "утро",
+      "example_en": "I go for a run every morning.",
+      "example_ru": "Я бегаю каждое утро.",
+      "mistakes_ru": "\"In the morning\" (утром) — с предлогом \"in\", в отличие от \"at night\" (ночью, с предлогом \"at\")."
+    },
+    {
+      "id": "nouns.90",
+      "en": "reason",
+      "meaning_ru": "причина",
+      "example_en": "What's the reason for this decision?",
+      "example_ru": "Какая причина этого решения?",
+      "mistakes_ru": "\"The reason why\" допустимо, но чаще используется просто \"the reason (that)\": \"the reason he left\"."
+    },
+    {
+      "id": "nouns.91",
+      "en": "research",
+      "meaning_ru": "исследование, научная работа",
+      "example_en": "She does research in medicine.",
+      "example_ru": "Она занимается исследованиями в медицине.",
+      "mistakes_ru": "Неисчисляемое существительное — не говорите \"a research\" или \"researches\": \"some research\", \"a piece of research\"."
+    },
+    {
+      "id": "nouns.92",
+      "en": "girl",
+      "meaning_ru": "девочка, девушка",
+      "example_en": "The girl is reading a book.",
+      "example_ru": "Девочка читает книгу.",
+      "mistakes_ru": "Не путайте с \"girlfriend\" (подруга, возлюбленная) — разные по значению слова."
+    },
+    {
+      "id": "nouns.93",
+      "en": "guy",
+      "meaning_ru": "парень, чувак (разговорное)",
+      "example_en": "He's a nice guy.",
+      "example_ru": "Он хороший парень.",
+      "mistakes_ru": "Во множественном числе \"guys\" часто используется как неформальное обращение к группе людей любого пола: \"Hey, guys!\""
+    },
+    {
+      "id": "nouns.94",
+      "en": "moment",
+      "meaning_ru": "момент, мгновение",
+      "example_en": "Wait a moment, please.",
+      "example_ru": "Подожди минутку, пожалуйста.",
+      "mistakes_ru": "\"At the moment\" — устойчивое выражение \"сейчас, в данный момент\", а не \"in the moment\" (другой смысл)."
+    },
+    {
+      "id": "nouns.95",
+      "en": "air",
+      "meaning_ru": "воздух",
+      "example_en": "The air here is very clean.",
+      "example_ru": "Воздух здесь очень чистый.",
+      "mistakes_ru": "Неисчисляемое существительное: \"fresh air\", а не \"a fresh air\"."
+    },
+    {
+      "id": "nouns.96",
+      "en": "teacher",
+      "meaning_ru": "учитель, преподаватель",
+      "example_en": "My teacher is very patient.",
+      "example_ru": "Мой учитель очень терпеливый.",
+      "mistakes_ru": "Не забывайте артикль перед профессией: \"She is a teacher\", а не \"She is teacher\"."
+    },
+    {
+      "id": "nouns.97",
+      "en": "force",
+      "meaning_ru": "сила, мощь; (во мн.ч.) вооружённые силы",
+      "example_en": "The force of the wind was incredible.",
+      "example_ru": "Сила ветра была невероятной.",
+      "mistakes_ru": "Во множественном числе \"forces\" часто означает \"вооружённые силы\": \"the armed forces\"."
+    },
+    {
+      "id": "nouns.98",
+      "en": "education",
+      "meaning_ru": "образование",
+      "example_en": "Education is very important.",
+      "example_ru": "Образование очень важно.",
+      "mistakes_ru": "Неисчисляемое существительное — не используется с \"a\" и не имеет множественного числа: \"good education\"."
+    },
+    {
+      "id": "nouns.99",
+      "en": "society",
+      "meaning_ru": "общество",
+      "example_en": "We live in a modern society.",
+      "example_ru": "Мы живём в современном обществе.",
+      "mistakes_ru": "В значении \"общество в целом\" может быть неисчисляемым (\"society today\"), в значении \"организация\" — исчисляемым (\"a historical society\")."
+    },
+    {
+      "id": "nouns.100",
+      "en": "experience",
+      "meaning_ru": "опыт",
+      "example_en": "I have five years of experience in teaching.",
+      "example_ru": "У меня пять лет опыта преподавания.",
+      "mistakes_ru": "В значении \"опыт вообще\" — неисчисляемое (\"work experience\"), в значении \"конкретный случай\" — исчисляемое (\"an unforgettable experience\")."
+    }
+  ]
+}

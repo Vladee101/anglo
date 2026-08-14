@@ -308,6 +308,52 @@ button.subtle {
   text-align: left;
 }
 
+/* dictionary screen */
+.dict-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.dict-card {
+  padding: 12px;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #e0e4ea;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.dict-word {
+  font-size: 1.2rem;
+}
+
+.dict-meaning {
+  margin: 0;
+  font-weight: 600;
+}
+
+.dict-example {
+  margin: 0;
+}
+
+.dict-example-en {
+  font-style: italic;
+}
+
+.dict-mistakes {
+  margin: 0;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #fff4d6;
+  color: #8a5a00;
+  border: 1px solid #eed693;
+}
+
 /* login screen */
 .login-form {
   display: flex;

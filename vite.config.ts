@@ -7,16 +7,20 @@ import { fileURLToPath } from 'node:url'
 const root = dirname(fileURLToPath(import.meta.url))
 const CHAINS_DIR = join(root, 'chains')
 const DRILLS_DIR = join(root, 'drills')
+const DICTIONARY_DIR = join(root, 'dictionary')
 const PUBLIC_DIR = join(root, 'public')
 
-// Plain copy step: chains/*.json (and drills/*.json) -> public/ so the app
-// can fetch them at runtime. Runs whenever this config loads (dev, build,
-// preview, test).
+// Plain copy step: chains/*.json (and drills/*.json, dictionary/*.json) ->
+// public/ so the app can fetch them at runtime. Runs whenever this config
+// loads (dev, build, preview, test).
 mkdirSync(join(PUBLIC_DIR, 'chains'), { recursive: true })
 cpSync(CHAINS_DIR, join(PUBLIC_DIR, 'chains'), { recursive: true })
 
 mkdirSync(join(PUBLIC_DIR, 'drills'), { recursive: true })
 if (existsSync(DRILLS_DIR)) cpSync(DRILLS_DIR, join(PUBLIC_DIR, 'drills'), { recursive: true })
+
+mkdirSync(join(PUBLIC_DIR, 'dictionary'), { recursive: true })
+if (existsSync(DICTIONARY_DIR)) cpSync(DICTIONARY_DIR, join(PUBLIC_DIR, 'dictionary'), { recursive: true })
 
 interface ManifestEntry {
   id: string
@@ -32,15 +36,17 @@ function readJsonFiles(dir: string): { data: Record<string, unknown>; file: stri
 }
 
 // Build a manifest of available content per mode, since a static app can't
-// list a directory at runtime. Buckets: "mixed" (from chains/*.json) and
+// list a directory at runtime. Buckets: "mixed" (from chains/*.json),
 // "read"/"listen"/"write"/"speak" (from drills/*.json, grouped by each
-// file's own `modality` field).
+// file's own `modality` field), and "dictionary" (from dictionary/*.json,
+// read-only reference lessons, not a quiz mode).
 const manifest: Record<string, ManifestEntry[]> = {
   mixed: [],
   read: [],
   listen: [],
   write: [],
   speak: [],
+  dictionary: [],
 }
 
 for (const { data: chain, file } of readJsonFiles(CHAINS_DIR)) {
@@ -57,6 +63,14 @@ for (const { data: drill, file } of readJsonFiles(DRILLS_DIR)) {
     id: drill.id as string,
     title_ru: drill.title_ru as string,
     file: `drills/${file}`,
+  })
+}
+
+for (const { data: dict, file } of readJsonFiles(DICTIONARY_DIR)) {
+  manifest.dictionary.push({
+    id: dict.id as string,
+    title_ru: dict.title_ru as string,
+    file: `dictionary/${file}`,
   })
 }
 

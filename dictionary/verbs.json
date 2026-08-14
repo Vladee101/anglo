@@ -1,0 +1,806 @@
+{
+  "id": "verbs",
+  "title_ru": "Словарь: глаголы",
+  "entries": [
+    {
+      "id": "verbs.1",
+      "en": "be",
+      "meaning_ru": "быть, существовать; связка в составном именном сказуемом",
+      "example_en": "She is a teacher.",
+      "example_ru": "Она учительница.",
+      "mistakes_ru": "Русские часто пропускают \"be\" в настоящем времени по аналогии с русским (\"Она учительница\" без глагола) — в английском связка обязательна: \"She is a teacher\", не \"She teacher\"."
+    },
+    {
+      "id": "verbs.2",
+      "en": "have",
+      "meaning_ru": "иметь, обладать; также вспомогательный глагол перфекта",
+      "example_en": "I have two brothers.",
+      "example_ru": "У меня два брата.",
+      "mistakes_ru": "Не путайте смысловое \"have\" (иметь) со вспомогательным в \"have you got...?\"; в разговорном английском часто говорят \"I've got\" вместо \"I have\"."
+    },
+    {
+      "id": "verbs.3",
+      "en": "do",
+      "meaning_ru": "делать (общее действие); вспомогательный глагол для вопросов/отрицаний",
+      "example_en": "What do you do on weekends?",
+      "example_ru": "Что ты делаешь по выходным?",
+      "mistakes_ru": "Путают с \"make\": \"do homework\", \"do a favor\", но \"make a mistake\", \"make a decision\" — это нужно запоминать по отдельности, не по правилу."
+    },
+    {
+      "id": "verbs.4",
+      "en": "say",
+      "meaning_ru": "сказать, произнести (что-то)",
+      "example_en": "She said hello to me.",
+      "example_ru": "Она сказала мне привет.",
+      "mistakes_ru": "После \"say\" косвенное дополнение ставится с предлогом \"to\": верно \"say to me\", а не \"say me\" (в отличие от \"tell me\")."
+    },
+    {
+      "id": "verbs.5",
+      "en": "get",
+      "meaning_ru": "получать, доставать; становиться (get tired)",
+      "example_en": "I need to get some milk.",
+      "example_ru": "Мне нужно купить молока.",
+      "mistakes_ru": "Очень многозначный глагол — часто переводят одним словом \"получить\", но \"get tired\" = \"уставать\", \"get home\" = \"добираться домой\" — значение сильно зависит от контекста."
+    },
+    {
+      "id": "verbs.6",
+      "en": "make",
+      "meaning_ru": "делать, создавать, изготавливать",
+      "example_en": "She made a cake for the party.",
+      "example_ru": "Она испекла торт для вечеринки.",
+      "mistakes_ru": "\"Make someone do something\" — без \"to\": \"She made me wait\", а не \"made me to wait\"."
+    },
+    {
+      "id": "verbs.7",
+      "en": "go",
+      "meaning_ru": "идти, ехать, отправляться",
+      "example_en": "We go to school by bus.",
+      "example_ru": "Мы ездим в школу на автобусе.",
+      "mistakes_ru": "После \"go\" перед занятиями обычно ставится \"-ing\": \"go swimming\", \"go shopping\", а не \"go to swim\"."
+    },
+    {
+      "id": "verbs.8",
+      "en": "know",
+      "meaning_ru": "знать",
+      "example_en": "I know the answer.",
+      "example_ru": "Я знаю ответ.",
+      "mistakes_ru": "\"Know\" обычно не используется в Continuous (не \"I am knowing\"), так как это глагол состояния, а не действия."
+    },
+    {
+      "id": "verbs.9",
+      "en": "take",
+      "meaning_ru": "брать, взять",
+      "example_en": "Take your umbrella, it's raining.",
+      "example_ru": "Возьми зонт, идёт дождь.",
+      "mistakes_ru": "Путают с \"bring\": \"take\" — унести отсюда туда, \"bring\" — принести туда сюда, к говорящему."
+    },
+    {
+      "id": "verbs.10",
+      "en": "see",
+      "meaning_ru": "видеть",
+      "example_en": "I can see the mountains from here.",
+      "example_ru": "Отсюда я вижу горы.",
+      "mistakes_ru": "Как и \"know\", это глагол восприятия, обычно не употребляется в Continuous без изменения смысла (\"I'm seeing him\" = встречаюсь с ним, а не \"вижу прямо сейчас\")."
+    },
+    {
+      "id": "verbs.11",
+      "en": "come",
+      "meaning_ru": "приходить, приезжать (по направлению к говорящему)",
+      "example_en": "Can you come to my house tomorrow?",
+      "example_ru": "Ты можешь прийти ко мне завтра?",
+      "mistakes_ru": "Путают с \"go\": \"come\" используется, когда движение направлено к говорящему или к месту разговора, \"go\" — в остальных случаях."
+    },
+    {
+      "id": "verbs.12",
+      "en": "think",
+      "meaning_ru": "думать, считать",
+      "example_en": "I think it's a good idea.",
+      "example_ru": "Я думаю, это хорошая идея.",
+      "mistakes_ru": "В значении \"иметь мнение\" не используется в Continuous: \"I think so\", а не \"I am thinking so\"; Continuous возможен только для процесса обдумывания (\"I'm thinking about it\")."
+    },
+    {
+      "id": "verbs.13",
+      "en": "look",
+      "meaning_ru": "смотреть; выглядеть (look tired)",
+      "example_en": "She looks happy today.",
+      "example_ru": "Она сегодня выглядит счастливой.",
+      "mistakes_ru": "Путают с \"watch\" и \"see\": \"look at\" — намеренно посмотреть на что-то, \"see\" — просто видеть, \"watch\" — наблюдать за движущимся/меняющимся."
+    },
+    {
+      "id": "verbs.14",
+      "en": "want",
+      "meaning_ru": "хотеть",
+      "example_en": "I want to learn English.",
+      "example_ru": "Я хочу выучить английский.",
+      "mistakes_ru": "После \"want\" используется инфинитив с \"to\": \"want to do\", а не герундий \"want doing\"."
+    },
+    {
+      "id": "verbs.15",
+      "en": "give",
+      "meaning_ru": "давать",
+      "example_en": "Can you give me your phone number?",
+      "example_ru": "Ты можешь дать мне свой номер телефона?",
+      "mistakes_ru": "Порядок дополнений: \"give me the book\" или \"give the book to me\" — не \"give to me the book\"."
+    },
+    {
+      "id": "verbs.16",
+      "en": "use",
+      "meaning_ru": "использовать, пользоваться",
+      "example_en": "I use a dictionary to check new words.",
+      "example_ru": "Я пользуюсь словарём, чтобы проверять новые слова.",
+      "mistakes_ru": "Не путайте с выражением \"be used to\" (привыкнуть к чему-то) — это другая конструкция с иным смыслом."
+    },
+    {
+      "id": "verbs.17",
+      "en": "find",
+      "meaning_ru": "находить",
+      "example_en": "I can't find my keys.",
+      "example_ru": "Я не могу найти свои ключи.",
+      "mistakes_ru": "Путают с \"look for\" (искать): \"find\" — результат поиска (нашёл), \"look for\" — сам процесс (ищу)."
+    },
+    {
+      "id": "verbs.18",
+      "en": "tell",
+      "meaning_ru": "рассказывать, сообщать (кому-то)",
+      "example_en": "Tell me about your trip.",
+      "example_ru": "Расскажи мне о своей поездке.",
+      "mistakes_ru": "В отличие от \"say\", после \"tell\" всегда нужен объект без предлога: \"tell me\", а не \"tell to me\"."
+    },
+    {
+      "id": "verbs.19",
+      "en": "ask",
+      "meaning_ru": "спрашивать, просить",
+      "example_en": "Can I ask you a question?",
+      "example_ru": "Могу я задать тебе вопрос?",
+      "mistakes_ru": "\"Ask for something\" — просить что-то: \"ask for help\", а не \"ask help\"."
+    },
+    {
+      "id": "verbs.20",
+      "en": "work",
+      "meaning_ru": "работать; функционировать",
+      "example_en": "This machine doesn't work.",
+      "example_ru": "Эта машина не работает.",
+      "mistakes_ru": "Не путайте с \"job\" (существительное — конкретная должность/работа): \"I like my job\", но \"I work every day\"."
+    },
+    {
+      "id": "verbs.21",
+      "en": "seem",
+      "meaning_ru": "казаться",
+      "example_en": "She seems tired today.",
+      "example_ru": "Она сегодня кажется уставшей.",
+      "mistakes_ru": "После \"seem\" перед прилагательным не обязателен глагол \"be\": \"seem tired\" звучит естественнее, чем \"seem to be tired\"."
+    },
+    {
+      "id": "verbs.22",
+      "en": "feel",
+      "meaning_ru": "чувствовать (себя)",
+      "example_en": "I feel great today.",
+      "example_ru": "Я сегодня прекрасно себя чувствую.",
+      "mistakes_ru": "Не путайте с \"feel like doing\" (хотеть что-то сделать): \"I feel like eating pizza\" — я хочу пиццы."
+    },
+    {
+      "id": "verbs.23",
+      "en": "try",
+      "meaning_ru": "пытаться, пробовать",
+      "example_en": "Try to relax.",
+      "example_ru": "Постарайся расслабиться.",
+      "mistakes_ru": "\"Try to do\" (пытаться сделать) отличается от \"try doing\" (попробовать сделать по-другому, экспериментировать): \"try turning it off and on\"."
+    },
+    {
+      "id": "verbs.24",
+      "en": "leave",
+      "meaning_ru": "уходить, покидать; оставлять",
+      "example_en": "I leave home at 8 a.m.",
+      "example_ru": "Я выхожу из дома в 8 утра.",
+      "mistakes_ru": "Путают с \"forget\": \"leave something somewhere\" (забыть/оставить вещь где-то), а \"forget\" — просто не вспомнить о чём-то."
+    },
+    {
+      "id": "verbs.25",
+      "en": "call",
+      "meaning_ru": "звонить; называть",
+      "example_en": "I'll call you tonight.",
+      "example_ru": "Я позвоню тебе вечером.",
+      "mistakes_ru": "\"Call someone something\" без предлога: \"They call him Tom\", а не \"call him as Tom\"."
+    },
+    {
+      "id": "verbs.26",
+      "en": "need",
+      "meaning_ru": "нуждаться, быть должным",
+      "example_en": "I need some help with this.",
+      "example_ru": "Мне нужна помощь с этим.",
+      "mistakes_ru": "После \"need\" используется инфинитив с \"to\": \"need to go\", а не \"need going\" (кроме особой конструкции \"the car needs washing\")."
+    },
+    {
+      "id": "verbs.27",
+      "en": "become",
+      "meaning_ru": "становиться",
+      "example_en": "It's becoming colder.",
+      "example_ru": "Становится холоднее.",
+      "mistakes_ru": "После \"become\" не нужен предлог перед прилагательным/существительным: \"become a doctor\", а не \"become to a doctor\"."
+    },
+    {
+      "id": "verbs.28",
+      "en": "put",
+      "meaning_ru": "класть, ставить, помещать",
+      "example_en": "Put the book on the table.",
+      "example_ru": "Положи книгу на стол.",
+      "mistakes_ru": "\"Put\" — неправильный глагол с одинаковой формой во всех временах (put-put-put); часто ошибочно добавляют \"-ed\"."
+    },
+    {
+      "id": "verbs.29",
+      "en": "mean",
+      "meaning_ru": "означать, иметь в виду",
+      "example_en": "What does this word mean?",
+      "example_ru": "Что означает это слово?",
+      "mistakes_ru": "Не путайте с \"think\": \"mean\" — про смысл слова/намерение, \"think\" — про мнение."
+    },
+    {
+      "id": "verbs.30",
+      "en": "keep",
+      "meaning_ru": "хранить, держать; продолжать (keep doing)",
+      "example_en": "Keep the change.",
+      "example_ru": "Оставь сдачу себе.",
+      "mistakes_ru": "\"Keep doing something\" означает \"продолжать делать\" — после \"keep\" используется герундий, а не инфинитив: \"keep trying\", не \"keep to try\"."
+    },
+    {
+      "id": "verbs.31",
+      "en": "let",
+      "meaning_ru": "позволять, разрешать",
+      "example_en": "Let me help you.",
+      "example_ru": "Позволь мне тебе помочь.",
+      "mistakes_ru": "После \"let\" инфинитив без \"to\": \"let me go\", а не \"let me to go\"."
+    },
+    {
+      "id": "verbs.32",
+      "en": "begin",
+      "meaning_ru": "начинать",
+      "example_en": "The lesson begins at nine.",
+      "example_ru": "Урок начинается в девять.",
+      "mistakes_ru": "Взаимозаменяем с \"start\" в большинстве случаев, но \"begin\" немного более формален и не используется в некоторых устойчивых фразах, например \"start a car\" (не \"begin a car\")."
+    },
+    {
+      "id": "verbs.33",
+      "en": "help",
+      "meaning_ru": "помогать",
+      "example_en": "Can you help me with my homework?",
+      "example_ru": "Ты можешь помочь мне с домашним заданием?",
+      "mistakes_ru": "После \"help\" инфинитив можно использовать как с \"to\", так и без: \"help me (to) carry this\" — оба варианта верны."
+    },
+    {
+      "id": "verbs.34",
+      "en": "talk",
+      "meaning_ru": "разговаривать, беседовать",
+      "example_en": "Let's talk about your plans.",
+      "example_ru": "Давай поговорим о твоих планах.",
+      "mistakes_ru": "\"Talk to/with someone\" требует предлога, в отличие от \"tell someone\": \"talk to him\", а не \"talk him\"."
+    },
+    {
+      "id": "verbs.35",
+      "en": "turn",
+      "meaning_ru": "поворачивать(ся)",
+      "example_en": "Turn left at the corner.",
+      "example_ru": "Поверни налево на углу.",
+      "mistakes_ru": "\"Turn into something\" означает \"превратиться во что-то\", а не \"повернуть в направлении\" — это ложный друг переводчика."
+    },
+    {
+      "id": "verbs.36",
+      "en": "start",
+      "meaning_ru": "начать, запустить",
+      "example_en": "I start work at nine.",
+      "example_ru": "Я начинаю работать в девять.",
+      "mistakes_ru": "После \"start\" можно использовать и инфинитив, и герундий почти без разницы в значении: \"start to rain\" / \"start raining\"."
+    },
+    {
+      "id": "verbs.37",
+      "en": "show",
+      "meaning_ru": "показывать",
+      "example_en": "Show me your new phone.",
+      "example_ru": "Покажи мне свой новый телефон.",
+      "mistakes_ru": "Неправильный глагол: show-showed-shown, причастие прошедшего времени — \"shown\", а не \"showed\"."
+    },
+    {
+      "id": "verbs.38",
+      "en": "hear",
+      "meaning_ru": "слышать",
+      "example_en": "I heard a strange noise.",
+      "example_ru": "Я услышал странный шум.",
+      "mistakes_ru": "Путают с \"listen to\": \"hear\" — слышать непроизвольно, \"listen to\" — слушать целенаправленно."
+    },
+    {
+      "id": "verbs.39",
+      "en": "play",
+      "meaning_ru": "играть",
+      "example_en": "Children love to play outside.",
+      "example_ru": "Дети любят играть на улице.",
+      "mistakes_ru": "С видами спорта используется без артикля: \"play football\", а с музыкальными инструментами — с артиклем \"the\": \"play the guitar\"."
+    },
+    {
+      "id": "verbs.40",
+      "en": "run",
+      "meaning_ru": "бежать; управлять (бизнесом)",
+      "example_en": "She runs a small business.",
+      "example_ru": "Она управляет небольшим бизнесом.",
+      "mistakes_ru": "Многозначность — не только \"бежать\", но и \"работать/функционировать\" (the engine is running) и \"управлять\" (run a company)."
+    },
+    {
+      "id": "verbs.41",
+      "en": "move",
+      "meaning_ru": "двигаться, переезжать",
+      "example_en": "We moved to a new city last year.",
+      "example_ru": "В прошлом году мы переехали в новый город.",
+      "mistakes_ru": "\"Move\" в значении \"переезжать\" требует предлога \"to\": \"move to London\", а не \"move London\"."
+    },
+    {
+      "id": "verbs.42",
+      "en": "like",
+      "meaning_ru": "нравиться",
+      "example_en": "I like coffee in the morning.",
+      "example_ru": "Мне нравится кофе по утрам.",
+      "mistakes_ru": "В русском конструкция обратная (\"мне нравится\"), в английском подлежащее — тот, кому нравится: \"I like it\", а не \"Me likes it\"."
+    },
+    {
+      "id": "verbs.43",
+      "en": "live",
+      "meaning_ru": "жить",
+      "example_en": "They live in a small apartment.",
+      "example_ru": "Они живут в небольшой квартире.",
+      "mistakes_ru": "Место жительства указывается с предлогом \"in\" для городов/стран: \"live in Moscow\", а не \"live at Moscow\"."
+    },
+    {
+      "id": "verbs.44",
+      "en": "believe",
+      "meaning_ru": "верить, полагать",
+      "example_en": "I believe you.",
+      "example_ru": "Я тебе верю.",
+      "mistakes_ru": "\"Believe in something/someone\" (верить в существование/ценность) отличается от простого \"believe someone\" (верить чьим-то словам)."
+    },
+    {
+      "id": "verbs.45",
+      "en": "bring",
+      "meaning_ru": "приносить (по направлению к говорящему)",
+      "example_en": "Please bring your ID card.",
+      "example_ru": "Пожалуйста, принеси удостоверение личности.",
+      "mistakes_ru": "Путают с \"take\": \"bring\" — принести сюда, \"take\" — унести отсюда."
+    },
+    {
+      "id": "verbs.46",
+      "en": "happen",
+      "meaning_ru": "случаться, происходить",
+      "example_en": "What happened at the meeting?",
+      "example_ru": "Что произошло на встрече?",
+      "mistakes_ru": "У \"happen\" нет прямого дополнения — нельзя сказать \"happen something\", только \"something happens\"."
+    },
+    {
+      "id": "verbs.47",
+      "en": "write",
+      "meaning_ru": "писать",
+      "example_en": "I need to write an email.",
+      "example_ru": "Мне нужно написать письмо.",
+      "mistakes_ru": "Неправильный глагол: write-wrote-written; часто путают формы прошедшего времени и причастия."
+    },
+    {
+      "id": "verbs.48",
+      "en": "sit",
+      "meaning_ru": "сидеть",
+      "example_en": "Please sit down.",
+      "example_ru": "Пожалуйста, садитесь.",
+      "mistakes_ru": "Путают \"sit\" (сидеть, положение) с \"seat\" (усаживать кого-то) — разные глаголы с разным управлением."
+    },
+    {
+      "id": "verbs.49",
+      "en": "stand",
+      "meaning_ru": "стоять",
+      "example_en": "He was standing near the door.",
+      "example_ru": "Он стоял возле двери.",
+      "mistakes_ru": "\"Can't stand something\" — идиома \"терпеть не могу\", а не буквально \"не могу стоять\"."
+    },
+    {
+      "id": "verbs.50",
+      "en": "lose",
+      "meaning_ru": "терять; проигрывать",
+      "example_en": "Don't lose your keys.",
+      "example_ru": "Не потеряй свои ключи.",
+      "mistakes_ru": "Не путайте написание с \"loose\" (свободный, неплотный) — это разные слова, частая орфографическая ошибка."
+    },
+    {
+      "id": "verbs.51",
+      "en": "pay",
+      "meaning_ru": "платить",
+      "example_en": "I paid for the tickets.",
+      "example_ru": "Я заплатил за билеты.",
+      "mistakes_ru": "\"Pay for something\" требует предлога \"for\", если указан объект покупки: \"pay for the coffee\", а не \"pay the coffee\"."
+    },
+    {
+      "id": "verbs.52",
+      "en": "meet",
+      "meaning_ru": "встречать(ся), знакомиться",
+      "example_en": "Nice to meet you.",
+      "example_ru": "Приятно с вами познакомиться.",
+      "mistakes_ru": "\"Meet\" используется и при первом знакомстве, и при обычной встрече — не путайте с \"know\" (уже быть знакомым)."
+    },
+    {
+      "id": "verbs.53",
+      "en": "include",
+      "meaning_ru": "включать (в состав)",
+      "example_en": "The price includes breakfast.",
+      "example_ru": "Цена включает завтрак.",
+      "mistakes_ru": "После \"include\" не нужен предлог перед дополнением: \"includes breakfast\", а не \"includes with breakfast\"."
+    },
+    {
+      "id": "verbs.54",
+      "en": "continue",
+      "meaning_ru": "продолжать",
+      "example_en": "Please continue reading.",
+      "example_ru": "Пожалуйста, продолжай читать.",
+      "mistakes_ru": "После \"continue\" можно использовать и инфинитив, и герундий: \"continue to read\" / \"continue reading\" — оба варианта верны."
+    },
+    {
+      "id": "verbs.55",
+      "en": "set",
+      "meaning_ru": "устанавливать, ставить",
+      "example_en": "Let's set a meeting for Friday.",
+      "example_ru": "Давай назначим встречу на пятницу.",
+      "mistakes_ru": "Неправильный глагол с одинаковой формой во всех временах (set-set-set); не путать с \"sit\" (сидеть) по звучанию."
+    },
+    {
+      "id": "verbs.56",
+      "en": "learn",
+      "meaning_ru": "учиться, изучать",
+      "example_en": "I'm learning English.",
+      "example_ru": "Я изучаю английский.",
+      "mistakes_ru": "Путают с \"study\": \"learn\" — приобретать знания/навык (результат), \"study\" — сам процесс обучения."
+    },
+    {
+      "id": "verbs.57",
+      "en": "change",
+      "meaning_ru": "менять(ся)",
+      "example_en": "I need to change my plans.",
+      "example_ru": "Мне нужно поменять свои планы.",
+      "mistakes_ru": "\"Change\" в значении \"пересаживаться\" (транспорт): \"change trains\", без предлога \"into\"."
+    },
+    {
+      "id": "verbs.58",
+      "en": "lead",
+      "meaning_ru": "вести, возглавлять",
+      "example_en": "She leads a large team.",
+      "example_ru": "Она руководит большой командой.",
+      "mistakes_ru": "Не путайте произношение и написание с \"lead\" (свинец, металл) — то же написание, но разное произношение и значение."
+    },
+    {
+      "id": "verbs.59",
+      "en": "understand",
+      "meaning_ru": "понимать",
+      "example_en": "I don't understand this word.",
+      "example_ru": "Я не понимаю это слово.",
+      "mistakes_ru": "Глагол состояния, обычно не используется в Continuous: \"I understand\", а не \"I am understanding\"."
+    },
+    {
+      "id": "verbs.60",
+      "en": "watch",
+      "meaning_ru": "смотреть, наблюдать (за движущимся)",
+      "example_en": "We watched a movie last night.",
+      "example_ru": "Вчера вечером мы смотрели фильм.",
+      "mistakes_ru": "\"Watch TV/a film\" (процесс просмотра), но \"see a film\" (сходить в кино) — оба возможны, но с разным оттенком."
+    },
+    {
+      "id": "verbs.61",
+      "en": "follow",
+      "meaning_ru": "следовать (за кем-то/чем-то)",
+      "example_en": "Follow me, please.",
+      "example_ru": "Следуй за мной, пожалуйста.",
+      "mistakes_ru": "\"Follow\" не требует предлога \"after\": \"follow him\", а не \"follow after him\"."
+    },
+    {
+      "id": "verbs.62",
+      "en": "stop",
+      "meaning_ru": "останавливать(ся), прекращать",
+      "example_en": "Stop talking, please.",
+      "example_ru": "Прекрати разговаривать, пожалуйста.",
+      "mistakes_ru": "\"Stop doing\" (прекратить делать) отличается по смыслу от \"stop to do\" (остановиться, чтобы сделать что-то другое)."
+    },
+    {
+      "id": "verbs.63",
+      "en": "create",
+      "meaning_ru": "создавать",
+      "example_en": "They created a new app.",
+      "example_ru": "Они создали новое приложение.",
+      "mistakes_ru": "Более формальный синоним \"make\" — используется для чего-то нового/оригинального, а не для повседневных действий."
+    },
+    {
+      "id": "verbs.64",
+      "en": "speak",
+      "meaning_ru": "говорить (на языке); произносить речь",
+      "example_en": "Do you speak English?",
+      "example_ru": "Ты говоришь по-английски?",
+      "mistakes_ru": "С названиями языков используется без артикля: \"speak English\", а не \"speak the English\"."
+    },
+    {
+      "id": "verbs.65",
+      "en": "read",
+      "meaning_ru": "читать",
+      "example_en": "I read a book every week.",
+      "example_ru": "Я читаю книгу каждую неделю.",
+      "mistakes_ru": "Формы настоящего и прошедшего времени пишутся одинаково (read), но произносятся по-разному — частая ошибка у начинающих."
+    },
+    {
+      "id": "verbs.66",
+      "en": "allow",
+      "meaning_ru": "разрешать",
+      "example_en": "Smoking is not allowed here.",
+      "example_ru": "Здесь курить не разрешается.",
+      "mistakes_ru": "\"Allow someone to do something\" — с инфинитивом \"to\": \"allow him to enter\", а не \"allow him enter\"."
+    },
+    {
+      "id": "verbs.67",
+      "en": "add",
+      "meaning_ru": "добавлять",
+      "example_en": "Add some salt to the soup.",
+      "example_ru": "Добавь немного соли в суп.",
+      "mistakes_ru": "\"Add A to B\" — порядок дополнений с предлогом \"to\": \"add sugar to the tea\"."
+    },
+    {
+      "id": "verbs.68",
+      "en": "spend",
+      "meaning_ru": "тратить (деньги, время)",
+      "example_en": "I spent all my money on books.",
+      "example_ru": "Я потратил все деньги на книги.",
+      "mistakes_ru": "После \"spend\" время/деньги + герундий: \"spend time reading\", а не \"spend time to read\"."
+    },
+    {
+      "id": "verbs.69",
+      "en": "grow",
+      "meaning_ru": "расти",
+      "example_en": "This plant grows very fast.",
+      "example_ru": "Это растение растёт очень быстро.",
+      "mistakes_ru": "\"Grow up\" (взрослеть) — фразовый глагол с другим смыслом, чем просто \"grow\" (расти физически)."
+    },
+    {
+      "id": "verbs.70",
+      "en": "open",
+      "meaning_ru": "открывать",
+      "example_en": "Can you open the window?",
+      "example_ru": "Можешь открыть окно?",
+      "mistakes_ru": "Не путайте прилагательное \"open\" (открытый: \"the door is open\") с глаголом \"open\" (открывать: \"open the door\")."
+    },
+    {
+      "id": "verbs.71",
+      "en": "walk",
+      "meaning_ru": "гулять, ходить пешком",
+      "example_en": "We walked to the park.",
+      "example_ru": "Мы дошли до парка пешком.",
+      "mistakes_ru": "\"Walk\" — ходить пешком, в отличие от \"go\", которое не уточняет способ передвижения."
+    },
+    {
+      "id": "verbs.72",
+      "en": "win",
+      "meaning_ru": "выигрывать, побеждать",
+      "example_en": "Our team won the match.",
+      "example_ru": "Наша команда выиграла матч.",
+      "mistakes_ru": "Не путайте с \"beat\": \"win a game/prize\" (выиграть что-то), \"beat someone\" (победить кого-то) — разное управление."
+    },
+    {
+      "id": "verbs.73",
+      "en": "offer",
+      "meaning_ru": "предлагать",
+      "example_en": "They offered me a new job.",
+      "example_ru": "Мне предложили новую работу.",
+      "mistakes_ru": "\"Offer someone something\" или \"offer something to someone\" — оба порядка возможны."
+    },
+    {
+      "id": "verbs.74",
+      "en": "remember",
+      "meaning_ru": "помнить, вспоминать",
+      "example_en": "Do you remember her name?",
+      "example_ru": "Ты помнишь её имя?",
+      "mistakes_ru": "\"Remember to do\" (не забыть сделать) отличается от \"remember doing\" (помнить, что уже сделал)."
+    },
+    {
+      "id": "verbs.75",
+      "en": "love",
+      "meaning_ru": "любить",
+      "example_en": "I love spending time with my family.",
+      "example_ru": "Я люблю проводить время с семьёй.",
+      "mistakes_ru": "После \"love\" можно использовать и инфинитив, и герундий: \"love to travel\" / \"love traveling\"."
+    },
+    {
+      "id": "verbs.76",
+      "en": "consider",
+      "meaning_ru": "считать, рассматривать",
+      "example_en": "I'm considering a new job offer.",
+      "example_ru": "Я рассматриваю новое предложение о работе.",
+      "mistakes_ru": "После \"consider\" используется герундий, а не инфинитив: \"consider doing\", а не \"consider to do\"."
+    },
+    {
+      "id": "verbs.77",
+      "en": "appear",
+      "meaning_ru": "появляться; казаться",
+      "example_en": "She suddenly appeared at the door.",
+      "example_ru": "Она вдруг появилась в дверях.",
+      "mistakes_ru": "\"Appear to be\" (казаться) отличается от простого \"appear\" (появиться физически) — контекст определяет значение."
+    },
+    {
+      "id": "verbs.78",
+      "en": "buy",
+      "meaning_ru": "покупать",
+      "example_en": "I bought a new laptop yesterday.",
+      "example_ru": "Вчера я купил новый ноутбук.",
+      "mistakes_ru": "Неправильный глагол: buy-bought-bought; часто ошибочно пишут \"buyed\"."
+    },
+    {
+      "id": "verbs.79",
+      "en": "wait",
+      "meaning_ru": "ждать",
+      "example_en": "Wait for me here.",
+      "example_ru": "Подожди меня здесь.",
+      "mistakes_ru": "\"Wait for someone/something\" требует предлога \"for\": \"wait for the bus\", а не \"wait the bus\"."
+    },
+    {
+      "id": "verbs.80",
+      "en": "serve",
+      "meaning_ru": "обслуживать; подавать (еду)",
+      "example_en": "The restaurant serves dinner until 10 p.m.",
+      "example_ru": "Ресторан подаёт ужин до 22:00.",
+      "mistakes_ru": "Не путайте с \"service\" (существительное — услуга/обслуживание) — \"serve\" это глагол действия."
+    },
+    {
+      "id": "verbs.81",
+      "en": "die",
+      "meaning_ru": "умирать",
+      "example_en": "The plant died because of the cold.",
+      "example_ru": "Растение погибло из-за холода.",
+      "mistakes_ru": "Написание причастия \"dying\" (не \"dieing\") часто вызывает ошибку — теряется \"e\" перед \"-ing\"."
+    },
+    {
+      "id": "verbs.82",
+      "en": "send",
+      "meaning_ru": "отправлять, посылать",
+      "example_en": "I'll send you the documents today.",
+      "example_ru": "Я отправлю тебе документы сегодня.",
+      "mistakes_ru": "Неправильный глагол: send-sent-sent; не путать со \"spend\" (тратить) — похожие по звучанию слова."
+    },
+    {
+      "id": "verbs.83",
+      "en": "expect",
+      "meaning_ru": "ожидать",
+      "example_en": "I expect good news soon.",
+      "example_ru": "Я ожидаю хороших новостей в ближайшее время.",
+      "mistakes_ru": "Не путайте с \"wait for\": \"expect\" — ожидать, что что-то случится, \"wait for\" — физически ждать чего-то/кого-то."
+    },
+    {
+      "id": "verbs.84",
+      "en": "build",
+      "meaning_ru": "строить",
+      "example_en": "They are building a new bridge.",
+      "example_ru": "Они строят новый мост.",
+      "mistakes_ru": "Неправильный глагол: build-built-built, а не \"builded\"."
+    },
+    {
+      "id": "verbs.85",
+      "en": "stay",
+      "meaning_ru": "оставаться",
+      "example_en": "We stayed at a hotel near the beach.",
+      "example_ru": "Мы остановились в отеле у пляжа.",
+      "mistakes_ru": "\"Stay\" в значении \"проживать временно\" (в отеле/у друзей) отличается от \"live\" (постоянное место жительства)."
+    },
+    {
+      "id": "verbs.86",
+      "en": "fall",
+      "meaning_ru": "падать",
+      "example_en": "Be careful not to fall.",
+      "example_ru": "Будь осторожен, не упади.",
+      "mistakes_ru": "Неправильный глагол: fall-fell-fallen — часто путают с \"feel\" (fell похоже на feel по написанию)."
+    },
+    {
+      "id": "verbs.87",
+      "en": "cut",
+      "meaning_ru": "резать",
+      "example_en": "She cut the paper with scissors.",
+      "example_ru": "Она разрезала бумагу ножницами.",
+      "mistakes_ru": "Одинаковая форма во всех временах: cut-cut-cut, глагол не изменяется."
+    },
+    {
+      "id": "verbs.88",
+      "en": "reach",
+      "meaning_ru": "достигать, дотягиваться",
+      "example_en": "We reached the airport on time.",
+      "example_ru": "Мы вовремя добрались до аэропорта.",
+      "mistakes_ru": "После \"reach\" не нужен предлог \"to\" перед местом: \"reach the city\", а не \"reach to the city\"."
+    },
+    {
+      "id": "verbs.89",
+      "en": "kill",
+      "meaning_ru": "убивать",
+      "example_en": "The frost killed all the flowers.",
+      "example_ru": "Мороз погубил все цветы.",
+      "mistakes_ru": "Не путайте с \"die\": \"kill\" — переходный глагол (кто-то убивает кого-то), \"die\" — непереходный (кто-то умирает сам)."
+    },
+    {
+      "id": "verbs.90",
+      "en": "remain",
+      "meaning_ru": "пребывать, оставаться (в каком-то состоянии)",
+      "example_en": "The situation remains unclear.",
+      "example_ru": "Ситуация остаётся неясной.",
+      "mistakes_ru": "Более формальный синоним \"stay\" — используется в основном в письменной речи, про состояние, а не место."
+    },
+    {
+      "id": "verbs.91",
+      "en": "suggest",
+      "meaning_ru": "советовать, предлагать (идею)",
+      "example_en": "I suggest we leave early.",
+      "example_ru": "Я предлагаю выйти пораньше.",
+      "mistakes_ru": "После \"suggest\" не используется инфинитив с \"to\": \"suggest doing\" или \"suggest that\", а не \"suggest to do\"."
+    },
+    {
+      "id": "verbs.92",
+      "en": "raise",
+      "meaning_ru": "поднимать",
+      "example_en": "Raise your hand if you have a question.",
+      "example_ru": "Поднимите руку, если у вас есть вопрос.",
+      "mistakes_ru": "Путают с \"rise\": \"raise\" — переходный (поднимать что-то), \"rise\" — непереходный (подниматься самому)."
+    },
+    {
+      "id": "verbs.93",
+      "en": "pass",
+      "meaning_ru": "проходить (мимо); сдать (экзамен)",
+      "example_en": "I passed my driving test.",
+      "example_ru": "Я сдал экзамен по вождению.",
+      "mistakes_ru": "\"Pass an exam\" (сдать) — не путать с \"take an exam\" (сдавать/писать экзамен, без гарантии успеха)."
+    },
+    {
+      "id": "verbs.94",
+      "en": "sell",
+      "meaning_ru": "продавать",
+      "example_en": "They sell fresh vegetables at the market.",
+      "example_ru": "Они продают свежие овощи на рынке.",
+      "mistakes_ru": "Неправильный глагол: sell-sold-sold; не путать со \"sold\" как прилагательным \"распроданный\"."
+    },
+    {
+      "id": "verbs.95",
+      "en": "require",
+      "meaning_ru": "требовать, нуждаться в",
+      "example_en": "This job requires good English.",
+      "example_ru": "Эта работа требует хорошего английского.",
+      "mistakes_ru": "Более формальный синоним \"need\" — обычно используется в официальном/деловом контексте."
+    },
+    {
+      "id": "verbs.96",
+      "en": "report",
+      "meaning_ru": "сообщать, докладывать",
+      "example_en": "She reported the problem to her manager.",
+      "example_ru": "Она сообщила о проблеме своему руководителю.",
+      "mistakes_ru": "\"Report something to someone\" — с предлогом \"to\" перед адресатом."
+    },
+    {
+      "id": "verbs.97",
+      "en": "decide",
+      "meaning_ru": "решать (принимать решение)",
+      "example_en": "We decided to move to a new city.",
+      "example_ru": "Мы решили переехать в новый город.",
+      "mistakes_ru": "После \"decide\" используется инфинитив с \"to\": \"decide to go\", а не герундий \"decide going\"."
+    },
+    {
+      "id": "verbs.98",
+      "en": "pull",
+      "meaning_ru": "тянуть",
+      "example_en": "Pull the door, don't push it.",
+      "example_ru": "Тяни дверь, не толкай.",
+      "mistakes_ru": "Часто путают \"pull\" (тянуть на себя) и \"push\" (толкать от себя) — противоположные по смыслу глаголы."
+    },
+    {
+      "id": "verbs.99",
+      "en": "break",
+      "meaning_ru": "ломать",
+      "example_en": "Be careful, don't break the glass.",
+      "example_ru": "Осторожно, не разбей стакан.",
+      "mistakes_ru": "Неправильный глагол: break-broke-broken; не путать с \"brake\" (тормоз) — похожие по звучанию слова."
+    },
+    {
+      "id": "verbs.100",
+      "en": "eat",
+      "meaning_ru": "есть, кушать",
+      "example_en": "We eat dinner at seven.",
+      "example_ru": "Мы ужинаем в семь.",
+      "mistakes_ru": "Неправильный глагол: eat-ate-eaten; часто ошибочно используют \"eated\"."
+    }
+  ]
+}

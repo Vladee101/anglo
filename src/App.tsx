@@ -8,6 +8,7 @@ import { clearAuthUser, loadAuthUser, saveAuthUser } from './lib/auth'
 import { TitleScreen } from './TitleScreen'
 import { CompleteScreen } from './CompleteScreen'
 import { ExerciseRunner } from './ExerciseRunner'
+import { DictionaryScreen } from './DictionaryScreen'
 import { LoginScreen } from './LoginScreen'
 import { Header } from './Header'
 import { Footer } from './Footer'
@@ -18,7 +19,7 @@ const MODES: readonly Mode[] = ['mixed', 'read', 'listen', 'write', 'speak']
 function isManifest(x: unknown): x is Manifest {
   if (typeof x !== 'object' || x === null) return false
   const m = x as Record<string, unknown>
-  return MODES.every((k) => Array.isArray(m[k]))
+  return MODES.every((k) => Array.isArray(m[k])) && Array.isArray(m.dictionary)
 }
 
 function isChain(x: unknown): x is Chain {
@@ -93,6 +94,7 @@ export default function App() {
   const [playlist, setPlaylist] = useState<Playlist | null>(null)
   const [progress, setProgress] = useState<ReturnType<typeof loadProgress>>([])
   const [pos, setPos] = useState({ itemIndex: 0, modIndex: 0 })
+  const [dictionaryOpen, setDictionaryOpen] = useState(false)
   const scorer = useMemo(() => createWebSpeechScorer(), [])
 
   useEffect(() => {
@@ -223,8 +225,9 @@ export default function App() {
     }
   }
 
-  const content =
-    screen === 'complete' && playlist ? (
+  const content = dictionaryOpen ? (
+    <DictionaryScreen bucket={manifest.dictionary} onClose={() => setDictionaryOpen(false)} />
+  ) : screen === 'complete' && playlist ? (
       <CompleteScreen
         playlist={playlist}
         progress={progress}
@@ -252,6 +255,7 @@ export default function App() {
         progress={progress}
         onStart={start}
         onReset={reset}
+        onOpenDictionary={() => setDictionaryOpen(true)}
       />
     )
 

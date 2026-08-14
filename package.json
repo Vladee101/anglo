@@ -10,6 +10,7 @@
     "validate": "node scripts/validate-chains.mjs chains/",
     "validate:assets": "node scripts/validate-chains.mjs --assets chains/",
     "validate:drills": "node scripts/validate-drills.mjs drills/",
+    "validate:dictionary": "node scripts/validate-dictionary.mjs dictionary/",
     "audio": "python scripts/generate-audio.py",
     "test": "vitest run"
   },

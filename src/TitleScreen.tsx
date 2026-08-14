@@ -13,6 +13,7 @@ interface Props {
   progress: StepProgress[]
   onStart: () => void
   onReset: () => void
+  onOpenDictionary: () => void
 }
 
 const MODE_OPTIONS: { mode: Mode; label: string }[] = [
@@ -34,6 +35,7 @@ export function TitleScreen({
   progress,
   onStart,
   onReset,
+  onOpenDictionary,
 }: Props) {
   const hasProgress = progress.length > 0
   const allDone = playlist !== null && findResume(playlist, progress) === null
@@ -50,6 +52,9 @@ export function TitleScreen({
             {opt.label}
           </button>
         ))}
+        <button className="mode-option" onClick={onOpenDictionary}>
+          Словарь
+        </button>
       </div>
 
       {bucket.length === 0 && (

@@ -1,0 +1,806 @@
+{
+  "id": "grammar",
+  "title_ru": "Словарь: прилагательные, наречия, предлоги",
+  "entries": [
+    {
+      "id": "grammar.1",
+      "en": "of",
+      "meaning_ru": "из; принадлежность (родительный падеж)",
+      "example_en": "This is a photo of my family.",
+      "example_ru": "Это фотография моей семьи.",
+      "mistakes_ru": "В русском это соответствует родительному падежу без предлога, поэтому \"of\" часто пропускают по ошибке: \"a cup of tea\", а не \"a cup tea\"."
+    },
+    {
+      "id": "grammar.2",
+      "en": "in",
+      "meaning_ru": "в (внутри чего-то, в определённый период)",
+      "example_en": "I live in Moscow.",
+      "example_ru": "Я живу в Москве.",
+      "mistakes_ru": "\"In\" используется для городов/стран/месяцев/лет (\"in May\", \"in 2024\"), а \"on\" — для дней и дат (\"on Monday\")."
+    },
+    {
+      "id": "grammar.3",
+      "en": "to",
+      "meaning_ru": "к, в направлении; до",
+      "example_en": "I'm going to the store.",
+      "example_ru": "Я иду в магазин.",
+      "mistakes_ru": "После глаголов движения используется \"to\": \"go to school\", а не \"go in school\"."
+    },
+    {
+      "id": "grammar.4",
+      "en": "for",
+      "meaning_ru": "для; в течение (период времени)",
+      "example_en": "I've lived here for five years.",
+      "example_ru": "Я живу здесь уже пять лет.",
+      "mistakes_ru": "\"For\" указывает на продолжительность (\"for two hours\"), а \"since\" — на точку начала (\"since 2020\")."
+    },
+    {
+      "id": "grammar.5",
+      "en": "with",
+      "meaning_ru": "с (совместно, при помощи)",
+      "example_en": "I went to the cinema with my friend.",
+      "example_ru": "Я ходил в кино с другом.",
+      "mistakes_ru": "\"With\" не используется в значении \"у кого-то есть\": \"I have a car\", а не \"with me a car\"."
+    },
+    {
+      "id": "grammar.6",
+      "en": "on",
+      "meaning_ru": "на (поверхность); в (дни, даты)",
+      "example_en": "The book is on the table.",
+      "example_ru": "Книга на столе.",
+      "mistakes_ru": "С днями недели и датами используется \"on\": \"on Monday\", \"on the 5th of May\", а не \"in Monday\"."
+    },
+    {
+      "id": "grammar.7",
+      "en": "at",
+      "meaning_ru": "у, в (точка, время)",
+      "example_en": "I'll meet you at the station.",
+      "example_ru": "Встретимся у вокзала.",
+      "mistakes_ru": "С точным временем используется \"at\": \"at 5 o'clock\", а не \"in 5 o'clock\"."
+    },
+    {
+      "id": "grammar.8",
+      "en": "from",
+      "meaning_ru": "от, из (источник, начало)",
+      "example_en": "Where are you from?",
+      "example_ru": "Откуда ты?",
+      "mistakes_ru": "\"From... to...\" — стандартная пара для диапазона: \"from Monday to Friday\"."
+    },
+    {
+      "id": "grammar.9",
+      "en": "by",
+      "meaning_ru": "около; посредством, к (сроку)",
+      "example_en": "I'll finish the work by Friday.",
+      "example_ru": "Я закончу работу к пятнице.",
+      "mistakes_ru": "\"By\" в значении срока (\"к пятнице\") отличается от \"until/till\" (до пятницы, то есть весь период)."
+    },
+    {
+      "id": "grammar.10",
+      "en": "about",
+      "meaning_ru": "о, об, насчёт",
+      "example_en": "Let's talk about your plans.",
+      "example_ru": "Давай поговорим о твоих планах.",
+      "mistakes_ru": "После \"talk/speak/think\" не забывайте предлог \"about\": \"think about it\", а не \"think it\"."
+    },
+    {
+      "id": "grammar.11",
+      "en": "as",
+      "meaning_ru": "как, в качестве",
+      "example_en": "She works as a doctor.",
+      "example_ru": "Она работает врачом.",
+      "mistakes_ru": "Не путайте с \"like\": \"as\" означает \"в качестве, в роли\", \"like\" — \"подобно, похоже на\"."
+    },
+    {
+      "id": "grammar.12",
+      "en": "into",
+      "meaning_ru": "внутрь (движение)",
+      "example_en": "She walked into the room.",
+      "example_ru": "Она вошла в комнату.",
+      "mistakes_ru": "\"Into\" подразумевает движение внутрь, в отличие от \"in\" (статичное положение): \"go into the house\" против \"be in the house\"."
+    },
+    {
+      "id": "grammar.13",
+      "en": "like",
+      "meaning_ru": "подобно, как (сравнение)",
+      "example_en": "She sings like a professional.",
+      "example_ru": "Она поёт как профессионал.",
+      "mistakes_ru": "Не путайте с глаголом \"like\" (нравиться) — здесь это предлог сравнения, разные части речи с одинаковым написанием."
+    },
+    {
+      "id": "grammar.14",
+      "en": "through",
+      "meaning_ru": "через, сквозь",
+      "example_en": "We walked through the park.",
+      "example_ru": "Мы прошли через парк.",
+      "mistakes_ru": "Не путайте написание с \"though\" (хотя) и \"thorough\" (тщательный) — похожие слова."
+    },
+    {
+      "id": "grammar.15",
+      "en": "after",
+      "meaning_ru": "после",
+      "example_en": "I'll call you after lunch.",
+      "example_ru": "Я позвоню тебе после обеда.",
+      "mistakes_ru": "\"After\" (предлог) не путайте с \"later\" (наречие): \"after the meeting\", но \"see you later\"."
+    },
+    {
+      "id": "grammar.16",
+      "en": "over",
+      "meaning_ru": "над; более, свыше",
+      "example_en": "The plane flew over the city.",
+      "example_ru": "Самолёт пролетел над городом.",
+      "mistakes_ru": "\"Over\" также означает \"более, свыше\" с числами: \"over 100 people\"."
+    },
+    {
+      "id": "grammar.17",
+      "en": "between",
+      "meaning_ru": "между (двумя объектами)",
+      "example_en": "The shop is between the bank and the park.",
+      "example_ru": "Магазин находится между банком и парком.",
+      "mistakes_ru": "\"Between\" используется для двух объектов, \"among\" — для трёх и более."
+    },
+    {
+      "id": "grammar.18",
+      "en": "out",
+      "meaning_ru": "вне, снаружи; наружу",
+      "example_en": "Let's go out for dinner.",
+      "example_ru": "Давай сходим куда-нибудь поужинать.",
+      "mistakes_ru": "\"Out of\" — составной предлог \"из\": \"out of the house\"."
+    },
+    {
+      "id": "grammar.19",
+      "en": "against",
+      "meaning_ru": "против",
+      "example_en": "I'm against this idea.",
+      "example_ru": "Я против этой идеи.",
+      "mistakes_ru": "Не путайте с \"opposite\" (напротив, в пространственном смысле): \"against\" — про несогласие или физический контакт."
+    },
+    {
+      "id": "grammar.20",
+      "en": "during",
+      "meaning_ru": "во время, в течение",
+      "example_en": "She fell asleep during the movie.",
+      "example_ru": "Она заснула во время фильма.",
+      "mistakes_ru": "\"During\" используется с существительным-периодом (\"during the summer\"), \"for\" — с числом длительности (\"for three hours\")."
+    },
+    {
+      "id": "grammar.21",
+      "en": "without",
+      "meaning_ru": "без",
+      "example_en": "I can't live without coffee.",
+      "example_ru": "Я не могу жить без кофе.",
+      "mistakes_ru": "После \"without\" используется герундий, а не инфинитив: \"without saying a word\", а не \"without to say\"."
+    },
+    {
+      "id": "grammar.22",
+      "en": "before",
+      "meaning_ru": "до, перед (по времени)",
+      "example_en": "Please call me before you leave.",
+      "example_ru": "Пожалуйста, позвони мне, прежде чем уйдёшь.",
+      "mistakes_ru": "Не путайте с \"in front of\" (перед, в пространственном смысле): \"before\" — про время, \"in front of\" — про место."
+    },
+    {
+      "id": "grammar.23",
+      "en": "under",
+      "meaning_ru": "под",
+      "example_en": "The cat is sleeping under the table.",
+      "example_ru": "Кошка спит под столом.",
+      "mistakes_ru": "\"Under\" также используется в переносном смысле \"менее чем\": \"under 18 years old\"."
+    },
+    {
+      "id": "grammar.24",
+      "en": "around",
+      "meaning_ru": "вокруг; примерно",
+      "example_en": "We walked around the lake.",
+      "example_ru": "Мы прогулялись вокруг озера.",
+      "mistakes_ru": "\"Around\" в значении \"примерно\" перед числом: \"around 100 dollars\"."
+    },
+    {
+      "id": "grammar.25",
+      "en": "among",
+      "meaning_ru": "среди (трёх и более)",
+      "example_en": "She was among the best students.",
+      "example_ru": "Она была среди лучших студентов.",
+      "mistakes_ru": "Используется с группой из трёх и более объектов, в отличие от \"between\" (для двух)."
+    },
+    {
+      "id": "grammar.26",
+      "en": "good",
+      "meaning_ru": "хороший",
+      "example_en": "This is a good idea.",
+      "example_ru": "Это хорошая идея.",
+      "mistakes_ru": "Сравнительная и превосходная степени неправильные: \"good — better — best\", а не \"gooder — goodest\"."
+    },
+    {
+      "id": "grammar.27",
+      "en": "new",
+      "meaning_ru": "новый",
+      "example_en": "I bought a new phone.",
+      "example_ru": "Я купил новый телефон.",
+      "mistakes_ru": "В английском строгий порядок прилагательных перед существительным (мнение/возраст перед цветом и т.д.)."
+    },
+    {
+      "id": "grammar.28",
+      "en": "first",
+      "meaning_ru": "первый",
+      "example_en": "This is my first time here.",
+      "example_ru": "Это мой первый раз здесь.",
+      "mistakes_ru": "Перед порядковыми числительными обычно нужен артикль \"the\": \"the first day\"."
+    },
+    {
+      "id": "grammar.29",
+      "en": "last",
+      "meaning_ru": "последний; прошлый",
+      "example_en": "I saw her last week.",
+      "example_ru": "Я видел её на прошлой неделе.",
+      "mistakes_ru": "\"Last week/year/month\" (прошлый) — без предлога \"in\", а не \"in last week\"."
+    },
+    {
+      "id": "grammar.30",
+      "en": "long",
+      "meaning_ru": "длинный, долгий",
+      "example_en": "It was a long journey.",
+      "example_ru": "Это было долгое путешествие.",
+      "mistakes_ru": "\"How long\" используется для вопроса о продолжительности времени: \"How long does it take?\""
+    },
+    {
+      "id": "grammar.31",
+      "en": "great",
+      "meaning_ru": "великий; отличный (разговорное)",
+      "example_en": "We had a great time.",
+      "example_ru": "Мы отлично провели время.",
+      "mistakes_ru": "В разговорной речи \"great\" часто означает просто \"отлично/классно\", а не буквально \"великий\"."
+    },
+    {
+      "id": "grammar.32",
+      "en": "little",
+      "meaning_ru": "маленький; мало (с неисчисляемыми)",
+      "example_en": "We have little time left.",
+      "example_ru": "У нас осталось мало времени.",
+      "mistakes_ru": "\"Little\" (мало, негативный оттенок) отличается от \"a little\" (немного, нейтрально)."
+    },
+    {
+      "id": "grammar.33",
+      "en": "own",
+      "meaning_ru": "собственный",
+      "example_en": "She has her own car.",
+      "example_ru": "У неё своя собственная машина.",
+      "mistakes_ru": "\"Own\" всегда используется после притяжательного местоимения: \"my own car\", а не просто \"own car\"."
+    },
+    {
+      "id": "grammar.34",
+      "en": "other",
+      "meaning_ru": "другой",
+      "example_en": "I have other plans today.",
+      "example_ru": "У меня сегодня другие планы.",
+      "mistakes_ru": "\"Other\" (мн.ч./неисчисляемое) отличается от \"another\" (единственное число, \"ещё один\")."
+    },
+    {
+      "id": "grammar.35",
+      "en": "old",
+      "meaning_ru": "старый; о возрасте",
+      "example_en": "My grandfather is 80 years old.",
+      "example_ru": "Моему дедушке 80 лет.",
+      "mistakes_ru": "Конструкция возраста: \"... years old\", не забывайте слово \"years\"."
+    },
+    {
+      "id": "grammar.36",
+      "en": "right",
+      "meaning_ru": "правильный; правый (сторона)",
+      "example_en": "That's the right answer.",
+      "example_ru": "Это правильный ответ.",
+      "mistakes_ru": "Не путайте прилагательное \"right\" (правильный/правый) с существительным \"right\" (право)."
+    },
+    {
+      "id": "grammar.37",
+      "en": "big",
+      "meaning_ru": "большой",
+      "example_en": "They live in a big house.",
+      "example_ru": "Они живут в большом доме.",
+      "mistakes_ru": "\"Big\" — нейтральное разговорное, \"large\" — более формальное, \"great\" — часто \"великий/отличный\"."
+    },
+    {
+      "id": "grammar.38",
+      "en": "high",
+      "meaning_ru": "высокий",
+      "example_en": "The mountain is very high.",
+      "example_ru": "Гора очень высокая.",
+      "mistakes_ru": "Для роста человека используется \"tall\", а не \"high\": \"He is tall\", а не \"He is high\" (сленг \"под кайфом\")."
+    },
+    {
+      "id": "grammar.39",
+      "en": "different",
+      "meaning_ru": "разный, отличающийся",
+      "example_en": "We have different opinions.",
+      "example_ru": "У нас разные мнения.",
+      "mistakes_ru": "\"Different from/than\" — с предлогом \"from\" (более формально) или \"than\", а не \"different of\"."
+    },
+    {
+      "id": "grammar.40",
+      "en": "small",
+      "meaning_ru": "небольшой",
+      "example_en": "I live in a small apartment.",
+      "example_ru": "Я живу в небольшой квартире.",
+      "mistakes_ru": "Практически синоним \"little\", но \"small\" чаще про физический размер, а \"little\" может нести эмоциональный оттенок."
+    },
+    {
+      "id": "grammar.41",
+      "en": "large",
+      "meaning_ru": "крупный",
+      "example_en": "They ordered a large pizza.",
+      "example_ru": "Они заказали большую пиццу.",
+      "mistakes_ru": "\"Large\" более формально, чем \"big\" — часто в официальных/письменных контекстах."
+    },
+    {
+      "id": "grammar.42",
+      "en": "next",
+      "meaning_ru": "следующий",
+      "example_en": "See you next week.",
+      "example_ru": "Увидимся на следующей неделе.",
+      "mistakes_ru": "\"Next week/year\" — без предлога \"in\": \"next week\", а не \"in next week\"."
+    },
+    {
+      "id": "grammar.43",
+      "en": "early",
+      "meaning_ru": "ранний",
+      "example_en": "I woke up early today.",
+      "example_ru": "Я сегодня рано проснулся.",
+      "mistakes_ru": "\"Early\" может быть и прилагательным (\"an early morning\"), и наречием (\"wake up early\") — одна форма для обеих частей речи."
+    },
+    {
+      "id": "grammar.44",
+      "en": "young",
+      "meaning_ru": "молодой",
+      "example_en": "She is a young teacher.",
+      "example_ru": "Она молодая учительница.",
+      "mistakes_ru": "Сравнительная степень регулярная: \"young — younger — youngest\"."
+    },
+    {
+      "id": "grammar.45",
+      "en": "important",
+      "meaning_ru": "важный",
+      "example_en": "This is an important decision.",
+      "example_ru": "Это важное решение.",
+      "mistakes_ru": "Длинное прилагательное — сравнительная степень образуется с \"more/most\": \"more important\", а не \"importanter\"."
+    },
+    {
+      "id": "grammar.46",
+      "en": "few",
+      "meaning_ru": "мало (с исчисляемыми)",
+      "example_en": "Few people know this fact.",
+      "example_ru": "Немногие люди знают этот факт.",
+      "mistakes_ru": "\"Few\" (мало, негативный оттенок) отличается от \"a few\" (несколько, нейтрально)."
+    },
+    {
+      "id": "grammar.47",
+      "en": "this",
+      "meaning_ru": "этот, эта, это (близко, единственное число)",
+      "example_en": "This book is very interesting.",
+      "example_ru": "Эта книга очень интересная.",
+      "mistakes_ru": "\"This\" используется с единственным числом, \"these\" — с множественным."
+    },
+    {
+      "id": "grammar.48",
+      "en": "bad",
+      "meaning_ru": "плохой",
+      "example_en": "I had a bad day.",
+      "example_ru": "У меня был плохой день.",
+      "mistakes_ru": "Сравнительная и превосходная степени неправильные: \"bad — worse — worst\"."
+    },
+    {
+      "id": "grammar.49",
+      "en": "same",
+      "meaning_ru": "одинаковый, тот же самый",
+      "example_en": "We have the same problem.",
+      "example_ru": "У нас та же проблема.",
+      "mistakes_ru": "\"Same\" почти всегда используется с артиклем \"the\": \"the same time\"."
+    },
+    {
+      "id": "grammar.50",
+      "en": "able",
+      "meaning_ru": "способный",
+      "example_en": "She is able to speak three languages.",
+      "example_ru": "Она способна говорить на трёх языках.",
+      "mistakes_ru": "\"Be able to\" используется во всех временах, включая те, где \"can\" невозможен: \"I will be able to help\"."
+    },
+    {
+      "id": "grammar.51",
+      "en": "that",
+      "meaning_ru": "тот, та, то (далеко, единственное число)",
+      "example_en": "I like that house over there.",
+      "example_ru": "Мне нравится тот дом вон там.",
+      "mistakes_ru": "\"That\" используется с единственным числом на расстоянии, \"those\" — с множественным."
+    },
+    {
+      "id": "grammar.52",
+      "en": "these",
+      "meaning_ru": "эти (близко, множественное число)",
+      "example_en": "These shoes are very comfortable.",
+      "example_ru": "Эти туфли очень удобные.",
+      "mistakes_ru": "Не путайте с \"this\" — \"these\" только для множественного числа: \"these books\", а не \"this books\"."
+    },
+    {
+      "id": "grammar.53",
+      "en": "sure",
+      "meaning_ru": "уверенный",
+      "example_en": "I'm sure this is the right way.",
+      "example_ru": "Я уверен, что это правильный путь.",
+      "mistakes_ru": "\"Sure\" (о человеке) не путайте с \"certain\" — синонимы, но \"sure\" более разговорное."
+    },
+    {
+      "id": "grammar.54",
+      "en": "those",
+      "meaning_ru": "те (далеко, множественное число)",
+      "example_en": "Those mountains are beautiful.",
+      "example_ru": "Те горы прекрасны.",
+      "mistakes_ru": "Не путайте с \"that\" — \"those\" только для множественного числа: \"those cars\", а не \"that cars\"."
+    },
+    {
+      "id": "grammar.55",
+      "en": "hard",
+      "meaning_ru": "твёрдый; трудный",
+      "example_en": "This exercise is really hard.",
+      "example_ru": "Это упражнение действительно трудное.",
+      "mistakes_ru": "\"Hard\" как наречие означает \"усердно\" (\"work hard\"), а \"hardly\" — другое слово, \"едва, почти не\"."
+    },
+    {
+      "id": "grammar.56",
+      "en": "free",
+      "meaning_ru": "свободный; бесплатный",
+      "example_en": "Is this seat free?",
+      "example_ru": "Это место свободно?",
+      "mistakes_ru": "\"Free\" означает и \"свободный\" (не занятый), и \"бесплатный\" — значение определяется контекстом."
+    },
+    {
+      "id": "grammar.57",
+      "en": "better",
+      "meaning_ru": "лучший (сравнительная степень от \"good\")",
+      "example_en": "This plan is better than the last one.",
+      "example_ru": "Этот план лучше предыдущего.",
+      "mistakes_ru": "\"Better\" уже сравнительная форма — не говорите \"more better\", это двойное сравнение."
+    },
+    {
+      "id": "grammar.58",
+      "en": "true",
+      "meaning_ru": "истинный, верный",
+      "example_en": "Is it true that you're moving?",
+      "example_ru": "Правда, что ты переезжаешь?",
+      "mistakes_ru": "Не путайте с \"real\" — \"true\" чаще про истинность утверждения, \"real\" — про подлинность предмета."
+    },
+    {
+      "id": "grammar.59",
+      "en": "whole",
+      "meaning_ru": "целый",
+      "example_en": "I spent the whole day at work.",
+      "example_ru": "Я провёл весь день на работе.",
+      "mistakes_ru": "\"Whole\" ставится после артикля: \"the whole day\", а не \"whole the day\"."
+    },
+    {
+      "id": "grammar.60",
+      "en": "real",
+      "meaning_ru": "настоящий, реальный",
+      "example_en": "Is this a real diamond?",
+      "example_ru": "Это настоящий бриллиант?",
+      "mistakes_ru": "Не путайте с \"really\" (наречие, \"действительно\"): \"a real problem\" vs \"really difficult\"."
+    },
+    {
+      "id": "grammar.61",
+      "en": "best",
+      "meaning_ru": "наилучший (превосходная степень от \"good\")",
+      "example_en": "This is the best restaurant in town.",
+      "example_ru": "Это лучший ресторан в городе.",
+      "mistakes_ru": "Перед превосходной степенью почти всегда нужен артикль \"the\": \"the best\"."
+    },
+    {
+      "id": "grammar.62",
+      "en": "low",
+      "meaning_ru": "низкий",
+      "example_en": "The prices here are very low.",
+      "example_ru": "Цены здесь очень низкие.",
+      "mistakes_ru": "Для роста человека \"low\" не используется (нужно \"short\"): \"He is short\", а не \"He is low\"."
+    },
+    {
+      "id": "grammar.63",
+      "en": "easy",
+      "meaning_ru": "лёгкий (нетрудный)",
+      "example_en": "This test was very easy.",
+      "example_ru": "Этот тест был очень лёгким.",
+      "mistakes_ru": "Не путайте с \"light\" (лёгкий по весу) — \"easy\" только про сложность задачи."
+    },
+    {
+      "id": "grammar.64",
+      "en": "possible",
+      "meaning_ru": "возможный",
+      "example_en": "Is it possible to change the date?",
+      "example_ru": "Возможно ли поменять дату?",
+      "mistakes_ru": "\"It's possible to do something\" — безличная конструкция с \"it\", а не \"is possible do something\"."
+    },
+    {
+      "id": "grammar.65",
+      "en": "strong",
+      "meaning_ru": "сильный",
+      "example_en": "He is a very strong man.",
+      "example_ru": "Он очень сильный мужчина.",
+      "mistakes_ru": "\"Strong coffee/tea\" (крепкий кофе/чай) — то же прилагательное \"strong\", а не отдельное слово, как в русском."
+    },
+    {
+      "id": "grammar.66",
+      "en": "full",
+      "meaning_ru": "полный",
+      "example_en": "The bus was completely full.",
+      "example_ru": "Автобус был совершенно полон.",
+      "mistakes_ru": "\"Full of something\" — с предлогом \"of\": \"full of people\", а не \"full with people\"."
+    },
+    {
+      "id": "grammar.67",
+      "en": "late",
+      "meaning_ru": "поздний; опоздавший",
+      "example_en": "Sorry, I'm late.",
+      "example_ru": "Извини, я опоздал.",
+      "mistakes_ru": "\"Late\" как наречие тоже без \"-ly\": \"I woke up late\", а не \"lately\" (означает \"недавно\")."
+    },
+    {
+      "id": "grammar.68",
+      "en": "special",
+      "meaning_ru": "особый, специальный",
+      "example_en": "Today is a special day for us.",
+      "example_ru": "Сегодня особенный день для нас.",
+      "mistakes_ru": "Не путайте с \"especially\" (наречие, \"особенно\")."
+    },
+    {
+      "id": "grammar.69",
+      "en": "clear",
+      "meaning_ru": "ясный, понятный; прозрачный",
+      "example_en": "The instructions were very clear.",
+      "example_ru": "Инструкции были очень понятными.",
+      "mistakes_ru": "\"Clear\" также означает \"прозрачный\" (о воде/стекле) — значение зависит от контекста."
+    },
+    {
+      "id": "grammar.70",
+      "en": "difficult",
+      "meaning_ru": "трудный, сложный",
+      "example_en": "This question is quite difficult.",
+      "example_ru": "Этот вопрос довольно сложный.",
+      "mistakes_ru": "Длинное прилагательное — сравнительная степень с \"more/most\": \"more difficult\", а не \"difficulter\"."
+    },
+    {
+      "id": "grammar.71",
+      "en": "not",
+      "meaning_ru": "не (отрицание)",
+      "example_en": "I do not like coffee.",
+      "example_ru": "Мне не нравится кофе.",
+      "mistakes_ru": "С глаголом \"to be\" отрицание образуется без \"do\": \"I am not tired\", а не \"I don't am tired\"."
+    },
+    {
+      "id": "grammar.72",
+      "en": "also",
+      "meaning_ru": "также, тоже",
+      "example_en": "She also speaks French.",
+      "example_ru": "Она также говорит по-французски.",
+      "mistakes_ru": "\"Also\" ставится перед смысловым глаголом, \"too\" — в конце предложения: \"I also like it\" = \"I like it too\"."
+    },
+    {
+      "id": "grammar.73",
+      "en": "very",
+      "meaning_ru": "очень",
+      "example_en": "This book is very interesting.",
+      "example_ru": "Эта книга очень интересная.",
+      "mistakes_ru": "\"Very\" не используется с прилагательными, уже имеющими предельное значение: не \"very perfect\", а \"absolutely perfect\"."
+    },
+    {
+      "id": "grammar.74",
+      "en": "often",
+      "meaning_ru": "часто",
+      "example_en": "I often go for walks.",
+      "example_ru": "Я часто хожу гулять.",
+      "mistakes_ru": "Наречия частотности обычно ставятся перед смысловым глаголом, но после \"to be\": \"I often go\" vs \"I am often late\"."
+    },
+    {
+      "id": "grammar.75",
+      "en": "however",
+      "meaning_ru": "однако, тем не менее",
+      "example_en": "I like the plan; however, it's risky.",
+      "example_ru": "Мне нравится план, однако он рискованный.",
+      "mistakes_ru": "\"However\" в начале предложения обычно отделяется запятой."
+    },
+    {
+      "id": "grammar.76",
+      "en": "too",
+      "meaning_ru": "тоже; слишком",
+      "example_en": "This coffee is too hot.",
+      "example_ru": "Этот кофе слишком горячий.",
+      "mistakes_ru": "\"Too\" (слишком, негативный оттенок) не путайте с \"very\" (просто \"очень\", нейтрально)."
+    },
+    {
+      "id": "grammar.77",
+      "en": "usually",
+      "meaning_ru": "обычно",
+      "example_en": "I usually wake up at seven.",
+      "example_ru": "Обычно я просыпаюсь в семь.",
+      "mistakes_ru": "Ставится перед смысловым глаголом, но после \"to be\": \"I usually eat\", но \"I am usually tired\"."
+    },
+    {
+      "id": "grammar.78",
+      "en": "really",
+      "meaning_ru": "действительно, очень",
+      "example_en": "I really like this song.",
+      "example_ru": "Мне действительно нравится эта песня.",
+      "mistakes_ru": "\"Really\" — наречие, не путайте с \"real\" (прилагательное): \"really good\", а не \"real good\"."
+    },
+    {
+      "id": "grammar.79",
+      "en": "never",
+      "meaning_ru": "никогда",
+      "example_en": "I never eat meat.",
+      "example_ru": "Я никогда не ем мясо.",
+      "mistakes_ru": "\"Never\" уже содержит отрицание — не используйте с \"not\": \"I never go there\", а не двойное отрицание."
+    },
+    {
+      "id": "grammar.80",
+      "en": "always",
+      "meaning_ru": "всегда",
+      "example_en": "She always arrives on time.",
+      "example_ru": "Она всегда приходит вовремя.",
+      "mistakes_ru": "Ставится перед смысловым глаголом: \"always arrives\", а не \"arrives always\"."
+    },
+    {
+      "id": "grammar.81",
+      "en": "sometimes",
+      "meaning_ru": "иногда",
+      "example_en": "Sometimes I work from home.",
+      "example_ru": "Иногда я работаю из дома.",
+      "mistakes_ru": "В отличие от \"often/always/never\", \"sometimes\" может стоять и в начале предложения, и перед глаголом."
+    },
+    {
+      "id": "grammar.82",
+      "en": "together",
+      "meaning_ru": "вместе",
+      "example_en": "Let's work on this together.",
+      "example_ru": "Давай поработаем над этим вместе.",
+      "mistakes_ru": "\"Together\" обычно ставится в конце предложения, а не перед глаголом: \"we live together\"."
+    },
+    {
+      "id": "grammar.83",
+      "en": "likely",
+      "meaning_ru": "вероятно",
+      "example_en": "It's likely to rain today.",
+      "example_ru": "Вероятно, сегодня будет дождь.",
+      "mistakes_ru": "Необычное наречие на \"-ly\", использующееся и как прилагательное; часто в конструкции \"be likely to do\"."
+    },
+    {
+      "id": "grammar.84",
+      "en": "simply",
+      "meaning_ru": "просто (только, всего лишь)",
+      "example_en": "I simply forgot about the meeting.",
+      "example_ru": "Я просто забыл о встрече.",
+      "mistakes_ru": "Не путайте с прилагательным \"simple\" (простой) — \"simply\" изменяет глагол, \"simple\" — существительное."
+    },
+    {
+      "id": "grammar.85",
+      "en": "generally",
+      "meaning_ru": "в целом, обычно",
+      "example_en": "Generally, I agree with you.",
+      "example_ru": "В целом, я с тобой согласен.",
+      "mistakes_ru": "\"Generally speaking\" — устойчивое выражение \"вообще говоря\"."
+    },
+    {
+      "id": "grammar.86",
+      "en": "instead",
+      "meaning_ru": "вместо (этого)",
+      "example_en": "I don't have tea, let's have coffee instead.",
+      "example_ru": "У меня нет чая, давай выпьем кофе вместо этого.",
+      "mistakes_ru": "\"Instead of doing something\" (с предлогом \"of\" + герундий) отличается от самостоятельного \"instead\"."
+    },
+    {
+      "id": "grammar.87",
+      "en": "actually",
+      "meaning_ru": "на самом деле, вообще-то",
+      "example_en": "Actually, I disagree with you.",
+      "example_ru": "Вообще-то, я с тобой не согласен.",
+      "mistakes_ru": "Не путайте с русским \"актуально\" (relevant) — \"actually\" означает \"на самом деле\", ложный друг переводчика."
+    },
+    {
+      "id": "grammar.88",
+      "en": "again",
+      "meaning_ru": "снова, опять",
+      "example_en": "Can you say that again?",
+      "example_ru": "Можешь повторить это снова?",
+      "mistakes_ru": "\"Again\" обычно ставится в конце предложения: \"do it again\", а не \"again do it\"."
+    },
+    {
+      "id": "grammar.89",
+      "en": "here",
+      "meaning_ru": "здесь, сюда",
+      "example_en": "Come here, please.",
+      "example_ru": "Иди сюда, пожалуйста.",
+      "mistakes_ru": "\"Here\" не требует предлога \"to\": \"come here\", а не \"come to here\"."
+    },
+    {
+      "id": "grammar.90",
+      "en": "there",
+      "meaning_ru": "там, туда",
+      "example_en": "We went there last summer.",
+      "example_ru": "Мы ездили туда прошлым летом.",
+      "mistakes_ru": "Не путайте с \"their\" (их) и \"they're\" (they are) — омофоны, часто путают на письме."
+    },
+    {
+      "id": "grammar.91",
+      "en": "then",
+      "meaning_ru": "тогда, затем",
+      "example_en": "First we ate, then we watched a movie.",
+      "example_ru": "Сначала мы поели, потом посмотрели фильм.",
+      "mistakes_ru": "Не путайте с \"than\" (в сравнениях): \"then\" — про время, \"than\" — \"better than\" (лучше, чем)."
+    },
+    {
+      "id": "grammar.92",
+      "en": "now",
+      "meaning_ru": "сейчас",
+      "example_en": "I'm busy right now.",
+      "example_ru": "Я сейчас занят.",
+      "mistakes_ru": "\"Right now\" — усиленная форма \"именно сейчас\", а не просто \"right\" в значении \"прямо\"."
+    },
+    {
+      "id": "grammar.93",
+      "en": "still",
+      "meaning_ru": "всё ещё",
+      "example_en": "She still lives in Paris.",
+      "example_ru": "Она всё ещё живёт в Париже.",
+      "mistakes_ru": "\"Still\" (всё ещё) не путайте с \"yet\" (ещё, обычно в вопросах/отрицаниях): \"I'm still waiting\" vs \"Have you finished yet?\""
+    },
+    {
+      "id": "grammar.94",
+      "en": "just",
+      "meaning_ru": "только что; просто, всего лишь",
+      "example_en": "I just arrived home.",
+      "example_ru": "Я только что пришёл домой.",
+      "mistakes_ru": "\"Just\" в значении \"только что\" обычно используется с Present Perfect в британском английском: \"I've just arrived\"."
+    },
+    {
+      "id": "grammar.95",
+      "en": "only",
+      "meaning_ru": "только",
+      "example_en": "I have only one sister.",
+      "example_ru": "У меня только одна сестра.",
+      "mistakes_ru": "Положение \"only\" в предложении меняет смысл: \"Only I saw him\" vs \"I only saw him\"."
+    },
+    {
+      "id": "grammar.96",
+      "en": "even",
+      "meaning_ru": "даже",
+      "example_en": "Even my little brother can do this.",
+      "example_ru": "Даже мой маленький брат может это сделать.",
+      "mistakes_ru": "\"Even\" ставится непосредственно перед словом, которое усиливает — положение важно для смысла."
+    },
+    {
+      "id": "grammar.97",
+      "en": "back",
+      "meaning_ru": "обратно, назад",
+      "example_en": "I'll be back in five minutes.",
+      "example_ru": "Я вернусь через пять минут.",
+      "mistakes_ru": "\"Back\" в этом значении — наречие, не путайте с существительным \"back\" (спина) или глаголом \"to back\" (поддерживать)."
+    },
+    {
+      "id": "grammar.98",
+      "en": "almost",
+      "meaning_ru": "почти",
+      "example_en": "I'm almost finished with this.",
+      "example_ru": "Я почти закончил с этим.",
+      "mistakes_ru": "\"Almost\" ставится перед словом, которое оно определяет: \"almost every day\", а не \"every almost day\"."
+    },
+    {
+      "id": "grammar.99",
+      "en": "probably",
+      "meaning_ru": "наверное, вероятно",
+      "example_en": "She will probably be late.",
+      "example_ru": "Она, наверное, опоздает.",
+      "mistakes_ru": "Ставится перед смысловым глаголом, но после \"to be\" и модальных глаголов: \"will probably be\"."
+    },
+    {
+      "id": "grammar.100",
+      "en": "quickly",
+      "meaning_ru": "быстро",
+      "example_en": "Please answer quickly.",
+      "example_ru": "Пожалуйста, ответь быстро.",
+      "mistakes_ru": "Наречие образовано от прилагательного \"quick\" + \"-ly\": \"drive quickly\", но \"a quick answer\" (прилагательное)."
+    }
+  ]
+}
