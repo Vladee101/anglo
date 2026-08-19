@@ -999,6 +999,406 @@
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
+  "listen-counting.1": {
+    "en": "eleven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.10": {
+    "en": "ten",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.11": {
+    "en": "twenty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.12": {
+    "en": "thirty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.13": {
+    "en": "forty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.14": {
+    "en": "fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.15": {
+    "en": "sixty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.16": {
+    "en": "seventy",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.17": {
+    "en": "eighty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.18": {
+    "en": "ninety",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.19": {
+    "en": "twenty-one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.2": {
+    "en": "twelve",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.20": {
+    "en": "twenty-five",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.21": {
+    "en": "thirty-two",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.22": {
+    "en": "thirty-eight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.23": {
+    "en": "forty-three",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.24": {
+    "en": "forty-nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.25": {
+    "en": "fifty-four",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.26": {
+    "en": "fifty-seven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.27": {
+    "en": "sixty-one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.28": {
+    "en": "sixty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.29": {
+    "en": "seventy-two",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.3": {
+    "en": "thirteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.30": {
+    "en": "seventy-eight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.31": {
+    "en": "eighty-three",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.32": {
+    "en": "eighty-nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.33": {
+    "en": "ninety-four",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.34": {
+    "en": "ninety-nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.35": {
+    "en": "one hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.36": {
+    "en": "one hundred and one",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.37": {
+    "en": "one hundred and fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.38": {
+    "en": "two hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.39": {
+    "en": "two hundred and fifty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.4": {
+    "en": "fourteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.40": {
+    "en": "three hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.41": {
+    "en": "three hundred and forty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.42": {
+    "en": "four hundred and four",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.43": {
+    "en": "five hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.44": {
+    "en": "six hundred and seventeen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.45": {
+    "en": "seven hundred and fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.46": {
+    "en": "nine hundred and ninety-nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.47": {
+    "en": "one thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.48": {
+    "en": "one thousand five hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.49": {
+    "en": "two thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.5": {
+    "en": "fifteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.50": {
+    "en": "two thousand twenty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.51": {
+    "en": "three thousand four hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.52": {
+    "en": "five thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.53": {
+    "en": "six thousand two hundred and fifty",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.54": {
+    "en": "seven thousand seven hundred and seventy-seven",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.55": {
+    "en": "eight thousand eight hundred and eighty-eight",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.56": {
+    "en": "nine thousand nine hundred and ninety-nine",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.57": {
+    "en": "ten thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.58": {
+    "en": "fifteen thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.59": {
+    "en": "twenty thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.6": {
+    "en": "sixteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.60": {
+    "en": "twenty-five thousand five hundred",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.61": {
+    "en": "thirty-three thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.62": {
+    "en": "fifty thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.63": {
+    "en": "seventy-five thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.64": {
+    "en": "ninety-nine thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.65": {
+    "en": "The first of January",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.66": {
+    "en": "The fifth of May",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.67": {
+    "en": "The tenth of July",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.68": {
+    "en": "The twenty-second of August",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.69": {
+    "en": "The thirty-first of December",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.7": {
+    "en": "seventeen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.70": {
+    "en": "March third",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.71": {
+    "en": "September ninth",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.72": {
+    "en": "Nineteen forty-five",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.73": {
+    "en": "Nineteen ninety",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.74": {
+    "en": "Two thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.75": {
+    "en": "Two thousand twenty-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.76": {
+    "en": "The fourth of July, seventeen seventy-six",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.77": {
+    "en": "The ninth of May, nineteen forty-five",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.78": {
+    "en": "The first of January, two thousand",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.79": {
+    "en": "My birthday is on the fifteenth of June",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.8": {
+    "en": "eighteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.80": {
+    "en": "The concert is on the twelfth of November",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
+  "listen-counting.9": {
+    "en": "nineteen",
+    "rate": "-10%",
+    "voice": "en-US-JennyNeural"
+  },
   "listen-grammar.1": {
     "en": "of",
     "rate": "-10%",
@@ -1210,7 +1610,7 @@
     "voice": "en-US-JennyNeural"
   },
   "listen-grammar.47": {
-    "en": "public",
+    "en": "this",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1235,12 +1635,12 @@
     "voice": "en-US-JennyNeural"
   },
   "listen-grammar.51": {
-    "en": "human",
+    "en": "that",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
   "listen-grammar.52": {
-    "en": "local",
+    "en": "these",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },
@@ -1250,7 +1650,7 @@
     "voice": "en-US-JennyNeural"
   },
   "listen-grammar.54": {
-    "en": "national",
+    "en": "those",
     "rate": "-10%",
     "voice": "en-US-JennyNeural"
   },

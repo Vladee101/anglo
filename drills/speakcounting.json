@@ -1,0 +1,670 @@
+{
+  "id": "speak-counting",
+  "title_ru": "Говорение: счёт и даты",
+  "modality": "speak",
+  "items": [
+    {
+      "id": "speak-counting.1",
+      "en": "eleven",
+      "ru": "одиннадцать",
+      "accepted_en": [
+        "eleven"
+      ]
+    },
+    {
+      "id": "speak-counting.2",
+      "en": "twelve",
+      "ru": "двенадцать",
+      "accepted_en": [
+        "twelve"
+      ]
+    },
+    {
+      "id": "speak-counting.3",
+      "en": "thirteen",
+      "ru": "тринадцать",
+      "accepted_en": [
+        "thirteen"
+      ]
+    },
+    {
+      "id": "speak-counting.4",
+      "en": "fourteen",
+      "ru": "четырнадцать",
+      "accepted_en": [
+        "fourteen"
+      ]
+    },
+    {
+      "id": "speak-counting.5",
+      "en": "fifteen",
+      "ru": "пятнадцать",
+      "accepted_en": [
+        "fifteen"
+      ]
+    },
+    {
+      "id": "speak-counting.6",
+      "en": "sixteen",
+      "ru": "шестнадцать",
+      "accepted_en": [
+        "sixteen"
+      ]
+    },
+    {
+      "id": "speak-counting.7",
+      "en": "seventeen",
+      "ru": "семнадцать",
+      "accepted_en": [
+        "seventeen"
+      ]
+    },
+    {
+      "id": "speak-counting.8",
+      "en": "eighteen",
+      "ru": "восемнадцать",
+      "accepted_en": [
+        "eighteen"
+      ]
+    },
+    {
+      "id": "speak-counting.9",
+      "en": "nineteen",
+      "ru": "девятнадцать",
+      "accepted_en": [
+        "nineteen"
+      ]
+    },
+    {
+      "id": "speak-counting.10",
+      "en": "ten",
+      "ru": "десять",
+      "accepted_en": [
+        "ten"
+      ]
+    },
+    {
+      "id": "speak-counting.11",
+      "en": "twenty",
+      "ru": "двадцать",
+      "accepted_en": [
+        "twenty"
+      ]
+    },
+    {
+      "id": "speak-counting.12",
+      "en": "thirty",
+      "ru": "тридцать",
+      "accepted_en": [
+        "thirty"
+      ]
+    },
+    {
+      "id": "speak-counting.13",
+      "en": "forty",
+      "ru": "сорок",
+      "accepted_en": [
+        "forty"
+      ]
+    },
+    {
+      "id": "speak-counting.14",
+      "en": "fifty",
+      "ru": "пятьдесят",
+      "accepted_en": [
+        "fifty"
+      ]
+    },
+    {
+      "id": "speak-counting.15",
+      "en": "sixty",
+      "ru": "шестьдесят",
+      "accepted_en": [
+        "sixty"
+      ]
+    },
+    {
+      "id": "speak-counting.16",
+      "en": "seventy",
+      "ru": "семьдесят",
+      "accepted_en": [
+        "seventy"
+      ]
+    },
+    {
+      "id": "speak-counting.17",
+      "en": "eighty",
+      "ru": "восемьдесят",
+      "accepted_en": [
+        "eighty"
+      ]
+    },
+    {
+      "id": "speak-counting.18",
+      "en": "ninety",
+      "ru": "девяносто",
+      "accepted_en": [
+        "ninety"
+      ]
+    },
+    {
+      "id": "speak-counting.19",
+      "en": "twenty-one",
+      "ru": "двадцать один",
+      "accepted_en": [
+        "twenty-one"
+      ]
+    },
+    {
+      "id": "speak-counting.20",
+      "en": "twenty-five",
+      "ru": "двадцать пять",
+      "accepted_en": [
+        "twenty-five"
+      ]
+    },
+    {
+      "id": "speak-counting.21",
+      "en": "thirty-two",
+      "ru": "тридцать два",
+      "accepted_en": [
+        "thirty-two"
+      ]
+    },
+    {
+      "id": "speak-counting.22",
+      "en": "thirty-eight",
+      "ru": "тридцать восемь",
+      "accepted_en": [
+        "thirty-eight"
+      ]
+    },
+    {
+      "id": "speak-counting.23",
+      "en": "forty-three",
+      "ru": "сорок три",
+      "accepted_en": [
+        "forty-three"
+      ]
+    },
+    {
+      "id": "speak-counting.24",
+      "en": "forty-nine",
+      "ru": "сорок девять",
+      "accepted_en": [
+        "forty-nine"
+      ]
+    },
+    {
+      "id": "speak-counting.25",
+      "en": "fifty-four",
+      "ru": "пятьдесят четыре",
+      "accepted_en": [
+        "fifty-four"
+      ]
+    },
+    {
+      "id": "speak-counting.26",
+      "en": "fifty-seven",
+      "ru": "пятьдесят семь",
+      "accepted_en": [
+        "fifty-seven"
+      ]
+    },
+    {
+      "id": "speak-counting.27",
+      "en": "sixty-one",
+      "ru": "шестьдесят один",
+      "accepted_en": [
+        "sixty-one"
+      ]
+    },
+    {
+      "id": "speak-counting.28",
+      "en": "sixty-six",
+      "ru": "шестьдесят шесть",
+      "accepted_en": [
+        "sixty-six"
+      ]
+    },
+    {
+      "id": "speak-counting.29",
+      "en": "seventy-two",
+      "ru": "семьдесят два",
+      "accepted_en": [
+        "seventy-two"
+      ]
+    },
+    {
+      "id": "speak-counting.30",
+      "en": "seventy-eight",
+      "ru": "семьдесят восемь",
+      "accepted_en": [
+        "seventy-eight"
+      ]
+    },
+    {
+      "id": "speak-counting.31",
+      "en": "eighty-three",
+      "ru": "восемьдесят три",
+      "accepted_en": [
+        "eighty-three"
+      ]
+    },
+    {
+      "id": "speak-counting.32",
+      "en": "eighty-nine",
+      "ru": "восемьдесят девять",
+      "accepted_en": [
+        "eighty-nine"
+      ]
+    },
+    {
+      "id": "speak-counting.33",
+      "en": "ninety-four",
+      "ru": "девяносто четыре",
+      "accepted_en": [
+        "ninety-four"
+      ]
+    },
+    {
+      "id": "speak-counting.34",
+      "en": "ninety-nine",
+      "ru": "девяносто девять",
+      "accepted_en": [
+        "ninety-nine"
+      ]
+    },
+    {
+      "id": "speak-counting.35",
+      "en": "one hundred",
+      "ru": "сто",
+      "accepted_en": [
+        "one hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.36",
+      "en": "one hundred and one",
+      "ru": "сто один",
+      "accepted_en": [
+        "one hundred and one",
+        "one hundred one"
+      ]
+    },
+    {
+      "id": "speak-counting.37",
+      "en": "one hundred and fifty",
+      "ru": "сто пятьдесят",
+      "accepted_en": [
+        "one hundred and fifty",
+        "one hundred fifty"
+      ]
+    },
+    {
+      "id": "speak-counting.38",
+      "en": "two hundred",
+      "ru": "двести",
+      "accepted_en": [
+        "two hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.39",
+      "en": "two hundred and fifty-six",
+      "ru": "двести пятьдесят шесть",
+      "accepted_en": [
+        "two hundred and fifty-six",
+        "two hundred fifty-six"
+      ]
+    },
+    {
+      "id": "speak-counting.40",
+      "en": "three hundred",
+      "ru": "триста",
+      "accepted_en": [
+        "three hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.41",
+      "en": "three hundred and forty",
+      "ru": "триста сорок",
+      "accepted_en": [
+        "three hundred and forty",
+        "three hundred forty"
+      ]
+    },
+    {
+      "id": "speak-counting.42",
+      "en": "four hundred and four",
+      "ru": "четыреста четыре",
+      "accepted_en": [
+        "four hundred and four",
+        "four hundred four"
+      ]
+    },
+    {
+      "id": "speak-counting.43",
+      "en": "five hundred",
+      "ru": "пятьсот",
+      "accepted_en": [
+        "five hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.44",
+      "en": "six hundred and seventeen",
+      "ru": "шестьсот семнадцать",
+      "accepted_en": [
+        "six hundred and seventeen",
+        "six hundred seventeen"
+      ]
+    },
+    {
+      "id": "speak-counting.45",
+      "en": "seven hundred and fifty",
+      "ru": "семьсот пятьдесят",
+      "accepted_en": [
+        "seven hundred and fifty",
+        "seven hundred fifty"
+      ]
+    },
+    {
+      "id": "speak-counting.46",
+      "en": "nine hundred and ninety-nine",
+      "ru": "девятьсот девяносто девять",
+      "accepted_en": [
+        "nine hundred and ninety-nine",
+        "nine hundred ninety-nine"
+      ]
+    },
+    {
+      "id": "speak-counting.47",
+      "en": "one thousand",
+      "ru": "тысяча",
+      "accepted_en": [
+        "one thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.48",
+      "en": "one thousand five hundred",
+      "ru": "тысяча пятьсот",
+      "accepted_en": [
+        "one thousand five hundred",
+        "fifteen hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.49",
+      "en": "two thousand",
+      "ru": "две тысячи",
+      "accepted_en": [
+        "two thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.50",
+      "en": "two thousand twenty-six",
+      "ru": "две тысячи двадцать шесть",
+      "accepted_en": [
+        "two thousand twenty-six",
+        "twenty twenty-six"
+      ]
+    },
+    {
+      "id": "speak-counting.51",
+      "en": "three thousand four hundred",
+      "ru": "три тысячи четыреста",
+      "accepted_en": [
+        "three thousand four hundred",
+        "thirty-four hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.52",
+      "en": "five thousand",
+      "ru": "пять тысяч",
+      "accepted_en": [
+        "five thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.53",
+      "en": "six thousand two hundred and fifty",
+      "ru": "шесть тысяч двести пятьдесят",
+      "accepted_en": [
+        "six thousand two hundred and fifty",
+        "six thousand two hundred fifty"
+      ]
+    },
+    {
+      "id": "speak-counting.54",
+      "en": "seven thousand seven hundred and seventy-seven",
+      "ru": "семь тысяч семьсот семьдесят семь",
+      "accepted_en": [
+        "seven thousand seven hundred and seventy-seven",
+        "seven thousand seven hundred seventy-seven"
+      ]
+    },
+    {
+      "id": "speak-counting.55",
+      "en": "eight thousand eight hundred and eighty-eight",
+      "ru": "восемь тысяч восемьсот восемьдесят восемь",
+      "accepted_en": [
+        "eight thousand eight hundred and eighty-eight",
+        "eight thousand eight hundred eighty-eight"
+      ]
+    },
+    {
+      "id": "speak-counting.56",
+      "en": "nine thousand nine hundred and ninety-nine",
+      "ru": "девять тысяч девятьсот девяносто девять",
+      "accepted_en": [
+        "nine thousand nine hundred and ninety-nine",
+        "nine thousand nine hundred ninety-nine"
+      ]
+    },
+    {
+      "id": "speak-counting.57",
+      "en": "ten thousand",
+      "ru": "десять тысяч",
+      "accepted_en": [
+        "ten thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.58",
+      "en": "fifteen thousand",
+      "ru": "пятнадцать тысяч",
+      "accepted_en": [
+        "fifteen thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.59",
+      "en": "twenty thousand",
+      "ru": "двадцать тысяч",
+      "accepted_en": [
+        "twenty thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.60",
+      "en": "twenty-five thousand five hundred",
+      "ru": "двадцать пять тысяч пятьсот",
+      "accepted_en": [
+        "twenty-five thousand five hundred"
+      ]
+    },
+    {
+      "id": "speak-counting.61",
+      "en": "thirty-three thousand",
+      "ru": "тридцать три тысячи",
+      "accepted_en": [
+        "thirty-three thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.62",
+      "en": "fifty thousand",
+      "ru": "пятьдесят тысяч",
+      "accepted_en": [
+        "fifty thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.63",
+      "en": "seventy-five thousand",
+      "ru": "семьдесят пять тысяч",
+      "accepted_en": [
+        "seventy-five thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.64",
+      "en": "ninety-nine thousand",
+      "ru": "девяносто девять тысяч",
+      "accepted_en": [
+        "ninety-nine thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.65",
+      "en": "The first of January",
+      "ru": "Первое января",
+      "accepted_en": [
+        "The first of January",
+        "January first"
+      ]
+    },
+    {
+      "id": "speak-counting.66",
+      "en": "The fifth of May",
+      "ru": "Пятое мая",
+      "accepted_en": [
+        "The fifth of May",
+        "May fifth"
+      ]
+    },
+    {
+      "id": "speak-counting.67",
+      "en": "The tenth of July",
+      "ru": "Десятое июля",
+      "accepted_en": [
+        "The tenth of July",
+        "July tenth"
+      ]
+    },
+    {
+      "id": "speak-counting.68",
+      "en": "The twenty-second of August",
+      "ru": "Двадцать второе августа",
+      "accepted_en": [
+        "The twenty-second of August",
+        "August twenty-second"
+      ]
+    },
+    {
+      "id": "speak-counting.69",
+      "en": "The thirty-first of December",
+      "ru": "Тридцать первое декабря",
+      "accepted_en": [
+        "The thirty-first of December",
+        "December thirty-first"
+      ]
+    },
+    {
+      "id": "speak-counting.70",
+      "en": "March third",
+      "ru": "Третье марта",
+      "accepted_en": [
+        "March third",
+        "The third of March"
+      ]
+    },
+    {
+      "id": "speak-counting.71",
+      "en": "September ninth",
+      "ru": "Девятое сентября",
+      "accepted_en": [
+        "September ninth",
+        "The ninth of September"
+      ]
+    },
+    {
+      "id": "speak-counting.72",
+      "en": "Nineteen forty-five",
+      "ru": "Тысяча девятьсот сорок пятый год",
+      "accepted_en": [
+        "Nineteen forty-five"
+      ]
+    },
+    {
+      "id": "speak-counting.73",
+      "en": "Nineteen ninety",
+      "ru": "Тысяча девятьсот девяностый год",
+      "accepted_en": [
+        "Nineteen ninety"
+      ]
+    },
+    {
+      "id": "speak-counting.74",
+      "en": "Two thousand",
+      "ru": "Двухтысячный год",
+      "accepted_en": [
+        "Two thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.75",
+      "en": "Two thousand twenty-six",
+      "ru": "Две тысячи двадцать шестой год",
+      "accepted_en": [
+        "Two thousand twenty-six",
+        "Twenty twenty-six"
+      ]
+    },
+    {
+      "id": "speak-counting.76",
+      "en": "The fourth of July, seventeen seventy-six",
+      "ru": "Четвёртое июля тысяча семьсот семьдесят шестого года",
+      "accepted_en": [
+        "The fourth of July, seventeen seventy-six"
+      ]
+    },
+    {
+      "id": "speak-counting.77",
+      "en": "The ninth of May, nineteen forty-five",
+      "ru": "Девятое мая тысяча девятьсот сорок пятого года",
+      "accepted_en": [
+        "The ninth of May, nineteen forty-five"
+      ]
+    },
+    {
+      "id": "speak-counting.78",
+      "en": "The first of January, two thousand",
+      "ru": "Первое января двухтысячного года",
+      "accepted_en": [
+        "The first of January, two thousand"
+      ]
+    },
+    {
+      "id": "speak-counting.79",
+      "en": "My birthday is on the fifteenth of June",
+      "ru": "Мой день рождения пятнадцатого июня",
+      "accepted_en": [
+        "My birthday is on the fifteenth of June"
+      ]
+    },
+    {
+      "id": "speak-counting.80",
+      "en": "The concert is on the twelfth of November",
+      "ru": "Концерт двенадцатого ноября",
+      "accepted_en": [
+        "The concert is on the twelfth of November"
+      ]
+    }
+  ]
+}

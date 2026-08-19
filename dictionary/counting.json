@@ -1,0 +1,278 @@
+{
+  "id": "counting",
+  "title_ru": "Словарь: числа, даты, месяцы",
+  "entries": [
+    {
+      "id": "counting.1",
+      "en": "13-19 (teens)",
+      "meaning_ru": "Числа от 13 до 19 образуются суффиксом \"-teen\": three→thirteen, four→fourteen. Исключения: eleven (11) и twelve (12) — особые слова, не по правилу.",
+      "example_en": "There are fourteen students in the class.",
+      "example_ru": "В классе четырнадцать студентов.",
+      "mistakes_ru": "Не путайте на слух -teen [tiːn] (тринадцать и т.д.) и -ty [ti] (тридцать и т.д.) — ударение падает на разные слоги: thirTEEN vs THIRty."
+    },
+    {
+      "id": "counting.2",
+      "en": "20, 30, 40... (tens)",
+      "meaning_ru": "Круглые десятки образуются суффиксом \"-ty\": two→twenty, three→thirty, four→forty (не \"fourty\"!), five→fifty (не \"fivety\"), eight→eighty (одна \"t\").",
+      "example_en": "She is forty years old.",
+      "example_ru": "Ей сорок лет.",
+      "mistakes_ru": "Частые орфографические ошибки: forty (не \"fourty\"), fifty (не \"fivety\"), nine→ninety (теряется \"e\")."
+    },
+    {
+      "id": "counting.3",
+      "en": "21-99 (compound numbers)",
+      "meaning_ru": "Составные числа от 21 до 99 пишутся через дефис: десятки + единицы, например twenty-one, forty-five, ninety-nine.",
+      "example_en": "I am thirty-two years old.",
+      "example_ru": "Мне тридцать два года.",
+      "mistakes_ru": "Не забывайте дефис на письме: \"twenty-one\", а не \"twenty one\" или слитно \"twentyone\"."
+    },
+    {
+      "id": "counting.4",
+      "en": "100+ (hundreds)",
+      "meaning_ru": "Сотни образуются словом \"hundred\" (не изменяется во множественном числе после числительного): two hundred, five hundred.",
+      "example_en": "The book has two hundred and fifty pages.",
+      "example_ru": "В книге двести пятьдесят страниц.",
+      "mistakes_ru": "После числительного \"hundred\" не ставится \"-s\": \"five hundred\", а не \"five hundreds\" (кроме \"hundreds of people\" — неопределённое множество)."
+    },
+    {
+      "id": "counting.5",
+      "en": "and in hundreds (BrE vs AmE)",
+      "meaning_ru": "В британском английском между сотнями и остатком числа обычно ставится \"and\": \"one hundred and five\". В американском английском \"and\" часто опускается: \"one hundred five\".",
+      "example_en": "one hundred and five (BrE) / one hundred five (AmE)",
+      "example_ru": "сто пять",
+      "mistakes_ru": "Оба варианта верны — ориентируйтесь на региональный стандарт, но помните, что оба означают одно и то же число (105)."
+    },
+    {
+      "id": "counting.6",
+      "en": "1,000+ (thousands)",
+      "meaning_ru": "Тысячи образуются словом \"thousand\" (тоже без \"-s\" после числительного): two thousand, ten thousand.",
+      "example_en": "The city has fifty thousand people.",
+      "example_ru": "В городе пятьдесят тысяч человек.",
+      "mistakes_ru": "Как и с \"hundred\", не добавляйте \"-s\": \"ten thousand\", а не \"ten thousands\" (кроме \"thousands of dollars\" — неопределённое множество)."
+    },
+    {
+      "id": "counting.7",
+      "en": "1,000,000 (grouping large numbers)",
+      "meaning_ru": "Большие числа в письменном виде разделяются запятыми по три разряда: 1,000 / 25,000 / 1,000,000 — это облегчает чтение.",
+      "example_en": "1,250,000 = one million, two hundred and fifty thousand",
+      "example_ru": "1 250 000 = один миллион двести пятьдесят тысяч",
+      "mistakes_ru": "В русском для разделения разрядов обычно используют пробел (1 250 000), а не запятую — не путайте при записи чисел на английском."
+    },
+    {
+      "id": "counting.8",
+      "en": "1st, 2nd, 3rd... (ordinal numbers)",
+      "meaning_ru": "Порядковые числительные образуются добавлением \"-th\" (fourth, fifth...), кроме особых форм: first (1st), second (2nd), third (3rd).",
+      "example_en": "This is my third visit to London.",
+      "example_ru": "Это мой третий визит в Лондон.",
+      "mistakes_ru": "Не путайте first/second/third с их неправильными формами — остальные числа регулярны с \"-th\": fifth, sixth, seventh... twentieth (не \"twentyth\")."
+    },
+    {
+      "id": "counting.9",
+      "en": "0 (zero)",
+      "meaning_ru": "Ноль по-английски — \"zero\" (формально), но в устной речи (например, номера телефонов) часто говорят \"oh\", как букву \"O\".",
+      "example_en": "My number is oh-two-oh, one-two-three.",
+      "example_ru": "Мой номер: ноль-два-ноль, один-два-три.",
+      "mistakes_ru": "В спортивном счёте ноль часто называют \"nil\" (BrE) или \"nothing\" (AmE): \"two-nil\" — счёт два-ноль."
+    },
+    {
+      "id": "counting.10",
+      "en": "January",
+      "meaning_ru": "январь",
+      "example_en": "My birthday is in January.",
+      "example_ru": "Мой день рождения в январе.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.11",
+      "en": "February",
+      "meaning_ru": "февраль",
+      "example_en": "February is a short month.",
+      "example_ru": "Февраль — короткий месяц.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.12",
+      "en": "March",
+      "meaning_ru": "март",
+      "example_en": "Spring starts in March.",
+      "example_ru": "Весна начинается в марте.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.13",
+      "en": "April",
+      "meaning_ru": "апрель",
+      "example_en": "It often rains in April.",
+      "example_ru": "В апреле часто идёт дождь.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.14",
+      "en": "May",
+      "meaning_ru": "май",
+      "example_en": "We celebrate Victory Day on the ninth of May.",
+      "example_ru": "Мы празднуем День Победы девятого мая.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.15",
+      "en": "June",
+      "meaning_ru": "июнь",
+      "example_en": "School ends in June.",
+      "example_ru": "Учебный год заканчивается в июне.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.16",
+      "en": "July",
+      "meaning_ru": "июль",
+      "example_en": "July is the hottest month here.",
+      "example_ru": "Июль — самый жаркий месяц здесь.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.17",
+      "en": "August",
+      "meaning_ru": "август",
+      "example_en": "We usually travel in August.",
+      "example_ru": "Обычно мы путешествуем в августе.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.18",
+      "en": "September",
+      "meaning_ru": "сентябрь",
+      "example_en": "School starts on the first of September.",
+      "example_ru": "Школа начинается первого сентября.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.19",
+      "en": "October",
+      "meaning_ru": "октябрь",
+      "example_en": "The leaves turn yellow in October.",
+      "example_ru": "Листья желтеют в октябре.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.20",
+      "en": "November",
+      "meaning_ru": "ноябрь",
+      "example_en": "It gets cold in November.",
+      "example_ru": "В ноябре становится холодно.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.21",
+      "en": "December",
+      "meaning_ru": "декабрь",
+      "example_en": "New Year is at the end of December.",
+      "example_ru": "Новый год в конце декабря.",
+      "mistakes_ru": "Названия месяцев в английском всегда пишутся с заглавной буквы, в отличие от русского: \"January\", а не \"january\"."
+    },
+    {
+      "id": "counting.22",
+      "en": "Monday",
+      "meaning_ru": "понедельник",
+      "example_en": "I go to the gym on Mondays.",
+      "example_ru": "По понедельникам я хожу в спортзал.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.23",
+      "en": "Tuesday",
+      "meaning_ru": "вторник",
+      "example_en": "The meeting is on Tuesday.",
+      "example_ru": "Встреча во вторник.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.24",
+      "en": "Wednesday",
+      "meaning_ru": "среда",
+      "example_en": "We have English class on Wednesday.",
+      "example_ru": "У нас урок английского в среду.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.25",
+      "en": "Thursday",
+      "meaning_ru": "четверг",
+      "example_en": "I'm free on Thursday evening.",
+      "example_ru": "Я свободен в четверг вечером.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.26",
+      "en": "Friday",
+      "meaning_ru": "пятница",
+      "example_en": "Friday is my favorite day.",
+      "example_ru": "Пятница — мой любимый день.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.27",
+      "en": "Saturday",
+      "meaning_ru": "суббота",
+      "example_en": "We usually relax on Saturday.",
+      "example_ru": "Обычно мы отдыхаем в субботу.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.28",
+      "en": "Sunday",
+      "meaning_ru": "воскресенье",
+      "example_en": "The shop is closed on Sunday.",
+      "example_ru": "Магазин закрыт по воскресеньям.",
+      "mistakes_ru": "Названия дней недели тоже всегда пишутся с заглавной буквы: \"Monday\", а не \"monday\"."
+    },
+    {
+      "id": "counting.29",
+      "en": "the 5th of May (BrE date style)",
+      "meaning_ru": "Британский стиль: \"the\" + порядковое число + \"of\" + месяц. На письме дата пишется цифрами: 5 May или 5th May.",
+      "example_en": "My birthday is on the fifth of May.",
+      "example_ru": "Мой день рождения пятого мая.",
+      "mistakes_ru": "Не забывайте артикль \"the\" перед числом и предлог \"of\" перед месяцем в этом стиле — оба обязательны."
+    },
+    {
+      "id": "counting.30",
+      "en": "May 5th (AmE date style)",
+      "meaning_ru": "Американский стиль: месяц + порядковое число, без \"the\" и \"of\". Числовая запись даты в США: месяц/день/год.",
+      "example_en": "The meeting is on May fifth.",
+      "example_ru": "Встреча пятого мая.",
+      "mistakes_ru": "В США числовой формат даты — месяц/день/год (5/9/2026 = 9 мая), а не день/месяц/год, как в России — легко перепутать даты вроде 05/09."
+    },
+    {
+      "id": "counting.31",
+      "en": "years before 2000 (pronunciation)",
+      "meaning_ru": "Годы до 2000 обычно произносятся парами по два числа: 1990 = nineteen ninety, 1945 = nineteen forty-five.",
+      "example_en": "She was born in nineteen eighty-seven.",
+      "example_ru": "Она родилась в тысяча девятьсот восемьдесят седьмом году.",
+      "mistakes_ru": "Не произносите год как одно большое число (\"one thousand nine hundred ninety\") — это грамматически верно, но звучит неестественно; стандартно разбивают на пары."
+    },
+    {
+      "id": "counting.32",
+      "en": "years 2000-2009 (pronunciation)",
+      "meaning_ru": "Годы 2000-2009 обычно произносятся как \"two thousand\" + число: 2005 = two thousand (and) five.",
+      "example_en": "The company was founded in two thousand three.",
+      "example_ru": "Компания была основана в две тысячи третьем году.",
+      "mistakes_ru": "В этом десятилетии разбивка на пары (\"twenty oh-five\") встречается гораздо реже, чем для более поздних годов."
+    },
+    {
+      "id": "counting.33",
+      "en": "years from 2010 onward (pronunciation)",
+      "meaning_ru": "С 2010 года всё чаще произносят год парой чисел, как и до 2000: 2026 = twenty twenty-six (наравне с two thousand twenty-six).",
+      "example_en": "We met in twenty twenty-two.",
+      "example_ru": "Мы познакомились в две тысячи двадцать втором году.",
+      "mistakes_ru": "Оба варианта верны и оба используются — \"two thousand twenty-six\" и \"twenty twenty-six\" — не думайте, что правильный только один."
+    },
+    {
+      "id": "counting.34",
+      "en": "on/in with dates",
+      "meaning_ru": "С конкретной датой или днём недели используется предлог \"on\": on Monday, on the 5th of May. С месяцем или годом отдельно — предлог \"in\": in May, in 2026.",
+      "example_en": "The exam is on the fifth of May.",
+      "example_ru": "Экзамен пятого мая.",
+      "mistakes_ru": "Не путайте: \"in May\" (в мае, без числа), но \"on the 5th of May\" (пятого мая, с числом) — разные предлоги в зависимости от точности даты."
+    }
+  ]
+}
