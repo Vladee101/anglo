@@ -3,13 +3,17 @@ import type { Chain, Drill, Manifest, ManifestEntry, Mode, Playlist, StepResult 
 import { MODALITIES } from './modalities'
 import { findResume, withResult } from './lib/playlist'
 import { createWebSpeechScorer } from './lib/webSpeechScorer'
+import { createDemoScorer } from './lib/speech'
 import { clearProgress, loadMode, loadProgress, saveMode, saveProgress } from './lib/storage'
 import { clearAuthUser, loadAuthUser, saveAuthUser } from './lib/auth'
+import { parseDeepLink, type DemoSpeechMode } from './lib/urlParams'
+import { loadCustomChains, saveCustomChain } from './lib/ugcFeed'
 import { TitleScreen } from './TitleScreen'
 import { CompleteScreen } from './CompleteScreen'
 import { ExerciseRunner } from './ExerciseRunner'
 import { DictionaryScreen } from './DictionaryScreen'
 import { LoginScreen } from './LoginScreen'
+import { SnowballCreatorScreen } from './SnowballCreatorScreen'
 import { Header } from './Header'
 import { Footer } from './Footer'
 
@@ -59,19 +63,33 @@ function isDrill(x: unknown): x is Drill {
   })
 }
 
-async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist> {
+function chainToPlaylist(data: Chain): Playlist {
+  return {
+    id: data.id,
+    title_ru: data.title_ru,
+    items: data.steps,
+    modalities: MODALITIES,
+    progressive: data.progressive,
+    reel_hook_ru: data.reel_hook_ru,
+    author: data.author,
+  }
+}
+
+async function fetchPlaylist(
+  mode: Mode,
+  unit: ManifestEntry,
+  customChains: Chain[],
+): Promise<Playlist> {
+  if (mode === 'mixed') {
+    const custom = customChains.find((c) => c.id === unit.id)
+    if (custom) return chainToPlaylist(custom)
+  }
   const res = await fetch(`${import.meta.env.BASE_URL}${unit.file}`)
   if (!res.ok) throw new Error(`HTTP ${res.status}`)
   const data: unknown = await res.json()
   if (mode === 'mixed') {
     if (!isChain(data)) throw new Error('chain JSON has unexpected shape')
-    return {
-      id: data.id,
-      title_ru: data.title_ru,
-      items: data.steps,
-      modalities: MODALITIES,
-      progressive: data.progressive,
-    }
+    return chainToPlaylist(data)
   }
   if (!isDrill(data)) throw new Error('drill JSON has unexpected shape')
   return {
@@ -85,17 +103,37 @@ async function fetchPlaylist(mode: Mode, unit: ManifestEntry): Promise<Playlist>
 type Screen = 'loading' | 'error' | 'title' | 'play' | 'complete'
 
 export default function App() {
-  const [authUser, setAuthUser] = useState<string | null>(loadAuthUser)
+  const deepLink = useMemo(() => parseDeepLink(), [])
+  const [authUser, setAuthUser] = useState<string | null>(() => loadAuthUser() ?? 'Guest')
+  const [showLoginModal, setShowLoginModal] = useState(false)
+  const [studioMode, setStudioMode] = useState<boolean>(deepLink.studio)
+  const [demoSpeech, setDemoSpeech] = useState<DemoSpeechMode>(deepLink.demoSpeech)
+  const [customChains, setCustomChains] = useState<Chain[]>(() => {
+    const existing = loadCustomChains()
+    if (deepLink.sharedChain && !existing.some((c) => c.id === deepLink.sharedChain?.id)) {
+      return saveCustomChain(deepLink.sharedChain)
+    }
+    return existing
+  })
+
   const [manifest, setManifest] = useState<Manifest | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
   const [screen, setScreen] = useState<Screen>('loading')
-  const [mode, setMode] = useState<Mode>(loadMode)
-  const [unitId, setUnitId] = useState<string | null>(null)
+  const [mode, setMode] = useState<Mode>(() => deepLink.mode ?? loadMode())
+  const [unitId, setUnitId] = useState<string | null>(() => deepLink.unitId)
   const [playlist, setPlaylist] = useState<Playlist | null>(null)
   const [progress, setProgress] = useState<ReturnType<typeof loadProgress>>([])
   const [pos, setPos] = useState({ itemIndex: 0, modIndex: 0 })
   const [dictionaryOpen, setDictionaryOpen] = useState(false)
-  const scorer = useMemo(() => createWebSpeechScorer(), [])
+  const [creatorOpen, setCreatorOpen] = useState(false)
+
+  const webScorer = useMemo(() => createWebSpeechScorer(), [])
+  const scorer = useMemo(() => {
+    if (demoSpeech === 'pass' || demoSpeech === 'funny-fail') {
+      return createDemoScorer(demoSpeech)
+    }
+    return webScorer
+  }, [demoSpeech, webScorer])
 
   useEffect(() => {
     let cancelled = false
@@ -120,7 +158,19 @@ export default function App() {
     }
   }, [])
 
-  const bucket = manifest?.[mode] ?? []
+  const bucket = useMemo(() => {
+    const base = manifest?.[mode] ?? []
+    if (mode !== 'mixed') return base
+    const customEntries: ManifestEntry[] = customChains.map((c) => ({
+      id: c.id,
+      title_ru: c.title_ru,
+      file: `custom/${c.id}.json`,
+      progressive: true,
+      reel_hook_ru: c.reel_hook_ru,
+    }))
+    return [...customEntries, ...base]
+  }, [manifest, mode, customChains])
+
   const unit = bucket.length === 1 ? bucket[0] : (bucket.find((u) => u.id === unitId) ?? null)
 
   // (Re)load the resolved unit's content + progress whenever it changes.
@@ -130,7 +180,7 @@ export default function App() {
       return
     }
     let cancelled = false
-    fetchPlaylist(mode, unit)
+    fetchPlaylist(mode, unit, customChains)
       .then((loaded) => {
         if (cancelled) return
         setPlaylist(loaded)
@@ -145,22 +195,24 @@ export default function App() {
       cancelled = true
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [mode, unit?.id])
+  }, [mode, unit?.id, customChains])
 
   const handleLogin = (username: string) => {
     saveAuthUser(username)
     setAuthUser(username)
+    setShowLoginModal(false)
   }
 
   const handleLogout = () => {
     clearAuthUser()
     setAuthUser(null)
+    setShowLoginModal(true)
   }
 
-  if (!authUser)
+  if (!authUser || showLoginModal)
     return (
       <>
-        <Header />
+        <Header studioMode={studioMode} onToggleStudio={() => setStudioMode((s) => !s)} />
         <LoginScreen onLogin={handleLogin} />
         <Footer />
       </>
@@ -169,7 +221,12 @@ export default function App() {
   if (screen === 'loading')
     return (
       <>
-        <Header user={authUser} onLogout={handleLogout} />
+        <Header
+          user={authUser}
+          onLogout={handleLogout}
+          studioMode={studioMode}
+          onToggleStudio={() => setStudioMode((s) => !s)}
+        />
         <main className="app">Загрузка…</main>
         <Footer />
       </>
@@ -177,7 +234,12 @@ export default function App() {
   if (screen === 'error' || !manifest)
     return (
       <>
-        <Header user={authUser} onLogout={handleLogout} />
+        <Header
+          user={authUser}
+          onLogout={handleLogout}
+          studioMode={studioMode}
+          onToggleStudio={() => setStudioMode((s) => !s)}
+        />
         <main className="app">
           <p className="notice">Не удалось загрузить материал: {loadError}</p>
         </main>
@@ -225,45 +287,78 @@ export default function App() {
     }
   }
 
-  const content = dictionaryOpen ? (
+  const handleSaveCustomChain = (chain: Chain) => {
+    const updated = saveCustomChain(chain)
+    setCustomChains(updated)
+    setCreatorOpen(false)
+    setMode('mixed')
+    setUnitId(chain.id)
+    setPlaylist(chainToPlaylist(chain))
+    setProgress([])
+    setPos({ itemIndex: 0, modIndex: 0 })
+    setScreen('play')
+  }
+
+  const activeCustomChain = customChains.find((c) => c.id === playlist?.id) ?? null
+
+  const content = creatorOpen ? (
+    <SnowballCreatorScreen
+      author={authUser}
+      onSaveAndPlay={handleSaveCustomChain}
+      onClose={() => setCreatorOpen(false)}
+    />
+  ) : dictionaryOpen ? (
     <DictionaryScreen bucket={manifest.dictionary} onClose={() => setDictionaryOpen(false)} />
   ) : screen === 'complete' && playlist ? (
-      <CompleteScreen
-        playlist={playlist}
-        progress={progress}
-        onBackToTitle={() => setScreen('title')}
-      />
-    ) : screen === 'play' && playlist ? (
-      <ExerciseRunner
-        key={`${playlist.id}:${pos.itemIndex}:${playlist.modalities[pos.modIndex]}`}
-        playlist={playlist}
-        itemIndex={pos.itemIndex}
-        modality={playlist.modalities[pos.modIndex]}
-        scorer={scorer}
-        onDone={handleExerciseDone}
-        onExit={() => setScreen('title')}
-      />
-    ) : (
-      <TitleScreen
-        mode={mode}
-        onModeChange={changeMode}
-        bucket={bucket}
-        unit={unit}
-        onUnitChange={setUnitId}
-        onBackToList={() => setUnitId(null)}
-        playlist={playlist}
-        progress={progress}
-        onStart={start}
-        onReset={reset}
-        onOpenDictionary={() => setDictionaryOpen(true)}
-      />
-    )
+    <CompleteScreen
+      playlist={playlist}
+      progress={progress}
+      onBackToTitle={() => setScreen('title')}
+      user={authUser}
+      challenge={deepLink.challenge}
+      sharedChain={activeCustomChain}
+    />
+  ) : screen === 'play' && playlist ? (
+    <ExerciseRunner
+      key={`${playlist.id}:${pos.itemIndex}:${playlist.modalities[pos.modIndex]}`}
+      playlist={playlist}
+      itemIndex={pos.itemIndex}
+      modality={playlist.modalities[pos.modIndex]}
+      scorer={scorer}
+      onDone={handleExerciseDone}
+      onExit={() => setScreen('title')}
+      studioMode={studioMode}
+      demoSpeech={demoSpeech}
+      onDemoSpeechChange={setDemoSpeech}
+    />
+  ) : (
+    <TitleScreen
+      mode={mode}
+      onModeChange={changeMode}
+      bucket={bucket}
+      unit={unit}
+      onUnitChange={setUnitId}
+      onBackToList={() => setUnitId(null)}
+      playlist={playlist}
+      progress={progress}
+      onStart={start}
+      onReset={reset}
+      onOpenDictionary={() => setDictionaryOpen(true)}
+      onOpenCreator={() => setCreatorOpen(true)}
+      challenge={deepLink.challenge}
+    />
+  )
 
   return (
-    <>
-      <Header user={authUser} onLogout={handleLogout} />
+    <div className={studioMode ? 'studio-shell' : undefined}>
+      <Header
+        user={authUser}
+        onLogout={handleLogout}
+        studioMode={studioMode}
+        onToggleStudio={() => setStudioMode((s) => !s)}
+      />
       {content}
-      <Footer />
-    </>
+      {!studioMode && <Footer />}
+    </div>
   )
 }

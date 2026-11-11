@@ -23,13 +23,21 @@ export function OptionQuiz({ item, pool, index, prompt, onAttempt, done }: Props
     [pool, index, item.ru],
   )
   const [wrongPicks, setWrongPicks] = useState<string[]>([])
+  const [lastWrongPick, setLastWrongPick] = useState<string | null>(null)
 
   const pick = (ru: string) => {
     if (done) return
-    if (ru !== item.ru)
+    if (ru !== item.ru) {
       setWrongPicks((w) => (w.includes(ru) ? w : [...w, ru]))
+      setLastWrongPick(ru)
+    }
     onAttempt(ru === item.ru)
   }
+
+  const monsterReaction =
+    lastWrongPick && item.trap_reactions_ru?.[lastWrongPick]
+      ? item.trap_reactions_ru[lastWrongPick]
+      : null
 
   return (
     <div className="option-quiz">
@@ -50,6 +58,12 @@ export function OptionQuiz({ item, pool, index, prompt, onAttempt, done }: Props
           </button>
         ))}
       </div>
+      {monsterReaction && !done && (
+        <div className="monster-bubble" role="status">
+          <span className="monster-avatar">👾</span>
+          <p>{monsterReaction}</p>
+        </div>
+      )}
       {wrongPicks.length > 0 && !done && (
         <p className="feedback">
           Правильный ответ: <strong>{item.ru}</strong> — выберите его, чтобы продолжить.

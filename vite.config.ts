@@ -10,9 +10,6 @@ const DRILLS_DIR = join(root, 'drills')
 const DICTIONARY_DIR = join(root, 'dictionary')
 const PUBLIC_DIR = join(root, 'public')
 
-// Plain copy step: chains/*.json (and drills/*.json, dictionary/*.json) ->
-// public/ so the app can fetch them at runtime. Runs whenever this config
-// loads (dev, build, preview, test).
 mkdirSync(join(PUBLIC_DIR, 'chains'), { recursive: true })
 cpSync(CHAINS_DIR, join(PUBLIC_DIR, 'chains'), { recursive: true })
 
@@ -26,6 +23,8 @@ interface ManifestEntry {
   id: string
   title_ru: string
   file: string
+  progressive?: boolean
+  reel_hook_ru?: string
 }
 
 function readJsonFiles(dir: string): { data: Record<string, unknown>; file: string }[] {
@@ -35,11 +34,6 @@ function readJsonFiles(dir: string): { data: Record<string, unknown>; file: stri
     .map((f) => ({ data: JSON.parse(readFileSync(join(dir, f), 'utf8')), file: f }))
 }
 
-// Build a manifest of available content per mode, since a static app can't
-// list a directory at runtime. Buckets: "mixed" (from chains/*.json),
-// "read"/"listen"/"write"/"speak" (from drills/*.json, grouped by each
-// file's own `modality` field), and "dictionary" (from dictionary/*.json,
-// read-only reference lessons, not a quiz mode).
 const manifest: Record<string, ManifestEntry[]> = {
   mixed: [],
   read: [],
@@ -54,6 +48,8 @@ for (const { data: chain, file } of readJsonFiles(CHAINS_DIR)) {
     id: chain.id as string,
     title_ru: chain.title_ru as string,
     file: `chains/${file}`,
+    progressive: chain.progressive !== false,
+    reel_hook_ru: typeof chain.reel_hook_ru === 'string' ? chain.reel_hook_ru : undefined,
   })
 }
 

@@ -1,4 +1,4 @@
-import type { ManifestEntry, Mode, Playlist, StepProgress } from './types'
+import type { ChallengeContext, ManifestEntry, Mode, Playlist, StepProgress } from './types'
 import { findResume } from './lib/playlist'
 import { pluralizeRu } from './lib/pluralRu'
 
@@ -14,6 +14,8 @@ interface Props {
   onStart: () => void
   onReset: () => void
   onOpenDictionary: () => void
+  onOpenCreator?: () => void
+  challenge?: ChallengeContext | null
 }
 
 const MODE_OPTIONS: { mode: Mode; label: string }[] = [
@@ -36,6 +38,8 @@ export function TitleScreen({
   onStart,
   onReset,
   onOpenDictionary,
+  onOpenCreator,
+  challenge = null,
 }: Props) {
   const hasProgress = progress.length > 0
   const allDone = playlist !== null && findResume(playlist, progress) === null
@@ -55,7 +59,23 @@ export function TitleScreen({
         <button className="mode-option" onClick={onOpenDictionary}>
           Словарь
         </button>
+        {onOpenCreator && (
+          <button className="mode-option ugc-creator-btn" onClick={onOpenCreator}>
+            ⛄️ + Свой ком
+          </button>
+        )}
       </div>
+
+      {challenge && (
+        <div className="challenge-banner">
+          <strong>
+            🔥 Вызов от @{challenge.challenger}: пройди этот Снежный ком максимум за{' '}
+            {challenge.targetAttempts}{' '}
+            {pluralizeRu(challenge.targetAttempts, ['попытку', 'попытки', 'попыток'])}!
+          </strong>
+          {challenge.comment && <p className="muted">«{challenge.comment}»</p>}
+        </div>
+      )}
 
       {bucket.length === 0 && (
         <p className="notice">
@@ -68,7 +88,8 @@ export function TitleScreen({
           {bucket.map((u) => (
             <li key={u.id}>
               <button className="unit-option" onClick={() => onUnitChange(u.id)}>
-                {u.title_ru}
+                <span>{u.title_ru}</span>
+                {u.progressive && <span className="snowball-badge">⛄️ Снежный ком</span>}
               </button>
             </li>
           ))}
@@ -86,6 +107,9 @@ export function TitleScreen({
       {unit && playlist && (
         <>
           <h1>{playlist.title_ru}</h1>
+          {playlist.reel_hook_ru && (
+            <p className="reel-hook-preview">🎬 {playlist.reel_hook_ru}</p>
+          )}
           <p className="muted">
             {playlist.items.length}{' '}
             {pluralizeRu(playlist.items.length, ['шаг', 'шага', 'шагов'])} ·{' '}

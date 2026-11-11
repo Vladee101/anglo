@@ -1,0 +1,112 @@
+{
+  "id": "want-water",
+  "title_ru": "Снежный ком: Хочу ледяной воды!",
+  "progressive": true,
+  "reel_hook_ru": "Спорим, сломаешься на 6-м шаге? 🧊 Снежный ком от 2 до 9 слов!",
+  "steps": [
+    {
+      "id": "want-water.1",
+      "en": "I want",
+      "ru": "Я хочу",
+      "accepted_en": [
+        "I want"
+      ],
+      "new_part": "I want",
+      "trap_distractors_ru": [
+        "Я хотел",
+        "Ты хочешь",
+        "Я могу"
+      ],
+      "trap_reactions_ru": {
+        "Я хотел": "АнглоMonster: «Хотел» — это уже в прошлом (wanted), а пить хочется сейчас! 🦖",
+        "Ты хочешь": "АнглоMonster: Не перекладывай жажду на меня, там же «I» (Я)! 👀",
+        "Я могу": "АнглоMonster: «Могу» — это I can, а тут чистое желание! 🔥"
+      },
+      "audio": "audio/want-water.1.mp3"
+    },
+    {
+      "id": "want-water.2",
+      "en": "I want water",
+      "ru": "Я хочу воды",
+      "accepted_en": [
+        "I want water",
+        "I want some water"
+      ],
+      "new_part": "water",
+      "trap_distractors_ru": [
+        "Я хочу чаю"
+      ],
+      "trap_reactions_ru": {
+        "Я хочу чаю": "АнглоMonster: Сэр, вы не в Букингемском дворце — в пустыне просят water! ☕️❌"
+      },
+      "audio": "audio/want-water.2.mp3"
+    },
+    {
+      "id": "want-water.3",
+      "en": "I want to drink water",
+      "ru": "Я хочу выпить воды",
+      "accepted_en": [
+        "I want to drink water",
+        "I want to drink some water"
+      ],
+      "new_part": "to drink",
+      "trap_distractors_ru": [
+        "Я хочу полить цветы водой"
+      ],
+      "trap_reactions_ru": {
+        "Я хочу полить цветы водой": "АнглоMonster: Цветы подождут! To drink — это пить самому 🪴😂"
+      },
+      "audio": "audio/want-water.3.mp3"
+    },
+    {
+      "id": "want-water.4",
+      "en": "I want to drink cold water",
+      "ru": "Я хочу выпить холодной воды",
+      "accepted_en": [
+        "I want to drink cold water",
+        "I want to drink some cold water"
+      ],
+      "new_part": "cold",
+      "trap_distractors_ru": [
+        "Я хочу выпить кипятка"
+      ],
+      "trap_reactions_ru": {
+        "Я хочу выпить кипятка": "АнглоMonster: Cold — это холодная! Хотя русская привычка пить кипяток в +35°C легендарна 🥵"
+      },
+      "audio": "audio/want-water.4.mp3"
+    },
+    {
+      "id": "want-water.5",
+      "en": "I really want to drink cold water",
+      "ru": "Я очень хочу выпить холодной воды",
+      "accepted_en": [
+        "I really want to drink cold water"
+      ],
+      "new_part": "really",
+      "trap_distractors_ru": [
+        "Я вроде бы не против попить холодной воды"
+      ],
+      "trap_reactions_ru": {
+        "Я вроде бы не против попить холодной воды": "АнглоMonster: Really — это ОЧЕНЬ сильно, когда в горле уже Сахара! 🏜️"
+      },
+      "audio": "audio/want-water.5.mp3"
+    },
+    {
+      "id": "want-water.6",
+      "en": "I really want to drink cold water right now",
+      "ru": "Я очень хочу выпить холодной воды прямо сейчас",
+      "accepted_en": [
+        "I really want to drink cold water right now",
+        "I really want to drink cold water now"
+      ],
+      "new_part": "right now",
+      "trap_distractors_ru": [
+        "Я очень хочу выпить холодной воды в следующем году"
+      ],
+      "trap_reactions_ru": {
+        "Я очень хочу выпить холодной воды в следующем году": "АнглоMonster: До следующего года ты засохнешь! Right now — ПРЯМО СЕЙЧАС! ⚡️"
+      },
+      "audio": "audio/want-water.6.mp3"
+    }
+  ]
+}

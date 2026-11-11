@@ -31,12 +31,99 @@ body {
   gap: 16px;
 }
 
+/* 9:16 Studio / Reels container */
+.studio-shell {
+  width: 100%;
+  max-width: 412px;
+  min-height: 732px;
+  margin: 0 auto;
+  padding: 20px 18px 88px;
+  border-radius: 28px;
+  background: #ffffff;
+  border: 3px solid #1e293b;
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.18);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.reel-hook-banner {
+  background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  color: #fff;
+  padding: 10px 12px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.reel-hook-input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.reel-hook-input:focus {
+  outline: 1px dashed rgba(255, 255, 255, 0.6);
+}
+
+.studio-stt-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+}
+
+.chip-btn {
+  padding: 3px 8px;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.chip-btn.active {
+  background: #facc15;
+  color: #0f172a;
+  border-color: #facc15;
+  font-weight: 700;
+}
+
 .site-header {
   padding-bottom: 8px;
   border-bottom: 1px solid #e0e4ea;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 8px;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.studio-toggle {
+  padding: 5px 10px;
+  font-size: 0.82rem;
+  border-radius: 999px;
+  background: #eef2ff;
+  border-color: #c7d2fe;
+  color: #1e40af;
+  font-weight: 600;
+}
+
+.studio-toggle.active {
+  background: #dc2626;
+  border-color: #dc2626;
+  color: #fff;
 }
 
 .header-user {
@@ -74,6 +161,11 @@ body {
 h1 {
   margin: 0;
   font-size: 1.8rem;
+}
+
+h2,
+h3 {
+  margin: 0;
 }
 
 button {
@@ -114,10 +206,28 @@ button.subtle {
 .exercise-head {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   flex-wrap: wrap;
   color: #667085;
   font-size: 0.9rem;
+}
+
+.snowball-new-part {
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #dcfce7;
+  color: #166534;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.snowball-badge {
+  font-size: 0.8rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #dbeafe;
+  color: #1e40af;
+  font-weight: 600;
 }
 
 .modality-trail {
@@ -179,6 +289,28 @@ button.subtle {
   color: #14663a;
 }
 
+/* AngloMonster funny trap reaction bubble */
+.monster-bubble {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #fef3c7;
+  border: 2px solid #f59e0b;
+  color: #78350f;
+  font-weight: 600;
+}
+
+.monster-bubble p {
+  margin: 0;
+}
+
+.monster-avatar {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
 .feedback {
   margin: 0;
   color: #a12626;
@@ -221,7 +353,7 @@ button.subtle {
   font-weight: 600;
 }
 
-/* complete screen */
+/* complete screen & UGC section */
 .growth {
   display: flex;
   align-items: center;
@@ -250,6 +382,28 @@ button.subtle {
   margin: 0;
 }
 
+.rank-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #fef08a;
+  color: #854d0e;
+}
+
+.challenge-banner {
+  padding: 12px;
+  border-radius: 10px;
+  background: #eff6ff;
+  border: 1px solid #93c5fd;
+  color: #1e3a8a;
+}
+
+.challenge-banner.win {
+  background: #dcfce7;
+  border-color: #86efac;
+  color: #14532d;
+}
+
 .summary {
   border-collapse: collapse;
   width: 100%;
@@ -275,6 +429,93 @@ button.subtle {
   text-align: center;
 }
 
+.ugc-publish-box {
+  padding: 16px;
+  border-radius: 12px;
+  background: #fff;
+  border: 1px solid #dbeafe;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.ugc-comment-input,
+.share-box input,
+.creator-form input {
+  font: inherit;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #c7cdd6;
+  width: 100%;
+}
+
+.ugc-actions,
+.creator-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ugc-feed {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.ugc-feed-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ugc-feed-card {
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ugc-feed-top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rank-pill {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 6px;
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.ugc-feed-growth {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #334155;
+}
+
+.ugc-feed-comment {
+  margin: 0;
+  color: #475569;
+}
+
+.like-btn {
+  align-self: flex-start;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  border-radius: 999px;
+}
+
 /* title screen: mode + unit pickers */
 .mode-picker {
   display: flex;
@@ -294,6 +535,12 @@ button.subtle {
   color: #fff;
 }
 
+.ugc-creator-btn {
+  border-color: #2563eb;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
 .unit-list {
   list-style: none;
   margin: 0;
@@ -306,6 +553,50 @@ button.subtle {
 .unit-option {
   width: 100%;
   text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.reel-hook-preview {
+  margin: 0;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #eff6ff;
+  color: #1e40af;
+  font-weight: 600;
+}
+
+/* creator screen */
+.creator-form,
+.creator-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.creator-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-weight: 600;
+}
+
+.creator-step-card {
+  padding: 12px;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #e0e4ea;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.creator-step-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 /* dictionary screen */
